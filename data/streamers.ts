@@ -1,0 +1,48 @@
+import { Streamer } from "@/types";
+
+export const streamers: Streamer[] = [
+  {
+    id: 1,
+    name: "xProtoplays",
+    handle: "xprotoplays",
+    game: "CS2",
+    platform: "twitch",
+    viewers: 1240,
+    isLive: true,
+    avatar: "/images/streamer-1.jpg",
+    followers: "45.2K",
+  },
+  {
+    id: 2,
+    name: "NovaMira",
+    handle: "novamira_",
+    game: "VALORANT",
+    platform: "twitch",
+    viewers: 876,
+    isLive: true,
+    avatar: "/images/streamer-2.jpg",
+    followers: "32.8K",
+  },
+  {
+    id: 3,
+    name: "ZeroPulse",
+    handle: "zeropulse",
+    game: "Overwatch 2",
+    platform: "youtube",
+    viewers: 0,
+    isLive: false,
+    avatar: "/images/streamer-3.jpg",
+    followers: "18.1K",
+  },
+  {
+    id: 4,
+    name: "IronDrift",
+    handle: "irondrift_gg",
+    game: "Marvel Rivals",
+    platform: "tiktok",
+    viewers: 0,
+    isLive: false,
+    avatar: "/images/streamer-4.jpg",
+    followers: "67.5K",
+  },
+];
