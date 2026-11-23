@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "tagline": "伝説が生まれる場所",
+    "description": "Gamer's Exileは、ゲーマー、配信者、eスポーツプレイヤーのためのグローバルコミュニティです。大会、クリエイターコラボ、そしてあらゆるスキルレベル・ジャンルのプレイヤーが集まる、トキシックのない居場所を提供しています。",
+    "keywords": [
+      "ゲームコミュニティ",
+      "eスポーツ コミュニティ",
+      "ゲーム Discordサーバー",
+      "eスポーツ 大会",
+      "配信者 コミュニティ",
+      "クリエイター コミュニティ",
+      "Gamer's Exile"
+    ]
+  },
+  "skipToContent": "本文へスキップ",
+  "language": "言語",
+  "auth": {
+    "signIn": "ログイン",
+    "signUp": "新規登録",
+    "account": "アカウント"
+  },
+  "nav": {
+    "home": "ホーム",
+    "tournaments": "大会",
+    "creators": "クリエイター",
+    "teams": "チーム",
+    "clips": "クリップ",
+    "leaderboard": "ランキング",
+    "winners": "当選者",
+    "community": "コミュニティ",
+    "join": "参加する",
+    "more": "その他",
+    "primaryLabel": "メイン",
+    "menu": "メニュー",
+    "openMenu": "メニューを開く",
+    "closeMenu": "メニューを閉じる",
+    "siteMenu": "サイトメニュー"
+  },
+  "cta": {
+    "joinDiscord": "Discordに参加",
+    "joinTheDiscord": "Discordに参加する",
+    "freeLine": "永久無料・審査なし・全スキルレベル歓迎"
+  },
+  "brand": {
+    "homeLabel": "{name} — ホーム",
+    "emblemAlt": "Gamer's Exileのエンブレム"
+  },
+  "footer": {
+    "explore": "サイトマップ",
+    "community": "コミュニティ",
+    "discordServer": "Discordサーバー",
+    "tournamentSchedule": "大会スケジュール",
+    "creatorRoster": "クリエイター一覧",
+    "faq": "よくある質問",
+    "getInTouch": "お問い合わせ",
+    "contactLead": "提携、取材、大会に関するお問い合わせはこちら。",
+    "rights": "© {year} {name}. All rights reserved."
+  },
+  "beacon": {
+    "label": "Discordに参加",
+    "ariaLabel": "Gamer's ExileのDiscordサーバーに参加（新しいタブで開きます）"
+  },
+  "placeholderNotice": {
+    "title": "開発者向けのお知らせ",
+    "body": "SNSリンク（Twitch、YouTube、X、TikTok）は仮のものです。{file}に正しいURLを設定してから、{flag}を削除してください。",
+    "dismiss": "閉じる"
+  },
+  "countdown": {
+    "days": "日",
+    "hours": "時間",
+    "minutes": "分",
+    "seconds": "秒",
+    "underway": "開催中",
+    "ariaLabel": "この大会の開始までの残り時間"
+  },
+  "status": {
+    "comingSoon": "近日公開",
+    "liveNow": "ただいまライブ中",
+    "live": "ライブ",
+    "featured": "注目",
+    "complete": "終了",
+    "tba": "未定",
+    "toBeAnnounced": "後日発表"
+  },
+  "joinCta": {
+    "heading": "仲間はもうここにいる",
+    "lead": "Discordに参加して、遊ぶゲームを選んで、あいさつするだけ。その日の夜には誰かがマッチに誘ってくれます。これは本当です。",
+    "secondary": "参加するとどうなる？"
+  },
+  "genres": {
+    "tacticalFps": "タクティカルFPS",
+    "battleRoyale": "バトルロイヤル",
+    "moba": "MOBA",
+    "sports": "スポーツ",
+    "fighting": "格闘ゲーム",
+    "heroShooter": "ヒーローシューター",
+    "actionRpg": "アクションRPG",
+    "rpg": "RPG",
+    "mmorpg": "MMORPG",
+    "sandbox": "サンドボックス",
+    "coopShooter": "協力型シューター",
+    "everythingElse": "その他いろいろ"
+  },
+  "platforms": {
+    "PC": "PC",
+    "Console": "家庭用ゲーム機",
+    "Mobile": "モバイル"
+  },
+  "social": {
+    "onPlatform": "{platform}の{name}"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Rejoindre",
+    "description": "Rejoins Gamer's Exile. Gratuit pour toujours, sans candidature, tous les niveaux et toutes les plateformes sont les bienvenus. Trois étapes et tu es dans une squad ce soir."
+  },
+  "header": {
+    "eyebrow": "Rejoindre",
+    "title": "Trois étapes et tu es des nôtres",
+    "lead": "Gratuit pour toujours. Pas de candidature, pas d'entretien, pas de test de niveau. Juste une invitation Discord et une communauté qui te parlera vraiment."
+  },
+  "steps": {
+    "discord": {
+      "title": "Rejoins le Discord",
+      "body": "Un clic, pas de formulaire de candidature ni d'entretien. L'invitation t'emmène directement dans le salon de bienvenue."
+    },
+    "roles": {
+      "title": "Lis les règles, choisis tes rôles",
+      "body": "Deux minutes. Choisis les jeux auxquels tu joues et les pings que tu veux, et les bons salons apparaissent pour toi."
+    },
+    "intro": {
+      "title": "Dis bonjour dans les présentations",
+      "body": "Écris une ligne sur ce à quoi tu joues. Quelqu'un t'invitera dans une squad le soir même — ça, c'est garanti."
+    }
+  },
+  "door": {
+    "title": "La porte est ouverte",
+    "body": "Un clic. Tu arrives dans le salon de bienvenue, tu choisis tes jeux, et tu as déjà un programme pour ce soir."
+  },
+  "belonging": {
+    "eyebrow": "Qui a sa place ici",
+    "title": "Si tu joues, tu es qualifié",
+    "lead": "C'est la seule condition d'entrée. Voici ce que ça veut dire concrètement.",
+    "items": {
+      "skill": {
+        "title": "Tous les niveaux",
+        "body": "De Bronze à Radiant, de la première installation à cinq mille heures de jeu. Les deux extrêmes se retrouvent dans les mêmes salons vocaux presque tous les soirs."
+      },
+      "platform": {
+        "title": "Toutes les plateformes",
+        "body": "PC, console, portable, mobile. Les lobbies crossplay sont la norme, et personne n'est laissé de côté à cause de son matos."
+      },
+      "genre": {
+        "title": "Tous les genres",
+        "body": "Shooters compétitifs et jeux de ferme cosy cohabitent sur le même serveur. Chacun a ses salons dédiés, et personne ne se moque de l'autre."
+      },
+      "timezone": {
+        "title": "Tous les fuseaux horaires",
+        "body": "Une communauté vraiment mondiale, ça veut dire que les noctambules d'ici sont l'après-midi de quelqu'un d'autre. Tu trouveras toujours des gens réveillés."
+      }
+    }
+  },
+  "rules": {
+    "eyebrow": "Règles de la maison",
+    "title": "Courtes, et vraiment appliquées",
+    "note": "La liste complète se trouve sur le serveur. Elle n'a jamais eu besoin d'être plus longue que ça.",
+    "items": [
+      "Traite tout le monde comme un coéquipier, parce que tôt ou tard, ce sera le cas.",
+      "Le trash talk en partie, ça passe. Les attaques personnelles, les insultes et le harcèlement, non.",
+      "Pas de spam d'autopromo en dehors des salons créateurs.",
+      "Pas de gatekeeping. Tout le monde a été nouveau un jour, toi compris.",
+      "Si quelque chose tourne mal, ping un modo avec un clip ou une capture d'écran."
+    ]
+  },
+  "elsewhere": {
+    "eyebrow": "Ailleurs",
+    "title": "Retrouve-nous partout ailleurs"
+  }
+}

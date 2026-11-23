@@ -1,0 +1,51 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // Must match the Worker that serves gamersexile.net. Rename if the
+  // existing Worker in the Cloudflare dashboard has a different name.
+  "name": "gamersexile",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-11-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "services": [
+    // Self-reference used by OpenNext for caching; name must equal "name".
+    { "binding": "WORKER_SELF_REFERENCE", "service": "gamersexile" }
+  ],
+  "d1_databases": [
+    {
+      // Teams, clips, reactions, reports, profiles.
+      // Create with:  npx wrangler d1 create gamersexile
+      // then paste the printed database_id here.
+      "binding": "DB",
+      "database_name": "gamersexile",
+      "database_id": "00000000-0000-0000-0000-000000000000",
+      "migrations_dir": "migrations"
+    }
+  ],
+  "r2_buckets": [
+    {
+      // Uploaded clips and their thumbnails.
+      // Create with:  npx wrangler r2 bucket create gamersexile-clips
+      "binding": "CLIPS",
+      "bucket_name": "gamersexile-clips"
+    },
+    {
+      // OpenNext incremental cache (ISR: leaderboard refresh etc).
+      // Create with:  npx wrangler r2 bucket create gamersexile-opennext-cache
+      "binding": "NEXT_INC_CACHE_R2_BUCKET",
+      "bucket_name": "gamersexile-opennext-cache"
+    }
+  ],
+  "images": {
+    "binding": "IMAGES"
+  },
+  "vars": {
+    // Public values. Secrets (CLERK_SECRET_KEY) are set with
+    //   npx wrangler secret put CLERK_SECRET_KEY
+    "MEE6_GUILD_ID": ""
+  },
+  "observability": { "enabled": true }
+}

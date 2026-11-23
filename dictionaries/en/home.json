@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "description": "Gamer's Exile is a global community for gamers, streamers and esports players. Tournaments, creator collabs, and a no-toxicity home for every skill level and every genre."
+  },
+  "hero": {
+    "eyebrow": "Est. Global Community",
+    "headline": ["Where", "Legends", "Are", "Made"],
+    "highlightIndex": 1,
+    "lead": "A home for gamers, streamers and esports players who live and breathe competition, creativity and connection. Every skill level, every genre, every platform.",
+    "ctaPrimary": "Join the Discord",
+    "ctaSecondary": "Explore Tournaments",
+    "scroll": "Scroll",
+    "soon": "Soon",
+    "highlights": {
+      "members": "Members",
+      "tournaments": "Tournaments",
+      "creators": "Creators"
+    }
+  },
+  "band": ["All Games Welcome", "No Toxicity", "Every Skill Level", "Tournaments Every Week"],
+  "pillars": {
+    "eyebrow": "What We Do",
+    "title": "Four Pillars, One Community",
+    "lead": "Competition, creation, breadth and friendship. Everything we run comes back to one of these.",
+    "explore": "Explore",
+    "items": {
+      "esports": {
+        "title": "Esports & Tournaments",
+        "body": "Competitive brackets across a rotating slate of titles. Test your skill, climb the ranks, and earn a name that means something inside these walls."
+      },
+      "streaming": {
+        "title": "Streaming & Creation",
+        "body": "A launchpad for streamers and creators. Collabs, shoutouts, raid trains, and a community that actually turns up to watch, chat and grow with you."
+      },
+      "games": {
+        "title": "All Games Welcome",
+        "body": "We are not locked to one title. Battle royales, FPS, MOBAs, RPGs, fighters and indie gems — if you play it, someone here plays it too."
+      },
+      "community": {
+        "title": "Community & Friendship",
+        "body": "Beyond the games: reliable teammates, new friends, and lasting connections with people who understand the grind without needing it explained."
+      }
+    }
+  },
+  "featured": {
+    "eyebrow": "Next Up",
+    "title": "The Main Event",
+    "bracketOpensIn": "Bracket opens in",
+    "prizePool": "Prize pool",
+    "teams": "Teams",
+    "format": "Format",
+    "viewBracket": "View Bracket",
+    "howToEnter": "How to Enter",
+    "emptyBody": "The next main event is being planned. The game, date and prize pool will be announced in the Discord first — take the tournament role to get the ping when registration opens.",
+    "getNotified": "Get Notified in Discord"
+  },
+  "spotlight": {
+    "eyebrow": "Creator Spotlight",
+    "title": "The People Behind the Streams",
+    "lead": "Streamers, editors and competitors building something of their own — with a community that actually turns up.",
+    "leadEmpty": "The first creators are being added. Streamers, editors and competitors building something of their own — with a community that actually turns up.",
+    "becomeCreator": "Become a Creator",
+    "fullRoster": "Full Roster"
+  },
+  "games": {
+    "eyebrow": "All Games Welcome",
+    "title": "We Are Not Locked to One Title",
+    "lead": "Battle royales, tactical shooters, MOBAs, fighters, RPGs and indie gems. If you play it, someone here plays it too.",
+    "footnote": "…and whatever the server talks someone into buying this week."
+  },
+  "culture": {
+    "quote": "Respect and inclusivity come first. New members are welcomed, veterans mentor newcomers, and everyone's grind is celebrated — win or lose.",
+    "voiceChannels": "Our voice channels are always buzzing. There is nearly always someone looking to team up, talk strategy, or just decompress after a long match — whatever hour you keep."
+  },
+  "og": {
+    "lead": "Tournaments, streamers and a no-toxicity home for gamers of every skill level, genre and platform.",
+    "footer": "Esports · Streaming · Community"
+  }
+}

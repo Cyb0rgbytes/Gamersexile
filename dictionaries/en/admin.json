@@ -1,0 +1,25 @@
+{
+  "clips": {
+    "metaTitle": "Clip moderation",
+    "eyebrow": "Moderation",
+    "title": "Clip Moderation",
+    "lead": "Hidden clips and everything with reports, most reported first. Clips hide themselves automatically at {threshold} reports.",
+    "empty": "Nothing to review. The queue is clean.",
+    "status": {
+      "published": "Published",
+      "hidden": "Hidden"
+    },
+    "reports": "{count} reports",
+    "noReports": "No reports",
+    "uploader": "Uploader: {name}",
+    "view": "Open clip",
+    "restore": "Restore",
+    "restoreReset": "Restore & clear reports",
+    "dismiss": "Dismiss reports",
+    "hide": "Hide",
+    "delete": "Delete",
+    "deleteConfirm": "Delete this clip and its files permanently?",
+    "working": "Working…",
+    "done": "Done"
+  }
+}

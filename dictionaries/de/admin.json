@@ -1,0 +1,25 @@
+{
+  "clips": {
+    "metaTitle": "Clip-Moderation",
+    "eyebrow": "Moderation",
+    "title": "Clip-Moderation",
+    "lead": "Ausgeblendete Clips und alles mit Meldungen, die meistgemeldeten zuerst. Ab {threshold} Meldungen werden Clips automatisch ausgeblendet.",
+    "empty": "Nichts zu prüfen. Die Warteschlange ist leer.",
+    "status": {
+      "published": "Veröffentlicht",
+      "hidden": "Ausgeblendet"
+    },
+    "reports": "{count} Meldungen",
+    "noReports": "Keine Meldungen",
+    "uploader": "Hochgeladen von: {name}",
+    "view": "Clip öffnen",
+    "restore": "Wiederherstellen",
+    "restoreReset": "Wiederherstellen & Meldungen löschen",
+    "dismiss": "Meldungen verwerfen",
+    "hide": "Ausblenden",
+    "delete": "Löschen",
+    "deleteConfirm": "Diesen Clip samt Dateien endgültig löschen?",
+    "working": "Wird bearbeitet…",
+    "done": "Erledigt"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "clips": {
+    "metaTitle": "Moderación de clips",
+    "eyebrow": "Moderación",
+    "title": "Moderación de clips",
+    "lead": "Clips ocultos y todo lo que tiene reportes, primero los más reportados. Los clips se ocultan automáticamente al llegar a {threshold} reportes.",
+    "empty": "Nada que revisar. La cola está limpia.",
+    "status": {
+      "published": "Publicado",
+      "hidden": "Oculto"
+    },
+    "reports": "Reportes: {count}",
+    "noReports": "Sin reportes",
+    "uploader": "Subido por: {name}",
+    "view": "Abrir clip",
+    "restore": "Restaurar",
+    "restoreReset": "Restaurar y borrar reportes",
+    "dismiss": "Descartar reportes",
+    "hide": "Ocultar",
+    "delete": "Eliminar",
+    "deleteConfirm": "¿Eliminar este clip y sus archivos para siempre?",
+    "working": "Procesando…",
+    "done": "Hecho"
+  }
+}

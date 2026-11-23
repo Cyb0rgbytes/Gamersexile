@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "排行榜 — 经验值最高的成员",
+    "description": "Gamer's Exile Discord 排行榜：按 MEE6 等级和经验值排名的最活跃成员。在服务器里聊天、游戏、组队，一起冲榜。"
+  },
+  "header": {
+    "eyebrow": "排行榜",
+    "title": "番付榜。在服务器中赢得。",
+    "lead": "按 MEE6 等级和经验值排名的最活跃成员。每一条消息、每一次比赛报点、每一场深夜语音都算数——忠诚会体现在这里。"
+  },
+  "podium": {
+    "eyebrow": "前三名",
+    "title": "领奖台",
+    "first": "第 1 名",
+    "second": "第 2 名",
+    "third": "第 3 名"
+  },
+  "table": {
+    "eyebrow": "排名",
+    "title": "前 100 名",
+    "caption": "按 MEE6 等级和总经验值排名的服务器成员",
+    "rank": "排名",
+    "member": "成员",
+    "level": "等级",
+    "xp": "经验值",
+    "progress": "下一级",
+    "messages": "消息数",
+    "progressLabel": "距 {next} 级：{current} / {needed} XP",
+    "searchLabel": "搜索成员",
+    "searchPlaceholder": "按名字搜索…",
+    "noResults": "没有成员匹配“{query}”。",
+    "showing": "显示 {count} / {total}"
+  },
+  "levelShort": "Lv {level}",
+  "xpSuffix": "{xp} XP",
+  "messagesSuffix": "{count} 条消息",
+  "lastUpdated": "最后更新：{time}",
+  "refreshNote": "大约每 10 分钟刷新一次。",
+  "rewards": {
+    "eyebrow": "身份组奖励",
+    "title": "等级解锁内容",
+    "lead": "达到这些等级后，MEE6 会自动为你分配身份组。",
+    "item": "达到 {level} 级"
+  },
+  "fullBoard": "在 MEE6 查看完整排行榜",
+  "footnote": "排名数据来自我们 Discord 中的 MEE6 机器人。经验值通过聊天获得——刷屏不计入，消息之间还有冷却时间。",
+  "fallback": {
+    "notConfiguredTitle": "排行榜即将上线",
+    "notConfiguredBody": "实时排名正在接入中。在此之前，完整排行榜可在 MEE6 上查看。",
+    "unavailableTitle": "排名暂时无法显示",
+    "unavailableBody": "暂时无法连接到 MEE6。请稍后再试——或直接在 MEE6 上查看完整排行榜。",
+    "cta": "打开 MEE6 排行榜"
+  },
+  "empty": "还没有人获得经验值。来做第一个吧。",
+  "cta": {
+    "heading": "今晚就开始赚经验",
+    "lead": "加入 Discord，打个招呼，跳进语音频道。每一次聊天都会让你在番付榜上更进一步。"
+  }
+}

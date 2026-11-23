@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "Créateurs",
+    "description": "Les streamers, monteurs et compétiteurs de Gamer's Exile. Collabs, raid trains, soutien pour tes clips et retours honnêtes pour les créateurs à chaque étape."
+  },
+  "header": {
+    "eyebrow": "Créateurs",
+    "title": "Un tremplin, pas un classement",
+    "lead": "Des streamers, monteurs et compétiteurs qui construisent leur propre projet — soutenus par une communauté qui vient vraiment regarder, chatter et grandir avec eux."
+  },
+  "live": {
+    "one": "{names} est en live en ce moment.",
+    "other": "{names} sont en live en ce moment."
+  },
+  "roster": {
+    "eyebrow": "Le roster",
+    "title": "Qui tu trouveras ici",
+    "lead": "Filtre selon ce qu'ils font. Tous ceux de cette liste ont commencé quelque part, et la plupart ont commencé ici.",
+    "leadEmpty": "Le roster est en cours de constitution. Les premiers streamers, créateurs et joueurs seront annoncés ici et sur le Discord."
+  },
+  "filters": {
+    "groupLabel": "Filtrer les créateurs par rôle",
+    "all": "Tous",
+    "streamer": "Streamers",
+    "content": "Créateurs",
+    "player": "Joueurs",
+    "founder": "Fondateurs",
+    "showing": "{shown} créateurs affichés sur {total}",
+    "empty": "Aucun créateur dans cette catégorie pour l'instant."
+  },
+  "roles": {
+    "streamer": "Streamer",
+    "content": "Créateur de contenu",
+    "player": "Joueur esport",
+    "founder": "Fondateur"
+  },
+  "card": {
+    "yourName": "Ton nom ici",
+    "slotOpen": "Place libre dans le roster",
+    "placeholderBody": "Le roster est en cours de constitution. Tu streames ou tu crées du contenu ? Prends le rôle créateur sur le Discord pour être pris en compte.",
+    "apply": "Postuler sur le Discord"
+  },
+  "perks": {
+    "eyebrow": "Ce qu'on propose",
+    "title": "Un vrai soutien, pas des promesses",
+    "lead": "Pas de clause d'exclusivité, pas de commission, pas de minimum de followers. Quatre choses qu'on fait pour chaque créateur du serveur.",
+    "items": {
+      "collabs": {
+        "title": "Collabs et raid trains",
+        "body": "Des raid trains programmés chaque semaine et un tableau de collabs où les membres s'associent pour des co-streams, des tournois et des challenge runs."
+      },
+      "chat": {
+        "title": "Un chat qui répond présent",
+        "body": "Des pings de live auxquels les gens répondent vraiment. Les nouveaux streamers trouvent ici leur premier vrai public au lieu de parler dans le vide."
+      },
+      "clips": {
+        "title": "Clips et shoutouts",
+        "body": "Tes meilleurs moments sont montés, postés et relayés sur les salons de la communauté. Un bon clip va plus loin qu'un coup de chance."
+      },
+      "feedback": {
+        "title": "Des retours, pas de la flatterie",
+        "body": "Des avis honnêtes sur ton overlay, ton son, ton rythme et tes miniatures, de la part de gens qui ont déjà fait les erreurs que tu t'apprêtes à faire."
+      }
+    }
+  },
+  "cta": {
+    "heading": "Tu veux rejoindre le roster ?",
+    "lead": "Rejoins le Discord et prends le rôle créateur. Poste ta chaîne dans le salon des créateurs et tu entres dans la rotation du raid train dès la même semaine."
+  }
+}

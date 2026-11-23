@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "Turniere",
+    "description": "Kompetitive Brackets bei Gamer's Exile. Kostenlose Teilnahme, offen für jedes Skill-Level und zuerst im Discord angekündigt."
+  },
+  "header": {
+    "eyebrow": "Turniere",
+    "title": "Teste deinen Skill. Mach dir einen Namen.",
+    "lead": "Brackets in wechselnden Titeln. Kostenlose Teilnahme, Schiedsrichter direkt auf dem Server und offen für jedes Skill-Level – von Neulingen bis zu den Leuten, die ständig gewinnen."
+  },
+  "live": {
+    "entrants": "{count} Teilnehmer",
+    "watch": "Im Discord zuschauen"
+  },
+  "upcoming": {
+    "eyebrow": "Demnächst",
+    "title": "Offene Brackets",
+    "lead": "Die Anmeldung öffnet im Discord etwa zwei Wochen vor jedem Start. Solo-Spieler können im selben Channel nach einer Squad fragen.",
+    "leadEmpty": "Die nächsten Brackets werden gerade geplant. Termine, Spiele und Preispools werden zuerst im Discord angekündigt – hol dir die Turnier-Rolle, damit du die Anmeldung nicht verpasst."
+  },
+  "enter": {
+    "eyebrow": "So nimmst du teil",
+    "title": "In vier Schritten in die Bracket",
+    "cta": "Im Discord anmelden",
+    "steps": {
+      "role": {
+        "title": "Hol dir die Turnier-Rolle",
+        "body": "Schnapp sie dir im Rollen-Channel, damit du Bracket-Pings und Änderungen am Zeitplan bekommst."
+      },
+      "register": {
+        "title": "Melde dich vor Anmeldeschluss an",
+        "body": "Trag dich im Anmelde-Channel ein. Solo-Spieler können im selben Thread nach einem Platz in einer Squad fragen."
+      },
+      "checkin": {
+        "title": "Check-in am Spieltag",
+        "body": "Der Check-in öffnet eine Stunde vor Bracket-Start. Verpasst du ihn, geht dein Platz an die Warteliste."
+      },
+      "play": {
+        "title": "Zocken",
+        "body": "Match-Räume, Schiedsrichter und Ergebnismeldung laufen alle über den Server. Bei Streitfällen entscheidet ein Mod, kein Twitter-Thread."
+      }
+    }
+  },
+  "records": {
+    "eyebrow": "Ruhmeshalle",
+    "title": "Bisherige Champions",
+    "caption": "Abgeschlossene Turniere mit Champions und Endergebnissen",
+    "columns": {
+      "tournament": "Turnier",
+      "game": "Spiel",
+      "champion": "Champion",
+      "runnerUp": "Zweiter",
+      "score": "Ergebnis"
+    },
+    "note": "Jeder Champion bekommt eine permanente Rolle auf dem Server und einen Platz auf dieser Liste."
+  },
+  "cta": {
+    "heading": "Glaubst du, du holst den Titel?",
+    "lead": "Die nächste Bracket öffnet bald. Tritt dem Discord bei, hol dir die Turnier-Rolle und trag dich ein."
+  },
+  "card": {
+    "format": "Format",
+    "teams": "Teams",
+    "prizePool": "Preispool",
+    "champion": "Champion",
+    "gameTba": "Spiel wird noch bekannt gegeben",
+    "announcedFirst": "Zuerst im Discord angekündigt"
+  },
+  "bracket": {
+    "eyebrow": "Bracket",
+    "title": "So wurde das letzte gewonnen",
+    "lead": "Die Finals-Bracket des letzten Events, Runde für Runde.",
+    "champion": "Champion",
+    "tbd": "Offen",
+    "roundLabel": "{round} – {count} Matches",
+    "roundLabelOne": "{round} – 1 Match",
+    "scrollHint": "Scroll die Bracket seitwärts, um spätere Runden zu sehen."
+  }
+}

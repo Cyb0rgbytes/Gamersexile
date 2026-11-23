@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "Community",
+    "description": "Who we are and how we behave. A no-toxicity gaming community with weekly events, mentorship for newcomers, and voice channels that are always busy."
+  },
+  "header": {
+    "eyebrow": "Community",
+    "title": "Built in a Voice Channel, Still Feels Like One",
+    "lead": "Beyond the games: reliable teammates, new friends, and lasting connections with people who understand the grind without needing it explained."
+  },
+  "who": {
+    "eyebrow": "Who We Are",
+    "title": "A Global Community With a Small-Server Feel",
+    "paragraphs": [
+      "Gamer's Exile started in a five-person voice channel and never lost the feeling of one. We are a diverse, global community bringing together casual players, hardcore competitors, content creators, and everyone in the wide space between.",
+      "Whether you are grinding ranked matches, building a streaming career, or just looking for people to squad up with on a Tuesday night, this was built for you. We believe gaming is best when it is shared — and our members prove that every single day."
+    ]
+  },
+  "values": {
+    "eyebrow": "Our Culture",
+    "title": "Four Things We Do Not Compromise On",
+    "lead": "Every community says it is welcoming. These are the specific behaviours we actually enforce.",
+    "items": {
+      "respect": {
+        "title": "Respect First",
+        "body": "Trash talk stays in the match. Everyone here is someone's teammate, and we treat them that way — in voice, in chat, and after a loss."
+      },
+      "noToxicity": {
+        "title": "A No-Toxicity Zone",
+        "body": "Harassment, slurs and deliberate tilting get you removed. Not warned repeatedly, not debated in modmail. Removed. The bar is the whole point."
+      },
+      "mentors": {
+        "title": "Veterans Mentor Newcomers",
+        "body": "Nobody gets gatekept for being new. Our veterans run coaching nights, VOD reviews and starter squads because someone once did it for them."
+      },
+      "celebrate": {
+        "title": "Every Grind Is Celebrated",
+        "body": "First win or first tournament title, Bronze to Radiant or a hundred-viewer milestone — it gets posted, and people cheer. Win or lose."
+      }
+    }
+  },
+  "rhythm": {
+    "eyebrow": "Weekly Rhythm",
+    "title": "There Is Always Something On",
+    "titleEmpty": "Activities & Events",
+    "lead": "Regular fixtures through the week, plus whatever spontaneously happens in voice at 2am. All times UTC.",
+    "leadEmpty": "The weekly schedule is being planned. Activities and events are announced in the Discord first, then listed here.",
+    "timesUtc": "Times in UTC",
+    "emptyBody": "Join the {discord} to hear first when activities are announced.",
+    "discord": "Discord"
+  },
+  "voice": {
+    "title": "The Voice Channels Never Really Empty",
+    "body": "Our voice channels are always buzzing. There is nearly always someone looking to team up, talk strategy, or just decompress after a long match — whatever hour you keep."
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Things People Ask Before Joining",
+    "items": [
+      {
+        "q": "Do I need to be good at games to join?",
+        "a": "No. We have Radiant players and people who installed their first shooter last week, and both get a squad. Skill decides which tournament bracket you enter, not whether you belong here."
+      },
+      {
+        "q": "How much does it cost?",
+        "a": "Nothing. Membership is free and always will be. There are no paid roles, no pay-to-enter tournaments, and no perks locked behind a subscription."
+      },
+      {
+        "q": "Which games do you actually play?",
+        "a": "Everything. The tournament slate rotates through the big competitive titles, but the server has channels for RPGs, MMOs, fighters, racing sims and indie games. If you bring a game nobody plays yet, you will usually find three people willing to try it."
+      },
+      {
+        "q": "I'm a streamer. What do I get out of this?",
+        "a": "Go-live pings that people respond to, a weekly raid train slot, clip and shoutout support across our channels, and honest feedback on your setup. We do not require exclusivity and we do not take a cut of anything."
+      },
+      {
+        "q": "How do I enter a tournament?",
+        "a": "Join the Discord, take the tournament role, and sign up in the registration channel before the bracket locks. Solo players can request a team in the same channel — we place a lot of squads that way."
+      },
+      {
+        "q": "What happens if someone is toxic?",
+        "a": "Report it to a mod with a screenshot or a clip. Harassment and slurs are a removal, not a warning cycle. Our moderators are active in voice, not just in text, which is where most of it actually happens."
+      }
+    ]
+  }
+}

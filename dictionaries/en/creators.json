@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "Creators",
+    "description": "The streamers, editors and competitors of Gamer's Exile. Collabs, raid trains, clip support and honest feedback for creators at every stage."
+  },
+  "header": {
+    "eyebrow": "Creators",
+    "title": "A Launchpad, Not a Leaderboard",
+    "lead": "Streamers, editors and competitors building something of their own — supported by a community that shows up to watch, chat and grow with them."
+  },
+  "live": {
+    "one": "{names} is streaming right now.",
+    "other": "{names} are streaming right now."
+  },
+  "roster": {
+    "eyebrow": "The Roster",
+    "title": "Who You'll Find Here",
+    "lead": "Filter by what they do. Everyone on this list started somewhere, and most of them started here.",
+    "leadEmpty": "The roster is being put together. The first streamers, creators and players will be announced here and in the Discord."
+  },
+  "filters": {
+    "groupLabel": "Filter creators by role",
+    "all": "Everyone",
+    "streamer": "Streamers",
+    "content": "Creators",
+    "player": "Players",
+    "founder": "Founders",
+    "showing": "Showing {shown} of {total} creators",
+    "empty": "No creators in this category yet."
+  },
+  "roles": {
+    "streamer": "Streamer",
+    "content": "Content Creator",
+    "player": "Esports Player",
+    "founder": "Founder"
+  },
+  "card": {
+    "yourName": "Your Name Here",
+    "slotOpen": "Roster slot open",
+    "placeholderBody": "The roster is being put together. Stream or make content? Take the creator role in the Discord to be considered.",
+    "apply": "Apply in the Discord"
+  },
+  "perks": {
+    "eyebrow": "What We Offer",
+    "title": "Support That Is Actually Support",
+    "lead": "No exclusivity clauses, no revenue cut, no follower minimum. Four things we do for every creator in the server.",
+    "items": {
+      "collabs": {
+        "title": "Collabs & Raid Trains",
+        "body": "Scheduled raid trains every week and a collab board where members pair up for co-streams, tournaments and challenge runs."
+      },
+      "chat": {
+        "title": "A Chat That Shows Up",
+        "body": "Go-live pings that people actually answer. New streamers get their first real audience here instead of talking to an empty room."
+      },
+      "clips": {
+        "title": "Clips & Shoutouts",
+        "body": "Your best moments get cut, posted and pushed across the community's channels. Good clips travel further than good luck."
+      },
+      "feedback": {
+        "title": "Feedback, Not Flattery",
+        "body": "Honest reviews of your overlay, audio, pacing and thumbnails from people who have already made the mistakes you are about to."
+      }
+    }
+  },
+  "cta": {
+    "heading": "Want to Be on the Roster?",
+    "lead": "Join the Discord and take the creator role. Post your channel in the creators channel and you're on the raid train rotation the same week."
+  }
+}

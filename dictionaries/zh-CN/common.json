@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "tagline": "传奇诞生之地",
+    "description": "Gamer's Exile 是一个面向玩家、主播和电竞选手的全球社区。这里有比赛、创作者联动，以及一个拒绝毒瘤、欢迎所有水平和所有游戏类型玩家的家。",
+    "keywords": [
+      "游戏社区",
+      "电竞社区",
+      "游戏 Discord 服务器",
+      "电竞比赛",
+      "主播社区",
+      "内容创作者社区",
+      "Gamer's Exile"
+    ]
+  },
+  "skipToContent": "跳到主要内容",
+  "language": "语言",
+  "auth": {
+    "signIn": "登录",
+    "signUp": "注册",
+    "account": "账号"
+  },
+  "nav": {
+    "home": "首页",
+    "tournaments": "比赛",
+    "creators": "创作者",
+    "teams": "战队",
+    "clips": "片段",
+    "leaderboard": "排行榜",
+    "winners": "获奖者",
+    "community": "社区",
+    "join": "加入",
+    "more": "更多",
+    "primaryLabel": "主导航",
+    "menu": "菜单",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单",
+    "siteMenu": "网站菜单"
+  },
+  "cta": {
+    "joinDiscord": "加入 Discord",
+    "joinTheDiscord": "加入 Discord",
+    "freeLine": "永久免费 · 无需申请 · 所有水平均可"
+  },
+  "brand": {
+    "homeLabel": "{name} — 首页",
+    "emblemAlt": "Gamer's Exile 徽标"
+  },
+  "footer": {
+    "explore": "探索",
+    "community": "社区",
+    "discordServer": "Discord 服务器",
+    "tournamentSchedule": "比赛日程",
+    "creatorRoster": "创作者名单",
+    "faq": "常见问题",
+    "getInTouch": "联系我们",
+    "contactLead": "合作、媒体或比赛相关咨询。",
+    "rights": "© {year} {name}。保留所有权利。"
+  },
+  "beacon": {
+    "label": "加入 Discord",
+    "ariaLabel": "加入 Gamer's Exile 的 Discord 服务器（在新标签页中打开）"
+  },
+  "placeholderNotice": {
+    "title": "开发提示",
+    "body": "社交链接（Twitch、YouTube、X、TikTok）目前是占位内容。请在 {file} 中设置真实链接，然后移除 {flag}。",
+    "dismiss": "关闭"
+  },
+  "countdown": {
+    "days": "天",
+    "hours": "时",
+    "minutes": "分",
+    "seconds": "秒",
+    "underway": "进行中",
+    "ariaLabel": "距离本场比赛开始的剩余时间"
+  },
+  "status": {
+    "comingSoon": "即将推出",
+    "liveNow": "正在直播",
+    "live": "直播中",
+    "featured": "精选",
+    "complete": "已结束",
+    "tba": "待定",
+    "toBeAnnounced": "待公布"
+  },
+  "joinCta": {
+    "heading": "你的队友已经在这里了",
+    "lead": "加入 Discord，选好你玩的游戏，打个招呼。当天晚上就会有人拉你开黑——这一点从不落空。",
+    "secondary": "加入后能做什么"
+  },
+  "genres": {
+    "tacticalFps": "战术 FPS",
+    "battleRoyale": "大逃杀",
+    "moba": "MOBA",
+    "sports": "体育",
+    "fighting": "格斗",
+    "heroShooter": "英雄射击",
+    "actionRpg": "动作 RPG",
+    "rpg": "RPG",
+    "mmorpg": "MMORPG",
+    "sandbox": "沙盒",
+    "coopShooter": "合作射击",
+    "everythingElse": "其他所有"
+  },
+  "platforms": {
+    "PC": "PC",
+    "Console": "主机",
+    "Mobile": "手机"
+  },
+  "social": {
+    "onPlatform": "{name} 的 {platform}"
+  }
+}

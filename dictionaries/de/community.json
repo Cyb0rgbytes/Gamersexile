@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "Community",
+    "description": "Wer wir sind und wie wir miteinander umgehen. Eine Gaming-Community ohne Toxicity, mit wöchentlichen Events, Mentoring für Neue und Voice-Channels, in denen immer was los ist."
+  },
+  "header": {
+    "eyebrow": "Community",
+    "title": "Entstanden in einem Voice-Channel – und fühlt sich immer noch so an",
+    "lead": "Mehr als nur Games: verlässliche Teammates, neue Freunde und echte Verbindungen mit Leuten, die den Grind verstehen, ohne dass man ihn erklären muss."
+  },
+  "who": {
+    "eyebrow": "Wer wir sind",
+    "title": "Eine globale Community mit dem Gefühl eines kleinen Servers",
+    "paragraphs": [
+      "Gamer's Exile hat in einem Voice-Channel mit fünf Leuten angefangen – und dieses Gefühl nie verloren. Wir sind eine vielfältige, globale Community aus Casual-Spielern, Hardcore-Competitors, Content Creators und allen dazwischen.",
+      "Ob du Ranked grindest, dir eine Streaming-Karriere aufbaust oder einfach Leute suchst, mit denen du am Dienstagabend squaden kannst – das hier ist für dich gemacht. Wir glauben, dass Gaming am besten ist, wenn man es teilt – und unsere Mitglieder beweisen das jeden einzelnen Tag."
+    ]
+  },
+  "values": {
+    "eyebrow": "Unsere Kultur",
+    "title": "Vier Dinge, bei denen wir keine Kompromisse machen",
+    "lead": "Jede Community behauptet, offen zu sein. Das hier sind die konkreten Regeln, die wir wirklich durchsetzen.",
+    "items": {
+      "respect": {
+        "title": "Respekt zuerst",
+        "body": "Trash Talk bleibt im Match. Jeder hier ist irgendwessen Teammate, und so behandeln wir uns auch – im Voice, im Chat und nach einer Niederlage."
+      },
+      "noToxicity": {
+        "title": "Eine Zone ohne Toxicity",
+        "body": "Belästigung, Beleidigungen und absichtliches Tilten führen zum Rauswurf. Nicht zu ständigen Verwarnungen, nicht zu Diskussionen per Modmail. Rauswurf. Genau darum geht's."
+      },
+      "mentors": {
+        "title": "Veteranen helfen Neuen",
+        "body": "Niemand wird ausgegrenzt, nur weil er neu ist. Unsere Veteranen veranstalten Coaching-Abende, VOD-Reviews und Starter-Squads – weil das früher auch jemand für sie getan hat."
+      },
+      "celebrate": {
+        "title": "Jeder Grind wird gefeiert",
+        "body": "Erster Sieg oder erster Turniertitel, von Bronze bis Radiant oder ein Meilenstein von hundert Zuschauern – es wird gepostet und gefeiert. Ob Sieg oder Niederlage."
+      }
+    }
+  },
+  "rhythm": {
+    "eyebrow": "Wochenrhythmus",
+    "title": "Irgendwas ist immer los",
+    "titleEmpty": "Aktivitäten & Events",
+    "lead": "Feste Termine unter der Woche – plus alles, was sich um 2 Uhr nachts spontan im Voice ergibt. Alle Zeiten in UTC.",
+    "leadEmpty": "Der Wochenplan wird gerade erstellt. Aktivitäten und Events werden zuerst im Discord angekündigt und dann hier gelistet.",
+    "timesUtc": "Zeiten in UTC",
+    "emptyBody": "Tritt dem {discord} bei, um als Erster von neuen Aktivitäten zu erfahren.",
+    "discord": "Discord"
+  },
+  "voice": {
+    "title": "Die Voice-Channels sind nie wirklich leer",
+    "body": "In unseren Voice-Channels ist immer was los. Fast immer sucht jemand Mitspieler, will Strategien besprechen oder nach einem langen Match einfach runterkommen – egal, zu welcher Uhrzeit du zockst."
+  },
+  "faq": {
+    "eyebrow": "Fragen",
+    "title": "Was Leute vor dem Beitritt fragen",
+    "items": [
+      {
+        "q": "Muss ich gut zocken können, um beizutreten?",
+        "a": "Nein. Bei uns gibt es Radiant-Spieler und Leute, die letzte Woche ihren ersten Shooter installiert haben – und beide finden eine Squad. Dein Skill entscheidet, in welche Turnier-Bracket du kommst, nicht, ob du hierhergehörst."
+      },
+      {
+        "q": "Was kostet das?",
+        "a": "Nichts. Die Mitgliedschaft ist kostenlos und bleibt es auch. Es gibt keine bezahlten Rollen, keine Turniere mit Startgebühr und keine Vorteile hinter einem Abo."
+      },
+      {
+        "q": "Welche Spiele zockt ihr eigentlich?",
+        "a": "Alles. Die Turniere wechseln durch die großen kompetitiven Titel, aber der Server hat Channels für RPGs, MMOs, Fighting Games, Rennsimulationen und Indie-Games. Wenn du ein Spiel mitbringst, das noch niemand spielt, findest du meistens drei Leute, die es ausprobieren wollen."
+      },
+      {
+        "q": "Ich bin Streamer. Was habe ich davon?",
+        "a": "Go-Live-Pings, auf die Leute auch reagieren, einen wöchentlichen Platz im Raid Train, Unterstützung mit Clips und Shoutouts in unseren Channels und ehrliches Feedback zu deinem Setup. Wir verlangen keine Exklusivität und kassieren bei nichts mit."
+      },
+      {
+        "q": "Wie melde ich mich für ein Turnier an?",
+        "a": "Tritt dem Discord bei, hol dir die Turnier-Rolle und melde dich im Anmelde-Channel an, bevor die Bracket geschlossen wird. Solo-Spieler können im selben Channel nach einem Team fragen – so stellen wir viele Squads zusammen."
+      },
+      {
+        "q": "Was passiert, wenn jemand toxisch ist?",
+        "a": "Melde es einem Mod mit Screenshot oder Clip. Belästigung und Beleidigungen bedeuten Rauswurf, keine Verwarnungsschleife. Unsere Mods sind im Voice aktiv, nicht nur im Text – denn dort passiert das meiste."
+      }
+    ]
+  }
+}

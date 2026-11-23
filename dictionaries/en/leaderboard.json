@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Leaderboard — Top Members by XP",
+    "description": "The Gamer's Exile Discord leaderboard: our most active members ranked by MEE6 level and XP. Chat, play and squad up in the server to climb the ranks."
+  },
+  "header": {
+    "eyebrow": "Leaderboard",
+    "title": "The Banzuke. Earned in the Server.",
+    "lead": "Our most active members, ranked by MEE6 level and XP. Every message, every match call-out and every late-night voice session counts — loyalty shows up here."
+  },
+  "podium": {
+    "eyebrow": "Top Three",
+    "title": "The Podium",
+    "first": "1st",
+    "second": "2nd",
+    "third": "3rd"
+  },
+  "table": {
+    "eyebrow": "Rankings",
+    "title": "Top 100",
+    "caption": "Server members ranked by MEE6 level and total XP",
+    "rank": "Rank",
+    "member": "Member",
+    "level": "Level",
+    "xp": "XP",
+    "progress": "Next level",
+    "messages": "Messages",
+    "progressLabel": "{current} of {needed} XP to level {next}",
+    "searchLabel": "Search members",
+    "searchPlaceholder": "Search by name…",
+    "noResults": "No member matches “{query}”.",
+    "showing": "Showing {count} of {total}"
+  },
+  "levelShort": "Lv {level}",
+  "xpSuffix": "{xp} XP",
+  "messagesSuffix": "{count} messages",
+  "lastUpdated": "Last updated {time}",
+  "refreshNote": "Refreshes about every 10 minutes.",
+  "rewards": {
+    "eyebrow": "Role Rewards",
+    "title": "What Levels Unlock",
+    "lead": "Hit these levels and MEE6 hands you the role automatically.",
+    "item": "Reach level {level}"
+  },
+  "fullBoard": "View the full leaderboard on MEE6",
+  "footnote": "Rankings come from the MEE6 bot in our Discord. XP is earned by chatting — spam doesn't count, and there's a cooldown between messages.",
+  "fallback": {
+    "notConfiguredTitle": "Leaderboard Loading Soon",
+    "notConfiguredBody": "The live rankings are being connected. Until then, the full leaderboard lives on MEE6.",
+    "unavailableTitle": "Rankings Unavailable Right Now",
+    "unavailableBody": "We couldn't reach MEE6 just now. Please try again later — or check the full leaderboard on MEE6 directly.",
+    "cta": "Open the MEE6 leaderboard"
+  },
+  "empty": "No one has earned XP yet. Be the first.",
+  "cta": {
+    "heading": "Start Earning XP Tonight",
+    "lead": "Join the Discord, say hello, and jump into voice. Every conversation moves you up the banzuke."
+  }
+}
