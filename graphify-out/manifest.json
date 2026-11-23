@@ -1,0 +1,1694 @@
+{
+  ".claude/settings.json": {
+    "mtime": 1795470008.8068514,
+    "seen": 1795470023.0817876,
+    "ast_hash": "a4e84a1bf1cb454be4a9616a8a42dbac",
+    "semantic_hash": ""
+  },
+  ".continue/agents/new-config.yaml": {
+    "mtime": 1795469571.4360123,
+    "seen": 1795470023.081794,
+    "ast_hash": "d8b2f9e8b81ad5f31e5aefd39762f4fb",
+    "semantic_hash": ""
+  },
+  "app/[lang]/[...missing]/page.tsx": {
+    "mtime": 1795455503.9395,
+    "seen": 1795470023.0817971,
+    "ast_hash": "8afed88ee373241ab57e7a021a2f467d",
+    "semantic_hash": ""
+  },
+  "app/[lang]/account/page.tsx": {
+    "mtime": 1795455630.0412784,
+    "seen": 1795470023.081799,
+    "ast_hash": "78889dd9791c2b88c0d536990db37b4e",
+    "semantic_hash": ""
+  },
+  "app/[lang]/admin/clips/page.tsx": {
+    "mtime": 1795455478.474373,
+    "seen": 1795470023.0818007,
+    "ast_hash": "3f2f018bd386dfc4590a08f7255e2141",
+    "semantic_hash": ""
+  },
+  "app/[lang]/clips/[id]/page.tsx": {
+    "mtime": 1795455455.107165,
+    "seen": 1795470023.081802,
+    "ast_hash": "05683bed6b37375e59566056dbd2d2b1",
+    "semantic_hash": ""
+  },
+  "app/[lang]/clips/new/page.tsx": {
+    "mtime": 1795455478.3628461,
+    "seen": 1795470023.0818036,
+    "ast_hash": "9b22544ff9ac6ae643cce53cb9a7d411",
+    "semantic_hash": ""
+  },
+  "app/[lang]/clips/page.tsx": {
+    "mtime": 1795455427.31225,
+    "seen": 1795470023.0818048,
+    "ast_hash": "f548ec8b2bab76db1dfb21e19aa6a485",
+    "semantic_hash": ""
+  },
+  "app/[lang]/community/page.tsx": {
+    "mtime": 1795455334.907027,
+    "seen": 1795470023.0818062,
+    "ast_hash": "e4d48f953ae91ab838d42d54bb597e8a",
+    "semantic_hash": ""
+  },
+  "app/[lang]/creators/page.tsx": {
+    "mtime": 1795455334.9055223,
+    "seen": 1795470023.0818071,
+    "ast_hash": "6a2a7944064e4b15d49aca80721845e9",
+    "semantic_hash": ""
+  },
+  "app/[lang]/error.tsx": {
+    "mtime": 1795455368.2284238,
+    "seen": 1795470023.081808,
+    "ast_hash": "91516293282a35034b62a46ea17d7f59",
+    "semantic_hash": ""
+  },
+  "app/[lang]/join/page.tsx": {
+    "mtime": 1795455334.9065225,
+    "seen": 1795470023.0818098,
+    "ast_hash": "f66b12fcb100697144531f47b763df13",
+    "semantic_hash": ""
+  },
+  "app/[lang]/layout.tsx": {
+    "mtime": 1795454520.2248065,
+    "seen": 1795470023.0818107,
+    "ast_hash": "6d4e3d2cb33350fea8e749055d5b1347",
+    "semantic_hash": ""
+  },
+  "app/[lang]/leaderboard/page.tsx": {
+    "mtime": 1795455060.1398797,
+    "seen": 1795470023.0818117,
+    "ast_hash": "6683645c38cba502d28649b5626465bf",
+    "semantic_hash": ""
+  },
+  "app/[lang]/not-found.tsx": {
+    "mtime": 1795455530.387594,
+    "seen": 1795470023.081813,
+    "ast_hash": "1732ae2ce48fe953df85f86e555e2af2",
+    "semantic_hash": ""
+  },
+  "app/[lang]/opengraph-image.tsx": {
+    "mtime": 1795455396.5574713,
+    "seen": 1795470023.081814,
+    "ast_hash": "862273a3e1b4f7c8e1f53fa5222ea52e",
+    "semantic_hash": ""
+  },
+  "app/[lang]/page.tsx": {
+    "mtime": 1795455271.7466874,
+    "seen": 1795470023.0818152,
+    "ast_hash": "9f2a3360948297711c410fad1a33712f",
+    "semantic_hash": ""
+  },
+  "app/[lang]/sign-in/[[...sign-in]]/page.tsx": {
+    "mtime": 1795455170.203292,
+    "seen": 1795470023.0818164,
+    "ast_hash": "8fe6f0e94adb92b0e3250f25874dd73a",
+    "semantic_hash": ""
+  },
+  "app/[lang]/sign-up/[[...sign-up]]/page.tsx": {
+    "mtime": 1795455170.2658346,
+    "seen": 1795470023.0818176,
+    "ast_hash": "478b8a194503daa2163624f6cd66a97c",
+    "semantic_hash": ""
+  },
+  "app/[lang]/teams/[slug]/page.tsx": {
+    "mtime": 1795455630.039774,
+    "seen": 1795470023.0818186,
+    "ast_hash": "0589061cdc33cf8a3405e33a8cc74357",
+    "semantic_hash": ""
+  },
+  "app/[lang]/teams/invite/[token]/page.tsx": {
+    "mtime": 1795455630.0412784,
+    "seen": 1795470023.0818195,
+    "ast_hash": "7f51f7832ce57844c73304be1d03416c",
+    "semantic_hash": ""
+  },
+  "app/[lang]/teams/new/page.tsx": {
+    "mtime": 1795455282.4987936,
+    "seen": 1795470023.081821,
+    "ast_hash": "d7853afafbee98498077a88a46ca71c9",
+    "semantic_hash": ""
+  },
+  "app/[lang]/teams/page.tsx": {
+    "mtime": 1795455638.1310477,
+    "seen": 1795470023.0818224,
+    "ast_hash": "6887e06bb3e90c429f4a5e631eeb1329",
+    "semantic_hash": ""
+  },
+  "app/[lang]/tournaments/page.tsx": {
+    "mtime": 1795455334.9045088,
+    "seen": 1795470023.0818238,
+    "ast_hash": "d66c864b28981f0a10c67e5dd74628f9",
+    "semantic_hash": ""
+  },
+  "app/[lang]/winners/page.tsx": {
+    "mtime": 1795455126.6571028,
+    "seen": 1795470023.0818248,
+    "ast_hash": "c44559a100135ddec705666433191ef7",
+    "semantic_hash": ""
+  },
+  "app/api/clips/[id]/thumb/route.ts": {
+    "mtime": 1795455124.3052416,
+    "seen": 1795470023.0818257,
+    "ast_hash": "af49cd9bdb75873bfcdad123d31091c6",
+    "semantic_hash": ""
+  },
+  "app/api/clips/[id]/video/route.ts": {
+    "mtime": 1795455124.2263355,
+    "seen": 1795470023.0818272,
+    "ast_hash": "0079e56bdeeb56dbf6a112c9984dbb4c",
+    "semantic_hash": ""
+  },
+  "app/api/clips/upload/[id]/complete/route.ts": {
+    "mtime": 1795455105.8771799,
+    "seen": 1795470023.081828,
+    "ast_hash": "0cfa4c2050859b9c08f6c1de9c9fda32",
+    "semantic_hash": ""
+  },
+  "app/api/clips/upload/[id]/part/[n]/route.ts": {
+    "mtime": 1795455095.3670537,
+    "seen": 1795470023.081829,
+    "ast_hash": "25971b15ff52b17143d02ba535e2a0d7",
+    "semantic_hash": ""
+  },
+  "app/api/clips/upload/[id]/route.ts": {
+    "mtime": 1795455095.275953,
+    "seen": 1795470023.0818305,
+    "ast_hash": "e47959ac86503279b40d7c3aef2b1d53",
+    "semantic_hash": ""
+  },
+  "app/api/clips/upload/[id]/thumb/route.ts": {
+    "mtime": 1795455095.4649537,
+    "seen": 1795470023.0818317,
+    "ast_hash": "a72d97d6945834fd55527ba6af408abd",
+    "semantic_hash": ""
+  },
+  "app/api/clips/upload/route.ts": {
+    "mtime": 1795455095.197191,
+    "seen": 1795470023.0818326,
+    "ast_hash": "7105c98b883e01c0cb5da4c0e6d5d0e0",
+    "semantic_hash": ""
+  },
+  "app/manifest.ts": {
+    "mtime": 1795313594.1117365,
+    "seen": 1795470023.081834,
+    "ast_hash": "6ca66f0213438844efc7640dada237ef",
+    "semantic_hash": ""
+  },
+  "app/robots.ts": {
+    "mtime": 1786287290.9684741,
+    "seen": 1795470023.081835,
+    "ast_hash": "53a88c6c98f837f048c49046024a11f5",
+    "semantic_hash": ""
+  },
+  "app/sitemap.ts": {
+    "mtime": 1795454684.0063317,
+    "seen": 1795470023.0818362,
+    "ast_hash": "abd5fed9a18615443c506d0a81a7f450",
+    "semantic_hash": ""
+  },
+  "cloudflare-env.d.ts": {
+    "mtime": 1795454565.793389,
+    "seen": 1795470023.0818374,
+    "ast_hash": "85098208a009eecd0513c52b02b8e6e7",
+    "semantic_hash": ""
+  },
+  "components/art/BrushKanji.tsx": {
+    "mtime": 1795308681.1347775,
+    "seen": 1795470023.0818386,
+    "ast_hash": "9d5460d2246cbaa4a5112d6973102271",
+    "semantic_hash": ""
+  },
+  "components/art/RedSun.tsx": {
+    "mtime": 1795308680.8816059,
+    "seen": 1795470023.0818396,
+    "ast_hash": "df474b50eb7ce140c3457fe7f8c97eea",
+    "semantic_hash": ""
+  },
+  "components/art/Sakura.tsx": {
+    "mtime": 1795308681.0717983,
+    "seen": 1795470023.0818408,
+    "ast_hash": "1fbb5a28b58657acae1efeae01b9cea0",
+    "semantic_hash": ""
+  },
+  "components/art/Skyline.tsx": {
+    "mtime": 1795308681.010071,
+    "seen": 1795470023.081842,
+    "ast_hash": "7f3dfb75b37f17540c334cb11759d213",
+    "semantic_hash": ""
+  },
+  "components/art/Torii.tsx": {
+    "mtime": 1795309267.6799662,
+    "seen": 1795470023.081843,
+    "ast_hash": "202e00bf8d853b572ed3ec6f8ec21d6e",
+    "semantic_hash": ""
+  },
+  "components/auth/AuthPanels.tsx": {
+    "mtime": 1795455145.032254,
+    "seen": 1795470023.0818439,
+    "ast_hash": "aa5f18e119b60b157d9b2f32d5b659ae",
+    "semantic_hash": ""
+  },
+  "components/auth/AuthShell.tsx": {
+    "mtime": 1795455154.9875424,
+    "seen": 1795470023.081845,
+    "ast_hash": "a05b7df47d803e31ca404dd5b53cc44d",
+    "semantic_hash": ""
+  },
+  "components/auth/DiscordForm.tsx": {
+    "mtime": 1795455429.186332,
+    "seen": 1795470023.0818467,
+    "ast_hash": "48e40c6fc31320183d248d0100dbacb7",
+    "semantic_hash": ""
+  },
+  "components/brand/GlitchText.tsx": {
+    "mtime": 1795308580.7653964,
+    "seen": 1795470023.081848,
+    "ast_hash": "2552109f7217eff8ec4631a35e1656a8",
+    "semantic_hash": ""
+  },
+  "components/brand/HankoSeal.tsx": {
+    "mtime": 1795308581.3622859,
+    "seen": 1795470023.081849,
+    "ast_hash": "fef4a81583199667ba84fcc2b30a5715",
+    "semantic_hash": ""
+  },
+  "components/brand/KanjiRail.tsx": {
+    "mtime": 1795309485.8044603,
+    "seen": 1795470023.08185,
+    "ast_hash": "cbc93badcbbe7aa582bb92dc6cc5f691",
+    "semantic_hash": ""
+  },
+  "components/brand/LogoLockup.tsx": {
+    "mtime": 1795455076.8490098,
+    "seen": 1795470023.0818515,
+    "ast_hash": "713c34c9ac0eb2ba092d1f8c2db40e4c",
+    "semantic_hash": ""
+  },
+  "components/brand/ServerLogo.tsx": {
+    "mtime": 1795455076.850515,
+    "seen": 1795470023.0818524,
+    "ast_hash": "95e8ffebc20f4de65c82dddd9ea259e5",
+    "semantic_hash": ""
+  },
+  "components/cards/CreatorCard.tsx": {
+    "mtime": 1795455185.159026,
+    "seen": 1795470023.0818534,
+    "ast_hash": "cfb67455c0153eaec8ea1e62f377b43e",
+    "semantic_hash": ""
+  },
+  "components/cards/TournamentCard.tsx": {
+    "mtime": 1795455155.957647,
+    "seen": 1795470023.0818546,
+    "ast_hash": "96592cc5eced63226a9fe27deca2a0b5",
+    "semantic_hash": ""
+  },
+  "components/clips/Avatar.tsx": {
+    "mtime": 1795455269.3349402,
+    "seen": 1795470023.0818555,
+    "ast_hash": "b9bbfc5050f6845e8a97509334c4897c",
+    "semantic_hash": ""
+  },
+  "components/clips/ClipActions.tsx": {
+    "mtime": 1795455332.706931,
+    "seen": 1795470023.0818567,
+    "ast_hash": "c5a17a1d2658d087b33d67bf66eb0248",
+    "semantic_hash": ""
+  },
+  "components/clips/ClipCard.tsx": {
+    "mtime": 1795455269.4015207,
+    "seen": 1795470023.0818577,
+    "ast_hash": "a6baa444faf47e091a0bc6d83aa79ca6",
+    "semantic_hash": ""
+  },
+  "components/clips/GalleryControls.tsx": {
+    "mtime": 1795455288.792586,
+    "seen": 1795470023.0818589,
+    "ast_hash": "ab09f6599cd69f6a79b4b16a97a24aec",
+    "semantic_hash": ""
+  },
+  "components/clips/ModerationActions.tsx": {
+    "mtime": 1795455404.6331072,
+    "seen": 1795470023.08186,
+    "ast_hash": "35f993f365cfbd14deb28578e427bbd7",
+    "semantic_hash": ""
+  },
+  "components/clips/ReactionBar.tsx": {
+    "mtime": 1795455308.0034206,
+    "seen": 1795470023.081861,
+    "ast_hash": "ce36092fc84c9838d00fdbd2c683e91d",
+    "semantic_hash": ""
+  },
+  "components/clips/ReportButton.tsx": {
+    "mtime": 1795455332.639218,
+    "seen": 1795470023.0818622,
+    "ast_hash": "a8cff96cf9f1f0f274f99462641d1e16",
+    "semantic_hash": ""
+  },
+  "components/clips/UploadForm.tsx": {
+    "mtime": 1795455388.157969,
+    "seen": 1795470023.0818634,
+    "ast_hash": "cec9139d3f8791d47c9d9f7bf4ccabf3",
+    "semantic_hash": ""
+  },
+  "components/i18n/LanguageSwitcher.tsx": {
+    "mtime": 1795455645.798208,
+    "seen": 1795470023.0818644,
+    "ast_hash": "15f0367ecc1d9cf33f00c1a10bf7a4c9",
+    "semantic_hash": ""
+  },
+  "components/i18n/LocaleLink.tsx": {
+    "mtime": 1795454348.444199,
+    "seen": 1795470023.0818658,
+    "ast_hash": "bdf241cf97449e1fbdc076296a8bf9f2",
+    "semantic_hash": ""
+  },
+  "components/layout/Footer.tsx": {
+    "mtime": 1795455076.8490098,
+    "seen": 1795470023.0818667,
+    "ast_hash": "ae41725c1888a1901863466c2749a99e",
+    "semantic_hash": ""
+  },
+  "components/layout/Header.tsx": {
+    "mtime": 1795455020.957074,
+    "seen": 1795470023.0818677,
+    "ast_hash": "a002f1356c924a8fc3c51547b897ceaf",
+    "semantic_hash": ""
+  },
+  "components/layout/HeaderAuth.tsx": {
+    "mtime": 1795455021.0308156,
+    "seen": 1795470023.0818691,
+    "ast_hash": "abac9f0bbeb39c95dc6c39876ae39a30",
+    "semantic_hash": ""
+  },
+  "components/layout/HeaderBar.tsx": {
+    "mtime": 1795455048.0521674,
+    "seen": 1795470023.08187,
+    "ast_hash": "76b706b8aabeb908dd7cc850c97b8971",
+    "semantic_hash": ""
+  },
+  "components/layout/MobileNav.tsx": {
+    "mtime": 1795455060.6899796,
+    "seen": 1795470023.0818713,
+    "ast_hash": "42093c7709a7a3f9e03b8cd55d30c94e",
+    "semantic_hash": ""
+  },
+  "components/layout/PageHeader.tsx": {
+    "mtime": 1795455137.796409,
+    "seen": 1795470023.0818725,
+    "ast_hash": "21e0dd003b68b99ac1d6da4c7d9d0ded",
+    "semantic_hash": ""
+  },
+  "components/layout/RouteLoading.tsx": {
+    "mtime": 1795455502.2746673,
+    "seen": 1795470023.0818737,
+    "ast_hash": "a5d44eb7fb786b02abadf05f1b4a7e6c",
+    "semantic_hash": ""
+  },
+  "components/leaderboard/LeaderboardFallback.tsx": {
+    "mtime": 1795455032.5728223,
+    "seen": 1795470023.0818746,
+    "ast_hash": "1b9cd0927a3d6ede9b1a73400866be59",
+    "semantic_hash": ""
+  },
+  "components/leaderboard/LeaderboardTable.tsx": {
+    "mtime": 1795455032.481528,
+    "seen": 1795470023.0818758,
+    "ast_hash": "2015a32c3ae5e71f6fbdcc72686b0764",
+    "semantic_hash": ""
+  },
+  "components/leaderboard/MemberAvatar.tsx": {
+    "mtime": 1795454989.698448,
+    "seen": 1795470023.0818768,
+    "ast_hash": "b6c50595a3f340a9c1ef820f90a7f18f",
+    "semantic_hash": ""
+  },
+  "components/leaderboard/Podium.tsx": {
+    "mtime": 1795455190.0805974,
+    "seen": 1795470023.081878,
+    "ast_hash": "86a8f1421d4fa7a53ca2b13a8fc1a1c2",
+    "semantic_hash": ""
+  },
+  "components/motion/BrushReveal.tsx": {
+    "mtime": 1795308706.1062243,
+    "seen": 1795470023.0818791,
+    "ast_hash": "ab4ed98d84ed42bd2323b39d366a2cd0",
+    "semantic_hash": ""
+  },
+  "components/motion/DrawOnScroll.tsx": {
+    "mtime": 1795309600.179363,
+    "seen": 1795470023.08188,
+    "ast_hash": "a9438a83ce4043863ef8073b16f0c5cb",
+    "semantic_hash": ""
+  },
+  "components/motion/ParallaxLayer.tsx": {
+    "mtime": 1795308706.1714756,
+    "seen": 1795470023.081881,
+    "ast_hash": "c4dc25257da33a35084c70a2bbad81bc",
+    "semantic_hash": ""
+  },
+  "components/providers/SmoothScroll.tsx": {
+    "mtime": 1795308621.0848465,
+    "seen": 1795470023.0818825,
+    "ast_hash": "0e350cbc04f0baf4c6ab0bbddfd83b8b",
+    "semantic_hash": ""
+  },
+  "components/sections/Bracket.tsx": {
+    "mtime": 1795455254.7841728,
+    "seen": 1795470023.0818834,
+    "ast_hash": "72cf9b691e4f5ecccbde7b9086f7d3de",
+    "semantic_hash": ""
+  },
+  "components/sections/CreatorRoster.tsx": {
+    "mtime": 1795455185.1600459,
+    "seen": 1795470023.0818844,
+    "ast_hash": "5150131fe86ad1b4be28ca9ae188103d",
+    "semantic_hash": ""
+  },
+  "components/sections/CreatorSpotlight.tsx": {
+    "mtime": 1795455254.7816577,
+    "seen": 1795470023.0818858,
+    "ast_hash": "ebaea5ca2f3dd5856dcc856c16325fdc",
+    "semantic_hash": ""
+  },
+  "components/sections/CultureStrip.tsx": {
+    "mtime": 1795455254.7816577,
+    "seen": 1795470023.081887,
+    "ast_hash": "8c13c326dd157b3c06cc0b1b983e8235",
+    "semantic_hash": ""
+  },
+  "components/sections/FeaturedTournament.tsx": {
+    "mtime": 1795455254.7841728,
+    "seen": 1795470023.081888,
+    "ast_hash": "5e87fa33d9cdad56b4d62dd31985da94",
+    "semantic_hash": ""
+  },
+  "components/sections/GamesGrid.tsx": {
+    "mtime": 1795455254.7826684,
+    "seen": 1795470023.0818894,
+    "ast_hash": "0b1338123ff0f251ccf29c9d1f026030",
+    "semantic_hash": ""
+  },
+  "components/sections/Hero.tsx": {
+    "mtime": 1795455121.46716,
+    "seen": 1795470023.0818903,
+    "ast_hash": "a8d967c49626627603bf5251ef26144d",
+    "semantic_hash": ""
+  },
+  "components/sections/JoinCta.tsx": {
+    "mtime": 1795455254.7826684,
+    "seen": 1795470023.0818915,
+    "ast_hash": "5dc0baccab181c99251b5ffe3d12ec2b",
+    "semantic_hash": ""
+  },
+  "components/sections/Pillars.tsx": {
+    "mtime": 1795455254.7836692,
+    "seen": 1795470023.0818925,
+    "ast_hash": "38b2bf9e19d36ba15f4219fbcdb5a47d",
+    "semantic_hash": ""
+  },
+  "components/teams/Avatar.tsx": {
+    "mtime": 1795455192.2028394,
+    "seen": 1795470023.081894,
+    "ast_hash": "398929d4741f03f3f81d3bbe799f9d0d",
+    "semantic_hash": ""
+  },
+  "components/teams/CaptainPanel.tsx": {
+    "mtime": 1795455630.039774,
+    "seen": 1795470023.0818956,
+    "ast_hash": "5e76b4afc1d55288d3f189a55c5c2a6b",
+    "semantic_hash": ""
+  },
+  "components/teams/ConfirmAction.tsx": {
+    "mtime": 1795455324.996553,
+    "seen": 1795470023.081897,
+    "ast_hash": "04502552632bb6f605a598a8a3f51cac",
+    "semantic_hash": ""
+  },
+  "components/teams/CopyButton.tsx": {
+    "mtime": 1795455300.8239172,
+    "seen": 1795470023.081898,
+    "ast_hash": "4c05d01cb2eaabdc92a2895cf7338965",
+    "semantic_hash": ""
+  },
+  "components/teams/JoinForm.tsx": {
+    "mtime": 1795455405.7612977,
+    "seen": 1795470023.081899,
+    "ast_hash": "628a644de749c9381e0da0863e7208bf",
+    "semantic_hash": ""
+  },
+  "components/teams/MemberPanel.tsx": {
+    "mtime": 1795455311.1130419,
+    "seen": 1795470023.0819004,
+    "ast_hash": "1da118f4a53c145e905b0915a4ac7755",
+    "semantic_hash": ""
+  },
+  "components/teams/TeamCard.tsx": {
+    "mtime": 1795455200.2775571,
+    "seen": 1795470023.0819013,
+    "ast_hash": "a654fad8a0e5f989a4590976d47f4c31",
+    "semantic_hash": ""
+  },
+  "components/teams/TeamDetailsForm.tsx": {
+    "mtime": 1795455273.474615,
+    "seen": 1795470023.0819025,
+    "ast_hash": "01673cf03cd616a3d38e4bef0e1d75b3",
+    "semantic_hash": ""
+  },
+  "components/teams/TeamFilters.tsx": {
+    "mtime": 1795455227.6612914,
+    "seen": 1795470023.0819037,
+    "ast_hash": "72e250e69f20538d3ca36af6de8b4d52",
+    "semantic_hash": ""
+  },
+  "components/teams/fields.tsx": {
+    "mtime": 1795455135.8831627,
+    "seen": 1795470023.0819046,
+    "ast_hash": "80e1dea4711c4397937a88eb20420314",
+    "semantic_hash": ""
+  },
+  "components/ui/Accordion.tsx": {
+    "mtime": 1795455137.7953947,
+    "seen": 1795470023.0819058,
+    "ast_hash": "b8345795b33908c9f10dc4acf1d569c4",
+    "semantic_hash": ""
+  },
+  "components/ui/Arrow.tsx": {
+    "mtime": 1795455003.4453442,
+    "seen": 1795470023.081907,
+    "ast_hash": "73bcb95e3e542ea5e00f2d54543a646e",
+    "semantic_hash": ""
+  },
+  "components/ui/Chip.tsx": {
+    "mtime": 1795308579.5848498,
+    "seen": 1795470023.0819082,
+    "ast_hash": "54176d40c563afd0fb4ef7649fa19abb",
+    "semantic_hash": ""
+  },
+  "components/ui/Countdown.tsx": {
+    "mtime": 1795455137.7938902,
+    "seen": 1795470023.0819092,
+    "ast_hash": "b68a87fcb3812cc2a28d476d35e28e03",
+    "semantic_hash": ""
+  },
+  "components/ui/DiscordBeacon.tsx": {
+    "mtime": 1795455096.092513,
+    "seen": 1795470023.0819104,
+    "ast_hash": "4158f7a1e0aacfb854f090b68b9b8df7",
+    "semantic_hash": ""
+  },
+  "components/ui/Marquee.tsx": {
+    "mtime": 1795455271.7466874,
+    "seen": 1795470023.0819113,
+    "ast_hash": "e45b2ef9745632349efa2d9a3e1f4587",
+    "semantic_hash": ""
+  },
+  "components/ui/NotchButton.tsx": {
+    "mtime": 1795454443.15994,
+    "seen": 1795470023.0819125,
+    "ast_hash": "ae2e1de4dd8b127b462938d51255e7d1",
+    "semantic_hash": ""
+  },
+  "components/ui/PlaceholderNotice.tsx": {
+    "mtime": 1795455096.5075743,
+    "seen": 1795470023.0819137,
+    "ast_hash": "02aacd8da3e33a664a4f4402248e03b3",
+    "semantic_hash": ""
+  },
+  "components/ui/PlaceholderNoticeBox.tsx": {
+    "mtime": 1795455096.9094326,
+    "seen": 1795470023.081915,
+    "ast_hash": "9e352145a893413a6e076b87190e505d",
+    "semantic_hash": ""
+  },
+  "components/ui/ReactionIcon.tsx": {
+    "mtime": 1795455239.6231482,
+    "seen": 1795470023.0819159,
+    "ast_hash": "376ad323da5945c14bdd404b6855ca4f",
+    "semantic_hash": ""
+  },
+  "components/ui/Reveal.tsx": {
+    "mtime": 1786286249.6335251,
+    "seen": 1795470023.0819173,
+    "ast_hash": "2e35a57b3abc042262db1df51b71fa04",
+    "semantic_hash": ""
+  },
+  "components/ui/RichText.tsx": {
+    "mtime": 1795455003.3686635,
+    "seen": 1795470023.0819182,
+    "ast_hash": "c4a6449f4d30b0d29c8d57ba2858a31c",
+    "semantic_hash": ""
+  },
+  "components/ui/SectionHeading.tsx": {
+    "mtime": 1795455137.797411,
+    "seen": 1795470023.0819192,
+    "ast_hash": "cf21265786bcd25a7aff701068881168",
+    "semantic_hash": ""
+  },
+  "components/ui/SocialIcon.tsx": {
+    "mtime": 1786286353.9613917,
+    "seen": 1795470023.0819206,
+    "ast_hash": "235abfa4cc082b2e052aea2805f27df7",
+    "semantic_hash": ""
+  },
+  "components/ui/Texture.tsx": {
+    "mtime": 1795308563.544413,
+    "seen": 1795470023.0819216,
+    "ast_hash": "38e8bbde944e22332ea72cbdde782444",
+    "semantic_hash": ""
+  },
+  "components/winners/FaqList.tsx": {
+    "mtime": 1795455092.2213874,
+    "seen": 1795470023.0819228,
+    "ast_hash": "76262c49ef04ef2c9fca4c2b61157bb1",
+    "semantic_hash": ""
+  },
+  "components/winners/GiveawayCard.tsx": {
+    "mtime": 1795455092.1568835,
+    "seen": 1795470023.0819237,
+    "ast_hash": "462860160d0228ced1f7c038b0bc68a3",
+    "semantic_hash": ""
+  },
+  "components/winners/WinnersComingSoon.tsx": {
+    "mtime": 1795455092.2775257,
+    "seen": 1795470023.0819252,
+    "ast_hash": "f77a072443ece9af5e3037c85aa4ef51",
+    "semantic_hash": ""
+  },
+  "dictionaries/ar/admin.json": {
+    "mtime": 1795455906.0957482,
+    "seen": 1795470023.081926,
+    "ast_hash": "e8f7909c1137d5966e6d44ce82520376",
+    "semantic_hash": ""
+  },
+  "dictionaries/ar/auth.json": {
+    "mtime": 1795455906.6023371,
+    "seen": 1795470023.081927,
+    "ast_hash": "893ac2210519d39aad3d545fe5910b6e",
+    "semantic_hash": ""
+  },
+  "dictionaries/ar/clips.json": {
+    "mtime": 1795456015.6485796,
+    "seen": 1795470023.0819283,
+    "ast_hash": "37e31cf65d2ce8f2d7e91d0c2b5b2957",
+    "semantic_hash": ""
+  },
+  "dictionaries/ar/common.json": {
+    "mtime": 1795456015.7975194,
+    "seen": 1795470023.0819294,
+    "ast_hash": "e43cb5c0c221fdfc4212ae8cdc66d08e",
+    "semantic_hash": ""
+  },
+  "dictionaries/ar/community.json": {
+    "mtime": 1795456015.914487,
+    "seen": 1795470023.0819304,
+    "ast_hash": "5e1017cc82ad57830fad99749585b874",
+    "semantic_hash": ""
+  },
+  "dictionaries/ar/creators.json": {
+    "mtime": 1795456016.0445056,
+    "seen": 1795470023.0819318,
+    "ast_hash": "60762ef084d089b6592b7ac9249e2190",
+    "semantic_hash": ""
+  },
+  "dictionaries/ar/errors.json": {
+    "mtime": 1795455907.1852467,
+    "seen": 1795470023.0819328,
+    "ast_hash": "76cce8baac61f801f9f90999aee79eb8",
+    "semantic_hash": ""
+  },
+  "dictionaries/ar/home.json": {
+    "mtime": 1795456161.863872,
+    "seen": 1795470023.081934,
+    "ast_hash": "249b9678e631ed1a34988b35d15ad391",
+    "semantic_hash": ""
+  },
+  "dictionaries/ar/index.ts": {
+    "mtime": 1795454322.396006,
+    "seen": 1795470023.0819352,
+    "ast_hash": "f28d02d786944e66feed5af765238bde",
+    "semantic_hash": ""
+  },
+  "dictionaries/ar/join.json": {
+    "mtime": 1795456065.2533238,
+    "seen": 1795470023.0819364,
+    "ast_hash": "e0e0efb3d8520fbf9388197889192349",
+    "semantic_hash": ""
+  },
+  "dictionaries/ar/leaderboard.json": {
+    "mtime": 1795456065.3706152,
+    "seen": 1795470023.0819373,
+    "ast_hash": "3d533be83e686783e1063b0c8ad8d095",
+    "semantic_hash": ""
+  },
+  "dictionaries/ar/teams.json": {
+    "mtime": 1795456139.6630464,
+    "seen": 1795470023.0819387,
+    "ast_hash": "e8db7e9c0fe43e915ad75c973b641d88",
+    "semantic_hash": ""
+  },
+  "dictionaries/ar/tournaments.json": {
+    "mtime": 1795456126.723536,
+    "seen": 1795470023.0819397,
+    "ast_hash": "a82602a2a4d8e87584906eebedb4f19e",
+    "semantic_hash": ""
+  },
+  "dictionaries/ar/winners.json": {
+    "mtime": 1795456126.8435147,
+    "seen": 1795470023.0819407,
+    "ast_hash": "6816851cb79482f7a39f1ea01305ce79",
+    "semantic_hash": ""
+  },
+  "dictionaries/de/admin.json": {
+    "mtime": 1795455912.6843498,
+    "seen": 1795470023.081942,
+    "ast_hash": "0cb9e4c5a7400ba67e1ab6a298554182",
+    "semantic_hash": ""
+  },
+  "dictionaries/de/auth.json": {
+    "mtime": 1795455913.224383,
+    "seen": 1795470023.081943,
+    "ast_hash": "05c29928f2a3d6a715f61f6e0408908c",
+    "semantic_hash": ""
+  },
+  "dictionaries/de/clips.json": {
+    "mtime": 1795456125.6798456,
+    "seen": 1795470023.081944,
+    "ast_hash": "b8f4a9cae923ec18162744cf1ac4458e",
+    "semantic_hash": ""
+  },
+  "dictionaries/de/common.json": {
+    "mtime": 1795456125.6832447,
+    "seen": 1795470023.0819454,
+    "ast_hash": "29b70fd03aee1375bfa51ab1ea15fff0",
+    "semantic_hash": ""
+  },
+  "dictionaries/de/community.json": {
+    "mtime": 1795456125.6855652,
+    "seen": 1795470023.0819464,
+    "ast_hash": "3f14659cec25954b3970b9a9702fe965",
+    "semantic_hash": ""
+  },
+  "dictionaries/de/creators.json": {
+    "mtime": 1795456125.6877685,
+    "seen": 1795470023.0819473,
+    "ast_hash": "ac1e4c0ee90c79ff82e9a33e729165bc",
+    "semantic_hash": ""
+  },
+  "dictionaries/de/errors.json": {
+    "mtime": 1795455913.8494885,
+    "seen": 1795470023.0819488,
+    "ast_hash": "6d39947283fb1664ec42ae8d9286a0e4",
+    "semantic_hash": ""
+  },
+  "dictionaries/de/home.json": {
+    "mtime": 1795456125.6907773,
+    "seen": 1795470023.0819497,
+    "ast_hash": "3e172786da252d13625e3f200ae5671a",
+    "semantic_hash": ""
+  },
+  "dictionaries/de/index.ts": {
+    "mtime": 1795454322.4034898,
+    "seen": 1795470023.0819507,
+    "ast_hash": "d2488fa200a553edaecc6aa78d106b91",
+    "semantic_hash": ""
+  },
+  "dictionaries/de/join.json": {
+    "mtime": 1795456125.6928213,
+    "seen": 1795470023.081952,
+    "ast_hash": "3c6087c0a21ffbd832dffe2823682450",
+    "semantic_hash": ""
+  },
+  "dictionaries/de/leaderboard.json": {
+    "mtime": 1795456125.6958249,
+    "seen": 1795470023.0819533,
+    "ast_hash": "3e0052f52fb7ec7f3ab7795259c06970",
+    "semantic_hash": ""
+  },
+  "dictionaries/de/teams.json": {
+    "mtime": 1795456125.6983447,
+    "seen": 1795470023.0819542,
+    "ast_hash": "fe4ea1ac4b25f411ea216388ba2e0cfb",
+    "semantic_hash": ""
+  },
+  "dictionaries/de/tournaments.json": {
+    "mtime": 1795456125.7063868,
+    "seen": 1795470023.0819554,
+    "ast_hash": "937875891a7c7eb24bc4297bc3675190",
+    "semantic_hash": ""
+  },
+  "dictionaries/de/winners.json": {
+    "mtime": 1795456319.2129068,
+    "seen": 1795470023.0819566,
+    "ast_hash": "7918f536f65d04a4a9cf049752a9baa0",
+    "semantic_hash": ""
+  },
+  "dictionaries/en/admin.json": {
+    "mtime": 1795455404.6341097,
+    "seen": 1795470023.0819576,
+    "ast_hash": "b5c34d5b2620af4e68a3ed46f4d5f63a",
+    "semantic_hash": ""
+  },
+  "dictionaries/en/auth.json": {
+    "mtime": 1795455115.0642796,
+    "seen": 1795470023.081959,
+    "ast_hash": "b3439160cdf220f21f3d4bee1e8dc823",
+    "semantic_hash": ""
+  },
+  "dictionaries/en/clips.json": {
+    "mtime": 1795455200.688059,
+    "seen": 1795470023.08196,
+    "ast_hash": "3066ab4e61a7e2e7e9673ac55304e1e1",
+    "semantic_hash": ""
+  },
+  "dictionaries/en/common.json": {
+    "mtime": 1795454917.8902438,
+    "seen": 1795470023.081961,
+    "ast_hash": "521ca0283ae351c103b0540664acf900",
+    "semantic_hash": ""
+  },
+  "dictionaries/en/community.json": {
+    "mtime": 1795454949.2192948,
+    "seen": 1795470023.0819619,
+    "ast_hash": "3783359dd71f7a2076e9e3ac289f98cd",
+    "semantic_hash": ""
+  },
+  "dictionaries/en/creators.json": {
+    "mtime": 1795454949.0873442,
+    "seen": 1795470023.0819633,
+    "ast_hash": "940049edc7c3150b5a459385d1baddc4",
+    "semantic_hash": ""
+  },
+  "dictionaries/en/errors.json": {
+    "mtime": 1795455530.387594,
+    "seen": 1795470023.0819643,
+    "ast_hash": "1c936e0a49786815b049147efe13edd3",
+    "semantic_hash": ""
+  },
+  "dictionaries/en/home.json": {
+    "mtime": 1795454918.0041628,
+    "seen": 1795470023.0819652,
+    "ast_hash": "fa1a5f9dfab075aeb22613f9390b8bba",
+    "semantic_hash": ""
+  },
+  "dictionaries/en/index.ts": {
+    "mtime": 1795454322.389712,
+    "seen": 1795470023.0819666,
+    "ast_hash": "27b62b7fa489d9fed2ea648946b5426e",
+    "semantic_hash": ""
+  },
+  "dictionaries/en/join.json": {
+    "mtime": 1795454949.4805336,
+    "seen": 1795470023.0819676,
+    "ast_hash": "789a5283ba202c319b0e78bf6143dd8a",
+    "semantic_hash": ""
+  },
+  "dictionaries/en/leaderboard.json": {
+    "mtime": 1795454976.8909647,
+    "seen": 1795470023.0819685,
+    "ast_hash": "2e2931d6fd06226b463240d75d02d811",
+    "semantic_hash": ""
+  },
+  "dictionaries/en/teams.json": {
+    "mtime": 1795455382.7057796,
+    "seen": 1795470023.08197,
+    "ast_hash": "2043afe2205d5a28b658cc4a37411994",
+    "semantic_hash": ""
+  },
+  "dictionaries/en/tournaments.json": {
+    "mtime": 1795454918.1199276,
+    "seen": 1795470023.081971,
+    "ast_hash": "1f675a3227c0c2d9041c7d6eb24ff63d",
+    "semantic_hash": ""
+  },
+  "dictionaries/en/winners.json": {
+    "mtime": 1795455126.6581223,
+    "seen": 1795470023.0819721,
+    "ast_hash": "dd45c774b8adfb3abb57768f3f7cff83",
+    "semantic_hash": ""
+  },
+  "dictionaries/es/admin.json": {
+    "mtime": 1795455931.1235068,
+    "seen": 1795470023.0819733,
+    "ast_hash": "c2061eaeccac978981c014a1407400f7",
+    "semantic_hash": ""
+  },
+  "dictionaries/es/auth.json": {
+    "mtime": 1795455931.2498796,
+    "seen": 1795470023.0819743,
+    "ast_hash": "bdda1198f175cce33c538db246ca8266",
+    "semantic_hash": ""
+  },
+  "dictionaries/es/clips.json": {
+    "mtime": 1795455931.363832,
+    "seen": 1795470023.0819752,
+    "ast_hash": "cdadb3783903936869eb0df2bbce9be5",
+    "semantic_hash": ""
+  },
+  "dictionaries/es/common.json": {
+    "mtime": 1795455983.6330323,
+    "seen": 1795470023.0819767,
+    "ast_hash": "6512a0f2b86d8d3497c9a72874b6e476",
+    "semantic_hash": ""
+  },
+  "dictionaries/es/community.json": {
+    "mtime": 1795456063.0402236,
+    "seen": 1795470023.0819776,
+    "ast_hash": "aabb9ac821c318c3b8e4267a5535f29c",
+    "semantic_hash": ""
+  },
+  "dictionaries/es/creators.json": {
+    "mtime": 1795456063.0498123,
+    "seen": 1795470023.0819788,
+    "ast_hash": "adaf89c8490c8c098703e06b947f2bb2",
+    "semantic_hash": ""
+  },
+  "dictionaries/es/errors.json": {
+    "mtime": 1795455931.6045682,
+    "seen": 1795470023.08198,
+    "ast_hash": "d58d836b8af82f81143b6fb2c6e1b5d5",
+    "semantic_hash": ""
+  },
+  "dictionaries/es/home.json": {
+    "mtime": 1795456258.4159565,
+    "seen": 1795470023.0819812,
+    "ast_hash": "281e1216e59fb00ea9ce89f1431bb168",
+    "semantic_hash": ""
+  },
+  "dictionaries/es/index.ts": {
+    "mtime": 1795454322.4238346,
+    "seen": 1795470023.0819821,
+    "ast_hash": "428c09a737bb249a2bf429a321b8589e",
+    "semantic_hash": ""
+  },
+  "dictionaries/es/join.json": {
+    "mtime": 1795455984.1826494,
+    "seen": 1795470023.0819836,
+    "ast_hash": "81f32851391fc109fb66126c19011d0a",
+    "semantic_hash": ""
+  },
+  "dictionaries/es/leaderboard.json": {
+    "mtime": 1795456026.7824614,
+    "seen": 1795470023.0819845,
+    "ast_hash": "5953e498c30b48e959bb5858252acde4",
+    "semantic_hash": ""
+  },
+  "dictionaries/es/teams.json": {
+    "mtime": 1795456058.7976935,
+    "seen": 1795470023.0819855,
+    "ast_hash": "0dff5bc4fff0c6afc2808334f65457d8",
+    "semantic_hash": ""
+  },
+  "dictionaries/es/tournaments.json": {
+    "mtime": 1795456026.9232476,
+    "seen": 1795470023.081987,
+    "ast_hash": "81d683169e55a861a7a198d9d1a8f9e0",
+    "semantic_hash": ""
+  },
+  "dictionaries/es/winners.json": {
+    "mtime": 1795456027.0865178,
+    "seen": 1795470023.081991,
+    "ast_hash": "608bda29ec3b45e474bfb7b9e991d91c",
+    "semantic_hash": ""
+  },
+  "dictionaries/fr/admin.json": {
+    "mtime": 1795456311.834676,
+    "seen": 1795470023.0819921,
+    "ast_hash": "1db9b124bd27303ba1c9a7658a26a515",
+    "semantic_hash": ""
+  },
+  "dictionaries/fr/auth.json": {
+    "mtime": 1795456311.834676,
+    "seen": 1795470023.081993,
+    "ast_hash": "6b542a4fec9afeaa8d86788833099c81",
+    "semantic_hash": ""
+  },
+  "dictionaries/fr/clips.json": {
+    "mtime": 1795456311.8361423,
+    "seen": 1795470023.0819957,
+    "ast_hash": "ee844d86f190161ed3c4f1265b0daa5a",
+    "semantic_hash": ""
+  },
+  "dictionaries/fr/common.json": {
+    "mtime": 1795456311.8371432,
+    "seen": 1795470023.081997,
+    "ast_hash": "898d0032d01c318fc5321ce782a8e809",
+    "semantic_hash": ""
+  },
+  "dictionaries/fr/community.json": {
+    "mtime": 1795456311.8371432,
+    "seen": 1795470023.0819979,
+    "ast_hash": "7e329ed3d773b3b3eda22e5d2204fa38",
+    "semantic_hash": ""
+  },
+  "dictionaries/fr/creators.json": {
+    "mtime": 1795456311.8385994,
+    "seen": 1795470023.081999,
+    "ast_hash": "5cbbe7dfadc3046d15c31c709dec3b8d",
+    "semantic_hash": ""
+  },
+  "dictionaries/fr/errors.json": {
+    "mtime": 1795456311.8395991,
+    "seen": 1795470023.082,
+    "ast_hash": "00b105a2d55d43eb4b1722e7e6497bf3",
+    "semantic_hash": ""
+  },
+  "dictionaries/fr/home.json": {
+    "mtime": 1795456311.840103,
+    "seen": 1795470023.0820014,
+    "ast_hash": "34e1b6cf3806649eabe69c52323a767b",
+    "semantic_hash": ""
+  },
+  "dictionaries/fr/index.ts": {
+    "mtime": 1795454322.4306407,
+    "seen": 1795470023.0820024,
+    "ast_hash": "05936cea7b07e06cc32f4da1baf0e0a9",
+    "semantic_hash": ""
+  },
+  "dictionaries/fr/join.json": {
+    "mtime": 1795456311.8411067,
+    "seen": 1795470023.0820036,
+    "ast_hash": "643df25ae2c94392245e7f89a58e4ed0",
+    "semantic_hash": ""
+  },
+  "dictionaries/fr/leaderboard.json": {
+    "mtime": 1795456311.8416178,
+    "seen": 1795470023.0820048,
+    "ast_hash": "10363f535a24f428c47da488284fa509",
+    "semantic_hash": ""
+  },
+  "dictionaries/fr/teams.json": {
+    "mtime": 1795456311.8426328,
+    "seen": 1795470023.0820057,
+    "ast_hash": "8f8f67eff32b4ada4267dad623638dee",
+    "semantic_hash": ""
+  },
+  "dictionaries/fr/tournaments.json": {
+    "mtime": 1795456311.8426328,
+    "seen": 1795470023.082007,
+    "ast_hash": "7bd7f1a297b4809824a05e7733b9e873",
+    "semantic_hash": ""
+  },
+  "dictionaries/fr/winners.json": {
+    "mtime": 1795456311.843634,
+    "seen": 1795470023.0820081,
+    "ast_hash": "cb4d39eea4fe33684ca84edc222b5bc3",
+    "semantic_hash": ""
+  },
+  "dictionaries/ja/admin.json": {
+    "mtime": 1795456070.2884612,
+    "seen": 1795470023.082009,
+    "ast_hash": "ae41f001c620557833556d5a8fa18d47",
+    "semantic_hash": ""
+  },
+  "dictionaries/ja/auth.json": {
+    "mtime": 1795456070.4227567,
+    "seen": 1795470023.0820103,
+    "ast_hash": "11be010964cb4cb243fce098784e83c9",
+    "semantic_hash": ""
+  },
+  "dictionaries/ja/clips.json": {
+    "mtime": 1795456070.539968,
+    "seen": 1795470023.0820115,
+    "ast_hash": "e6c88822c9fb0aaa87be3c56a99724f4",
+    "semantic_hash": ""
+  },
+  "dictionaries/ja/common.json": {
+    "mtime": 1795456070.6733172,
+    "seen": 1795470023.0820124,
+    "ast_hash": "e2894a488a415a79e313f6a8e996ea81",
+    "semantic_hash": ""
+  },
+  "dictionaries/ja/community.json": {
+    "mtime": 1795456070.8011835,
+    "seen": 1795470023.0820136,
+    "ast_hash": "087bc9c4aad60e14d13f732eea8b5d5b",
+    "semantic_hash": ""
+  },
+  "dictionaries/ja/creators.json": {
+    "mtime": 1795456070.9411376,
+    "seen": 1795470023.0820148,
+    "ast_hash": "0780372a4a44915f87c307e20adbf5b3",
+    "semantic_hash": ""
+  },
+  "dictionaries/ja/errors.json": {
+    "mtime": 1795456071.0833144,
+    "seen": 1795470023.082016,
+    "ast_hash": "d4a4bc65010e44615133b7e5c2725ddc",
+    "semantic_hash": ""
+  },
+  "dictionaries/ja/home.json": {
+    "mtime": 1795456226.7498586,
+    "seen": 1795470023.082017,
+    "ast_hash": "aba4eff5f394fa10c54e222020ad73d4",
+    "semantic_hash": ""
+  },
+  "dictionaries/ja/index.ts": {
+    "mtime": 1795454322.436576,
+    "seen": 1795470023.0820181,
+    "ast_hash": "9b3410e426f2d4b95d3962cd5cdb418b",
+    "semantic_hash": ""
+  },
+  "dictionaries/ja/join.json": {
+    "mtime": 1795456071.388721,
+    "seen": 1795470023.0820193,
+    "ast_hash": "0f3a514a17ec9626a66f312ba63d82b6",
+    "semantic_hash": ""
+  },
+  "dictionaries/ja/leaderboard.json": {
+    "mtime": 1795456071.533886,
+    "seen": 1795470023.0820203,
+    "ast_hash": "c132465fe6228a9d2d04564df0070510",
+    "semantic_hash": ""
+  },
+  "dictionaries/ja/teams.json": {
+    "mtime": 1795456071.674416,
+    "seen": 1795470023.0820215,
+    "ast_hash": "a659e6d9295e4b04185a4e32f83f5603",
+    "semantic_hash": ""
+  },
+  "dictionaries/ja/tournaments.json": {
+    "mtime": 1795456071.8229237,
+    "seen": 1795470023.0820227,
+    "ast_hash": "38766b3781581cc43adae0dd8243e460",
+    "semantic_hash": ""
+  },
+  "dictionaries/ja/winners.json": {
+    "mtime": 1795456075.8910604,
+    "seen": 1795470023.0820236,
+    "ast_hash": "7cc9a325de759e3b9bd5a05b231594c3",
+    "semantic_hash": ""
+  },
+  "dictionaries/ru/admin.json": {
+    "mtime": 1795456163.0612845,
+    "seen": 1795470023.0820248,
+    "ast_hash": "babcb226d5d47a757ec559fbb305772c",
+    "semantic_hash": ""
+  },
+  "dictionaries/ru/auth.json": {
+    "mtime": 1795456107.2747395,
+    "seen": 1795470023.082026,
+    "ast_hash": "9072203f62b8c6b10ec0d02acfed212a",
+    "semantic_hash": ""
+  },
+  "dictionaries/ru/clips.json": {
+    "mtime": 1795456107.3830125,
+    "seen": 1795470023.082027,
+    "ast_hash": "a7d83ed7d486a26b9d676defe969c73e",
+    "semantic_hash": ""
+  },
+  "dictionaries/ru/common.json": {
+    "mtime": 1795456229.9288468,
+    "seen": 1795470023.0820284,
+    "ast_hash": "e45ade7cf94d771cd54af08fb1c56594",
+    "semantic_hash": ""
+  },
+  "dictionaries/ru/community.json": {
+    "mtime": 1795456163.7948856,
+    "seen": 1795470023.0820293,
+    "ast_hash": "9e4f317750b8445b546b7e4510c6b6e3",
+    "semantic_hash": ""
+  },
+  "dictionaries/ru/creators.json": {
+    "mtime": 1795456163.9077666,
+    "seen": 1795470023.0820303,
+    "ast_hash": "0cd56cf8aebbe02c9d5c9fc09c338eb3",
+    "semantic_hash": ""
+  },
+  "dictionaries/ru/errors.json": {
+    "mtime": 1795456107.6208987,
+    "seen": 1795470023.0820317,
+    "ast_hash": "af8e31a0631bccdc56fc0a8d54b18092",
+    "semantic_hash": ""
+  },
+  "dictionaries/ru/home.json": {
+    "mtime": 1795456258.4148836,
+    "seen": 1795470023.0820327,
+    "ast_hash": "3d7efd785f00d180c07766ef1bafa298",
+    "semantic_hash": ""
+  },
+  "dictionaries/ru/index.ts": {
+    "mtime": 1795454322.4101667,
+    "seen": 1795470023.0820336,
+    "ast_hash": "7c698aceec120765ae8f3401441abe95",
+    "semantic_hash": ""
+  },
+  "dictionaries/ru/join.json": {
+    "mtime": 1795456164.142894,
+    "seen": 1795470023.0820346,
+    "ast_hash": "f09b5df40d21a3de76b00c50b919697a",
+    "semantic_hash": ""
+  },
+  "dictionaries/ru/leaderboard.json": {
+    "mtime": 1795456195.9097826,
+    "seen": 1795470023.082036,
+    "ast_hash": "9cb6adc3ae9072596dd7f4041504e840",
+    "semantic_hash": ""
+  },
+  "dictionaries/ru/teams.json": {
+    "mtime": 1795456229.111939,
+    "seen": 1795470023.082037,
+    "ast_hash": "1d2663b3f790660ab521c3c55491e8e9",
+    "semantic_hash": ""
+  },
+  "dictionaries/ru/tournaments.json": {
+    "mtime": 1795456196.050754,
+    "seen": 1795470023.082038,
+    "ast_hash": "00d53f37bfb7f877f60baab4b8192c85",
+    "semantic_hash": ""
+  },
+  "dictionaries/ru/winners.json": {
+    "mtime": 1795456196.1747537,
+    "seen": 1795470023.0820394,
+    "ast_hash": "9953821b0741833ef7972b3f75bca77b",
+    "semantic_hash": ""
+  },
+  "dictionaries/zh-CN/admin.json": {
+    "mtime": 1795456226.8738005,
+    "seen": 1795470023.0820403,
+    "ast_hash": "72402ba4396ced4e65f5fa32dde8de8a",
+    "semantic_hash": ""
+  },
+  "dictionaries/zh-CN/auth.json": {
+    "mtime": 1795456227.0106685,
+    "seen": 1795470023.0820413,
+    "ast_hash": "982b3778e5a6431d5b81a70504e28723",
+    "semantic_hash": ""
+  },
+  "dictionaries/zh-CN/clips.json": {
+    "mtime": 1795456227.15271,
+    "seen": 1795470023.0820427,
+    "ast_hash": "96534691d4c02c40edba4282bfd0ddcd",
+    "semantic_hash": ""
+  },
+  "dictionaries/zh-CN/common.json": {
+    "mtime": 1795456227.277825,
+    "seen": 1795470023.0820436,
+    "ast_hash": "2d895feaeec594b0c25c33880ba02a8d",
+    "semantic_hash": ""
+  },
+  "dictionaries/zh-CN/community.json": {
+    "mtime": 1795456227.4366844,
+    "seen": 1795470023.0820446,
+    "ast_hash": "349eb9b332a10da1acb94b615fdcbf49",
+    "semantic_hash": ""
+  },
+  "dictionaries/zh-CN/creators.json": {
+    "mtime": 1795456227.6668508,
+    "seen": 1795470023.082046,
+    "ast_hash": "e6deac5d1e43957858a03918e0d2fd9d",
+    "semantic_hash": ""
+  },
+  "dictionaries/zh-CN/errors.json": {
+    "mtime": 1795456227.7958963,
+    "seen": 1795470023.0820472,
+    "ast_hash": "3ef036e2a18a01262d4fc9195b4ef652",
+    "semantic_hash": ""
+  },
+  "dictionaries/zh-CN/home.json": {
+    "mtime": 1795456227.9596848,
+    "seen": 1795470023.0820484,
+    "ast_hash": "c52f44a65d3b1322645697de602f9f69",
+    "semantic_hash": ""
+  },
+  "dictionaries/zh-CN/index.ts": {
+    "mtime": 1795454322.4173312,
+    "seen": 1795470023.0820496,
+    "ast_hash": "e4ba9b6301304fa46df447568664e16e",
+    "semantic_hash": ""
+  },
+  "dictionaries/zh-CN/join.json": {
+    "mtime": 1795456228.0986724,
+    "seen": 1795470023.0820506,
+    "ast_hash": "26b65bfe578bd86e05afa8e97514906c",
+    "semantic_hash": ""
+  },
+  "dictionaries/zh-CN/leaderboard.json": {
+    "mtime": 1795456228.2261178,
+    "seen": 1795470023.0820515,
+    "ast_hash": "e048d284dbfb39fd7f6e92222d6fa45c",
+    "semantic_hash": ""
+  },
+  "dictionaries/zh-CN/teams.json": {
+    "mtime": 1795456236.3966055,
+    "seen": 1795470023.082053,
+    "ast_hash": "a5d467a3f175f0c144e4fade1f2a648c",
+    "semantic_hash": ""
+  },
+  "dictionaries/zh-CN/tournaments.json": {
+    "mtime": 1795456228.4992585,
+    "seen": 1795470023.082054,
+    "ast_hash": "526ff27789661005d33d16e86965a6ef",
+    "semantic_hash": ""
+  },
+  "dictionaries/zh-CN/winners.json": {
+    "mtime": 1795456228.6297917,
+    "seen": 1795470023.0820549,
+    "ast_hash": "e18ae90a57d2b1e5d4a51dae58b7e72d",
+    "semantic_hash": ""
+  },
+  "drizzle.config.ts": {
+    "mtime": 1795454596.6527703,
+    "seen": 1795470023.0820563,
+    "ast_hash": "7490a795a581e948e75c8b9d2fd9f9cc",
+    "semantic_hash": ""
+  },
+  "eslint.config.mjs": {
+    "mtime": 1795455763.7617624,
+    "seen": 1795470023.0820572,
+    "ast_hash": "48b01483cc3c3e7b05bd635a34d923b7",
+    "semantic_hash": ""
+  },
+  "lib/auth/enabled.ts": {
+    "mtime": 1795454519.166379,
+    "seen": 1795470023.0820582,
+    "ast_hash": "1759346511e8331e61888142a739e7b5",
+    "semantic_hash": ""
+  },
+  "lib/auth/index.ts": {
+    "mtime": 1795454635.6486976,
+    "seen": 1795470023.0820591,
+    "ast_hash": "7886188df9eed744fe81e7a4099e97b9",
+    "semantic_hash": ""
+  },
+  "lib/clerk-appearance.ts": {
+    "mtime": 1795454417.2140315,
+    "seen": 1795470023.0820606,
+    "ast_hash": "bb4078a77d184075e12faf655827db6b",
+    "semantic_hash": ""
+  },
+  "lib/clips/actions.ts": {
+    "mtime": 1795455177.0516047,
+    "seen": 1795470023.0820618,
+    "ast_hash": "c459c13302e9a1abb7954b4bb606280b",
+    "semantic_hash": ""
+  },
+  "lib/clips/constants.ts": {
+    "mtime": 1795455288.793089,
+    "seen": 1795470023.082063,
+    "ast_hash": "540bd37bd66411a7cd76625b9efb63fc",
+    "semantic_hash": ""
+  },
+  "lib/clips/format.ts": {
+    "mtime": 1795455247.6853247,
+    "seen": 1795470023.082064,
+    "ast_hash": "62ba48bf1cf667d296c380192c0bdb7b",
+    "semantic_hash": ""
+  },
+  "lib/clips/media.ts": {
+    "mtime": 1795455124.1519382,
+    "seen": 1795470023.0820649,
+    "ast_hash": "ac2eb4757ea62669dd85e469f8e7e54c",
+    "semantic_hash": ""
+  },
+  "lib/clips/queries.ts": {
+    "mtime": 1795455144.831664,
+    "seen": 1795470023.082066,
+    "ast_hash": "655eed956a9d3fe18773e6ae41f0f18e",
+    "semantic_hash": ""
+  },
+  "lib/clips/server.ts": {
+    "mtime": 1795455063.6101873,
+    "seen": 1795470023.0820673,
+    "ast_hash": "8084c6ca02926d6d826deaaf43b3c75a",
+    "semantic_hash": ""
+  },
+  "lib/community.ts": {
+    "mtime": 1795454992.2945213,
+    "seen": 1795470023.0820684,
+    "ast_hash": "c6daa45096949efca70f285c6c613fdf",
+    "semantic_hash": ""
+  },
+  "lib/creators.ts": {
+    "mtime": 1795454993.2807968,
+    "seen": 1795470023.0820694,
+    "ast_hash": "2084a35f600882393e4ae70b4f7a31e9",
+    "semantic_hash": ""
+  },
+  "lib/db/index.ts": {
+    "mtime": 1795454596.5761273,
+    "seen": 1795470023.0820708,
+    "ast_hash": "189002ba8f369d56f0b31c59a1fe40f0",
+    "semantic_hash": ""
+  },
+  "lib/db/schema.ts": {
+    "mtime": 1795454596.4815547,
+    "seen": 1795470023.0820718,
+    "ast_hash": "8e644bbd57a1cd5bb72c30a27d8fefe6",
+    "semantic_hash": ""
+  },
+  "lib/games.ts": {
+    "mtime": 1795454963.9207845,
+    "seen": 1795470023.0820727,
+    "ast_hash": "b0b188d7c8e9b65ea6eb882e749446b1",
+    "semantic_hash": ""
+  },
+  "lib/giveaways.ts": {
+    "mtime": 1795455373.3773377,
+    "seen": 1795470023.0820742,
+    "ast_hash": "5cce50e0339b91afaaa9d207686716ad",
+    "semantic_hash": ""
+  },
+  "lib/gsap.ts": {
+    "mtime": 1795308620.932485,
+    "seen": 1795470023.0820754,
+    "ast_hash": "988d695b66499179ad8847f0d339c6bd",
+    "semantic_hash": ""
+  },
+  "lib/i18n/client.ts": {
+    "mtime": 1795454348.3742845,
+    "seen": 1795470023.0820763,
+    "ast_hash": "9a694c5d1303416cb5b2bbfee0dc9bf1",
+    "semantic_hash": ""
+  },
+  "lib/i18n/config.ts": {
+    "mtime": 1795454340.5497634,
+    "seen": 1795470023.0820777,
+    "ast_hash": "cca659451b6a9aefe76ff87d87e92eac",
+    "semantic_hash": ""
+  },
+  "lib/i18n/dictionaries.ts": {
+    "mtime": 1795454340.480933,
+    "seen": 1795470023.0820787,
+    "ast_hash": "8752831735e7f8224172a92c15992f4c",
+    "semantic_hash": ""
+  },
+  "lib/mee6.ts": {
+    "mtime": 1795455383.0679033,
+    "seen": 1795470023.0820796,
+    "ast_hash": "14c18dcf5584c7bc8b5025ea4919f057",
+    "semantic_hash": ""
+  },
+  "lib/site.ts": {
+    "mtime": 1795454977.2451677,
+    "seen": 1795470023.082081,
+    "ast_hash": "f11ac1f6f7fc1788fbe929b082f13338",
+    "semantic_hash": ""
+  },
+  "lib/teams/actions.ts": {
+    "mtime": 1795455074.6986885,
+    "seen": 1795470023.0820823,
+    "ast_hash": "304bd0b4c4615760e9b1995d9286da4f",
+    "semantic_hash": ""
+  },
+  "lib/teams/config.ts": {
+    "mtime": 1795454966.568225,
+    "seen": 1795470023.0820832,
+    "ast_hash": "9d1c06ea6ce1a0c0ff95b1595ce472a8",
+    "semantic_hash": ""
+  },
+  "lib/teams/guard.ts": {
+    "mtime": 1795455011.414109,
+    "seen": 1795470023.0820847,
+    "ast_hash": "ef7977ab5204d60cfcddfa0c7a8ce2c3",
+    "semantic_hash": ""
+  },
+  "lib/teams/meta.ts": {
+    "mtime": 1795455174.430451,
+    "seen": 1795470023.0820856,
+    "ast_hash": "380b21a2fbd9d409654abd0cf619c05f",
+    "semantic_hash": ""
+  },
+  "lib/teams/queries.ts": {
+    "mtime": 1795455002.5798035,
+    "seen": 1795470023.0820868,
+    "ast_hash": "90c91ff8b9843153f0187dbde7e16957",
+    "semantic_hash": ""
+  },
+  "lib/tournaments.ts": {
+    "mtime": 1795450326.123766,
+    "seen": 1795470023.082088,
+    "ast_hash": "47c27a882f1a6abd566e7b1cd13af777",
+    "semantic_hash": ""
+  },
+  "lib/usePrefersReducedMotion.ts": {
+    "mtime": 1795309078.701274,
+    "seen": 1795470023.0820892,
+    "ast_hash": "df6f0576dc497867831aa142ca7edf3f",
+    "semantic_hash": ""
+  },
+  "migrations/meta/0000_snapshot.json": {
+    "mtime": 1795454600.503782,
+    "seen": 1795470023.0820901,
+    "ast_hash": "3b59e5c0c14ec28227ec23a80ae3223c",
+    "semantic_hash": ""
+  },
+  "migrations/meta/_journal.json": {
+    "mtime": 1795454600.5048757,
+    "seen": 1795470023.0820913,
+    "ast_hash": "27a51cde537fa6fae1d86ce5f098e256",
+    "semantic_hash": ""
+  },
+  "next.config.ts": {
+    "mtime": 1795454560.6369698,
+    "seen": 1795470023.0820923,
+    "ast_hash": "00890f7357a33c04ffb3a29d52f7ce87",
+    "semantic_hash": ""
+  },
+  "open-next.config.ts": {
+    "mtime": 1795454543.8031633,
+    "seen": 1795470023.0820935,
+    "ast_hash": "8dfbdf690635a194a33824a094b97e31",
+    "semantic_hash": ""
+  },
+  "package.json": {
+    "mtime": 1795454560.6625676,
+    "seen": 1795470023.0820947,
+    "ast_hash": "8a3d00059578a8b87131bd35ef8a32be",
+    "semantic_hash": ""
+  },
+  "postcss.config.mjs": {
+    "mtime": 1786285865.526107,
+    "seen": 1795470023.0820959,
+    "ast_hash": "675899342e765a4d16acd75a53389101",
+    "semantic_hash": ""
+  },
+  "proxy.ts": {
+    "mtime": 1795454520.2248065,
+    "seen": 1795470023.0820968,
+    "ast_hash": "1136b533d52af9efe4495df60d30422b",
+    "semantic_hash": ""
+  },
+  "scripts/check-i18n.mjs": {
+    "mtime": 1795456161.8409355,
+    "seen": 1795470023.0820982,
+    "ast_hash": "f23dcdefa17284d710f5054eda2bb13e",
+    "semantic_hash": ""
+  },
+  "tsconfig.json": {
+    "mtime": 1786286497.3110745,
+    "seen": 1795470023.0820992,
+    "ast_hash": "701d94282762685a48ca77258568187e",
+    "semantic_hash": ""
+  },
+  "types/index.ts": {
+    "mtime": 1795454963.9197624,
+    "seen": 1795470023.0821004,
+    "ast_hash": "e552c54455ee37c3c5674d44a9f10b76",
+    "semantic_hash": ""
+  },
+  ".github/copilot-instructions.md": {
+    "mtime": 1793385188.4381273,
+    "seen": 1795470023.0821016,
+    "ast_hash": "ec2dc0dc7bef63488889f34de2f5584d",
+    "semantic_hash": ""
+  },
+  "AGENTS.md": {
+    "mtime": 1795454493.3405702,
+    "seen": 1795470023.0821028,
+    "ast_hash": "c98dbebb744eadc1acc4b9f58bfe0f42",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1795470008.8013246,
+    "seen": 1795470023.0821037,
+    "ast_hash": "2819b6803a8d1052e5f0686164f7590c",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1795309667.6469688,
+    "seen": 1795470023.0821052,
+    "ast_hash": "6d5f4eb4d041767036ed377d1e92f1e1",
+    "semantic_hash": ""
+  },
+  "docs/phase-1-summary.md": {
+    "mtime": 1795358663.1355245,
+    "seen": 1795470023.082106,
+    "ast_hash": "f359c31ce8be97d5fda9bb0f3b50b8ed",
+    "semantic_hash": ""
+  },
+  "docs/phase-2-summary.md": {
+    "mtime": 1795456388.9229875,
+    "seen": 1795470023.0821073,
+    "ast_hash": "0f0f147d3aa10f1e1eb3b007317d0068",
+    "semantic_hash": ""
+  },
+  "app/apple-icon.png": {
+    "mtime": 1795313602.26719,
+    "seen": 1795470023.0821085,
+    "ast_hash": "8c9b6fcdba62e5927557615a4d47536c",
+    "semantic_hash": ""
+  },
+  "app/icon.png": {
+    "mtime": 1795313593.633,
+    "seen": 1795470023.0821095,
+    "ast_hash": "ed9f3df11871101eac404c649ff74dce",
+    "semantic_hash": ""
+  },
+  "public/art/background.jpg": {
+    "mtime": 1795313545.232,
+    "seen": 1795470023.0821106,
+    "ast_hash": "4fa0f1c763736c18b82f32753cdd8859",
+    "semantic_hash": ""
+  },
+  "public/art/hero-sakura.webp": {
+    "mtime": 1795453962.489,
+    "seen": 1795470023.0821118,
+    "ast_hash": "7a5ffe413d3e6d7c16b8526d41f13782",
+    "semantic_hash": ""
+  },
+  "public/brand/icon-192.png": {
+    "mtime": 1795313602.194725,
+    "seen": 1795470023.0821128,
+    "ast_hash": "d264d7b35d76d69556e97b1472911186",
+    "semantic_hash": ""
+  },
+  "public/brand/icon-512.png": {
+    "mtime": 1795313602.1017218,
+    "seen": 1795470023.082114,
+    "ast_hash": "4e13894b5e7acd3b20d6500d0ecdf3d5",
+    "semantic_hash": ""
+  },
+  "public/brand/logo-anim-192.webp": {
+    "mtime": 1795313545.156,
+    "seen": 1795470023.0821152,
+    "ast_hash": "ddbc383b4519fec4c5cdec8ca9c40223",
+    "semantic_hash": ""
+  },
+  "public/brand/logo-anim-96.webp": {
+    "mtime": 1795313524.525,
+    "seen": 1795470023.0821164,
+    "ast_hash": "40ccfa73984edbe71e361457849d1013",
+    "semantic_hash": ""
+  },
+  "public/brand/logo.jpg": {
+    "mtime": 1721278410.5939388,
+    "seen": 1795470023.0821173,
+    "ast_hash": "ae99898f0c3ee2ba30929a9a5d07ebdf",
+    "semantic_hash": ""
+  },
+  "migrations/0000_init.sql": {
+    "mtime": 1795454600.505877,
+    "seen": 1795470099.001923,
+    "ast_hash": "58c14cfe608e1302a82377efaf645c65",
+    "semantic_hash": ""
+  },
+  "package-lock.json": {
+    "mtime": 1795454177.0856488,
+    "seen": 1795470023.0821185,
+    "ast_hash": "797925d20c09f6d01dd2b84e2b794d0f",
+    "semantic_hash": ""
+  }
+}

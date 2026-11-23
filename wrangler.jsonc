@@ -21,7 +21,7 @@
       // then paste the printed database_id here.
       "binding": "DB",
       "database_name": "gamersexile",
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "62904ffd-380f-4f65-8f08-14e6412b020a",
       "migrations_dir": "migrations"
     }
   ],

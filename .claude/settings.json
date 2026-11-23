@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "C:/Users/Omar/.local/bin/graphify.EXE hook-guard search",
+            "command": "C:/Users/Eliot/.local/bin/graphify.EXE hook-guard search",
             "timeout": 10
           }
         ]
@@ -16,7 +16,19 @@
         "hooks": [
           {
             "type": "command",
-            "command": "C:/Users/Omar/.local/bin/graphify.EXE hook-guard read",
+            "command": "C:/Users/Eliot/.local/bin/graphify.EXE hook-guard read",
+            "timeout": 10
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "matcher": "compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "C:/Users/Eliot/.local/bin/graphify.EXE hook-guard compact",
             "timeout": 10
           }
         ]
