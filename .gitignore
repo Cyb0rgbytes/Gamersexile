@@ -22,3 +22,9 @@ reference/
 
 # Source art; the site ships optimized copies from public/.
 Assets/
+
+# graphify: commit graph.json + report; the rest is regenerable
+graphify-out/cache/
+graphify-out/graph.html
+graphify-out/.graphify_*
+*.graphify-bak

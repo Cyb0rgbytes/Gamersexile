@@ -49,5 +49,10 @@
     "esbuild@0.25.12": true,
     "esbuild@0.28.2": true,
     "workerd@1.20261119.1": true
+  },
+  "overrides": {
+    "@opennextjs/aws": {
+      "cookie": "0.7.2"
+    }
   }
 }
