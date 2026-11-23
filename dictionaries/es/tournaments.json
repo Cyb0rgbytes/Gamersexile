@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "Torneos",
+    "description": "Brackets competitivos en Gamer's Exile. Inscripción gratuita, abiertos a todos los niveles y anunciados primero en el Discord."
+  },
+  "header": {
+    "eyebrow": "Torneos",
+    "title": "Pon a prueba tu nivel. Gánate tu nombre.",
+    "lead": "Brackets en una selección rotativa de títulos. Inscripción gratuita, arbitrados dentro del servidor y abiertos a todos los niveles: desde quien compite por primera vez hasta quienes no paran de ganarlos."
+  },
+  "live": {
+    "entrants": "Participantes: {count}",
+    "watch": "Ver en Discord"
+  },
+  "upcoming": {
+    "eyebrow": "Próximos",
+    "title": "Brackets abiertos",
+    "lead": "Las inscripciones se abren en el Discord unas dos semanas antes de cada inicio. Si juegas solo, puedes pedir squad en el mismo canal.",
+    "leadEmpty": "Estamos planificando los próximos brackets. Las fechas, los juegos y las bolsas de premios se anuncian primero en el Discord: consigue el rol de torneos para no perderte las inscripciones."
+  },
+  "enter": {
+    "eyebrow": "Cómo participar",
+    "title": "Cuatro pasos hasta el bracket",
+    "cta": "Inscríbete en Discord",
+    "steps": {
+      "role": {
+        "title": "Consigue el rol de torneos",
+        "body": "Tómalo en el canal de roles para recibir los avisos del bracket y los cambios de horario."
+      },
+      "register": {
+        "title": "Inscríbete antes del cierre",
+        "body": "Regístrate en el canal de inscripciones. Si juegas solo, puedes pedir que te coloquen en un squad en el mismo hilo."
+      },
+      "checkin": {
+        "title": "Haz check-in el día de la partida",
+        "body": "El check-in abre una hora antes de que empiece el bracket. Si no lo haces, tu plaza pasa a la lista de espera."
+      },
+      "play": {
+        "title": "Juega",
+        "body": "Las salas de partida, los árbitros y el reporte de resultados funcionan dentro del servidor. Las disputas las resuelve un mod, no un hilo en Twitter."
+      }
+    }
+  },
+  "records": {
+    "eyebrow": "Salón de récords",
+    "title": "Campeones anteriores",
+    "caption": "Torneos finalizados con sus campeones y resultados finales",
+    "columns": {
+      "tournament": "Torneo",
+      "game": "Juego",
+      "champion": "Campeón",
+      "runnerUp": "Subcampeón",
+      "score": "Resultado"
+    },
+    "note": "Cada campeón recibe un rol permanente en el servidor y un lugar en esta lista."
+  },
+  "cta": {
+    "heading": "¿Crees que puedes ganarlo?",
+    "lead": "El próximo bracket abre pronto. Únete al Discord, consigue el rol de torneos y apúntate."
+  },
+  "card": {
+    "format": "Formato",
+    "teams": "Equipos",
+    "prizePool": "Bolsa de premios",
+    "champion": "Campeón",
+    "gameTba": "Juego por anunciar",
+    "announcedFirst": "Se anuncia primero en el Discord"
+  },
+  "bracket": {
+    "eyebrow": "Bracket",
+    "title": "Así se ganó el último",
+    "lead": "El bracket final del evento más reciente, ronda a ronda.",
+    "champion": "Campeón",
+    "tbd": "Por definir",
+    "roundLabel": "{round} — partidas: {count}",
+    "roundLabelOne": "{round} — 1 partida",
+    "scrollHint": "Desliza el bracket hacia los lados para ver las rondas siguientes."
+  }
+}

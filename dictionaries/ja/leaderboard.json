@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "ランキング — XP上位メンバー",
+    "description": "Gamer's Exile Discordのランキング：MEE6のレベルとXPで並べた、最もアクティブなメンバーたち。サーバーでチャットし、遊び、仲間と組んでランクを上げよう。"
+  },
+  "header": {
+    "eyebrow": "ランキング",
+    "title": "番付。サーバーで勝ち取るもの。",
+    "lead": "MEE6のレベルとXPで並べた、最もアクティブなメンバーたち。すべてのメッセージ、試合中のコール、深夜のボイスセッションがカウントされます。忠誠心はここに表れます。"
+  },
+  "podium": {
+    "eyebrow": "トップ3",
+    "title": "表彰台",
+    "first": "1位",
+    "second": "2位",
+    "third": "3位"
+  },
+  "table": {
+    "eyebrow": "順位表",
+    "title": "トップ100",
+    "caption": "MEE6のレベルと累計XPで並べたサーバーメンバー",
+    "rank": "順位",
+    "member": "メンバー",
+    "level": "レベル",
+    "xp": "XP",
+    "progress": "次のレベル",
+    "messages": "メッセージ",
+    "progressLabel": "レベル{next}まで {current} / {needed} XP",
+    "searchLabel": "メンバーを検索",
+    "searchPlaceholder": "名前で検索…",
+    "noResults": "「{query}」に一致するメンバーはいません。",
+    "showing": "{total}人中{count}人を表示"
+  },
+  "levelShort": "Lv {level}",
+  "xpSuffix": "{xp} XP",
+  "messagesSuffix": "{count}件のメッセージ",
+  "lastUpdated": "最終更新：{time}",
+  "refreshNote": "約10分ごとに更新されます。",
+  "rewards": {
+    "eyebrow": "ロール報酬",
+    "title": "レベルで解放されるもの",
+    "lead": "これらのレベルに到達すると、MEE6が自動的にロールを付与します。",
+    "item": "レベル{level}に到達"
+  },
+  "fullBoard": "MEE6でランキング全体を見る",
+  "footnote": "ランキングはDiscordのMEE6ボットから取得しています。XPはチャットで獲得できます。スパムはカウントされず、メッセージ間にはクールダウンがあります。",
+  "fallback": {
+    "notConfiguredTitle": "ランキングは近日公開",
+    "notConfiguredBody": "リアルタイムのランキングを現在接続中です。それまではMEE6でランキング全体をご覧ください。",
+    "unavailableTitle": "現在ランキングを表示できません",
+    "unavailableBody": "MEE6に接続できませんでした。しばらくしてからもう一度お試しいただくか、MEE6で直接ランキングをご確認ください。",
+    "cta": "MEE6のランキングを開く"
+  },
+  "empty": "まだ誰もXPを獲得していません。最初の一人になりましょう。",
+  "cta": {
+    "heading": "今夜からXPを稼ごう",
+    "lead": "Discordに参加して、あいさつして、ボイスに飛び込もう。会話のひとつひとつが番付を押し上げます。"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "tagline": "هنا تُصنع الأساطير",
+    "description": "Gamer's Exile مجتمع عالمي للاعبين وصنّاع المحتوى ولاعبي الرياضات الإلكترونية. بطولات وتعاون بين صنّاع المحتوى وبيت خالٍ من التوكسيك لكل المستويات وكل أنواع الألعاب.",
+    "keywords": [
+      "مجتمع ألعاب",
+      "مجتمع رياضات إلكترونية",
+      "سيرفر ديسكورد ألعاب",
+      "بطولات رياضات إلكترونية",
+      "مجتمع ستريمرز",
+      "مجتمع صناع محتوى",
+      "Gamer's Exile"
+    ]
+  },
+  "skipToContent": "تخطَّ إلى المحتوى",
+  "language": "اللغة",
+  "auth": {
+    "signIn": "دخول",
+    "signUp": "حساب جديد",
+    "account": "الحساب"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "tournaments": "البطولات",
+    "creators": "صنّاع المحتوى",
+    "teams": "الفرق",
+    "clips": "المقاطع",
+    "leaderboard": "الترتيب",
+    "winners": "الفائزون",
+    "community": "المجتمع",
+    "join": "انضم",
+    "more": "المزيد",
+    "primaryLabel": "التنقل الرئيسي",
+    "menu": "القائمة",
+    "openMenu": "فتح القائمة",
+    "closeMenu": "إغلاق القائمة",
+    "siteMenu": "قائمة الموقع"
+  },
+  "cta": {
+    "joinDiscord": "انضم إلى Discord",
+    "joinTheDiscord": "انضم إلى سيرفر Discord",
+    "freeLine": "مجاني للأبد · بدون طلب انضمام · لكل المستويات"
+  },
+  "brand": {
+    "homeLabel": "{name} — الرئيسية",
+    "emblemAlt": "شعار Gamer's Exile"
+  },
+  "footer": {
+    "explore": "استكشف",
+    "community": "المجتمع",
+    "discordServer": "سيرفر Discord",
+    "tournamentSchedule": "جدول البطولات",
+    "creatorRoster": "قائمة صنّاع المحتوى",
+    "faq": "الأسئلة الشائعة",
+    "getInTouch": "تواصل معنا",
+    "contactLead": "للشراكات والإعلام واستفسارات البطولات.",
+    "rights": "© {year} {name}. جميع الحقوق محفوظة."
+  },
+  "beacon": {
+    "label": "انضم إلى Discord",
+    "ariaLabel": "انضم إلى سيرفر Gamer's Exile على Discord (يفتح في علامة تبويب جديدة)"
+  },
+  "placeholderNotice": {
+    "title": "تنبيه للمطوّرين",
+    "body": "روابط التواصل (Twitch وYouTube وX وTikTok) مؤقتة. ضع الروابط الحقيقية في {file}، ثم احذف {flag}.",
+    "dismiss": "إخفاء"
+  },
+  "countdown": {
+    "days": "يوم",
+    "hours": "ساعة",
+    "minutes": "دقيقة",
+    "seconds": "ثانية",
+    "underway": "جارية الآن",
+    "ariaLabel": "الوقت المتبقي حتى بداية هذه البطولة"
+  },
+  "status": {
+    "comingSoon": "قريبًا",
+    "liveNow": "مباشر الآن",
+    "live": "مباشر",
+    "featured": "مميّز",
+    "complete": "منتهية",
+    "tba": "يُعلن لاحقًا",
+    "toBeAnnounced": "سيُعلن عنه لاحقًا"
+  },
+  "joinCta": {
+    "heading": "فريقك موجود هنا بالفعل",
+    "lead": "انضم إلى Discord، واختر ألعابك، وقل مرحبًا. سيدعوك أحدهم إلى مباراة في الليلة نفسها — وهذا شيء مضمون.",
+    "secondary": "ماذا تتوقع"
+  },
+  "genres": {
+    "tacticalFps": "تصويب تكتيكي",
+    "battleRoyale": "باتل رويال",
+    "moba": "MOBA",
+    "sports": "رياضة",
+    "fighting": "قتال",
+    "heroShooter": "تصويب أبطال",
+    "actionRpg": "أكشن RPG",
+    "rpg": "RPG",
+    "mmorpg": "MMORPG",
+    "sandbox": "ساندبوكس",
+    "coopShooter": "تصويب تعاوني",
+    "everythingElse": "وكل شيء آخر"
+  },
+  "platforms": {
+    "PC": "PC",
+    "Console": "كونسول",
+    "Mobile": "موبايل"
+  },
+  "social": {
+    "onPlatform": "{name} على {platform}"
+  }
+}

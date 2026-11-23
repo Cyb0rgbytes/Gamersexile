@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Clasificación — Top miembros por XP",
+    "description": "La clasificación del Discord de Gamer's Exile: nuestros miembros más activos ordenados por nivel y XP de MEE6. Chatea, juega y haz squad en el servidor para subir posiciones."
+  },
+  "header": {
+    "eyebrow": "Clasificación",
+    "title": "El banzuke. Se gana en el servidor.",
+    "lead": "Nuestros miembros más activos, ordenados por nivel y XP de MEE6. Cada mensaje, cada callout en partida y cada sesión de voz nocturna cuenta: la constancia se ve aquí."
+  },
+  "podium": {
+    "eyebrow": "Top 3",
+    "title": "El podio",
+    "first": "1.º",
+    "second": "2.º",
+    "third": "3.º"
+  },
+  "table": {
+    "eyebrow": "Ranking",
+    "title": "Top 100",
+    "caption": "Miembros del servidor ordenados por nivel de MEE6 y XP total",
+    "rank": "Puesto",
+    "member": "Miembro",
+    "level": "Nivel",
+    "xp": "XP",
+    "progress": "Siguiente nivel",
+    "messages": "Mensajes",
+    "progressLabel": "{current} de {needed} XP para el nivel {next}",
+    "searchLabel": "Buscar miembros",
+    "searchPlaceholder": "Buscar por nombre…",
+    "noResults": "Ningún miembro coincide con «{query}».",
+    "showing": "Mostrando {count} de {total}"
+  },
+  "levelShort": "Nv. {level}",
+  "xpSuffix": "{xp} XP",
+  "messagesSuffix": "Mensajes: {count}",
+  "lastUpdated": "Última actualización: {time}",
+  "refreshNote": "Se actualiza cada 10 minutos aprox.",
+  "rewards": {
+    "eyebrow": "Roles de recompensa",
+    "title": "Lo que desbloquean los niveles",
+    "lead": "Alcanza estos niveles y MEE6 te dará el rol automáticamente.",
+    "item": "Llega al nivel {level}"
+  },
+  "fullBoard": "Ver la clasificación completa en MEE6",
+  "footnote": "El ranking viene del bot MEE6 de nuestro Discord. La XP se gana chateando: el spam no cuenta y hay un tiempo de espera entre mensajes.",
+  "fallback": {
+    "notConfiguredTitle": "La clasificación llega pronto",
+    "notConfiguredBody": "Estamos conectando el ranking en vivo. Mientras tanto, la clasificación completa está en MEE6.",
+    "unavailableTitle": "Ranking no disponible ahora mismo",
+    "unavailableBody": "No hemos podido conectar con MEE6. Inténtalo más tarde o consulta la clasificación completa directamente en MEE6.",
+    "cta": "Abrir la clasificación de MEE6"
+  },
+  "empty": "Nadie ha ganado XP todavía. Sé el primero.",
+  "cta": {
+    "heading": "Empieza a ganar XP esta noche",
+    "lead": "Únete al Discord, saluda y entra en voz. Cada conversación te sube en el banzuke."
+  }
+}

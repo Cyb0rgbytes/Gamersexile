@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Únete",
+    "description": "Únete a Gamer's Exile. Gratis para siempre, sin solicitud, todos los niveles y todas las plataformas son bienvenidos. Tres pasos y esta noche ya tienes squad."
+  },
+  "header": {
+    "eyebrow": "Únete",
+    "title": "Tres pasos y estás dentro",
+    "lead": "Gratis para siempre. Sin solicitud, sin entrevista, sin prueba de nivel. Solo una invitación de Discord y una comunidad que de verdad te va a hablar."
+  },
+  "steps": {
+    "discord": {
+      "title": "Únete al Discord",
+      "body": "Un clic, sin formulario de solicitud y sin entrevista. La invitación te lleva directo al canal de bienvenida."
+    },
+    "roles": {
+      "title": "Lee las normas y elige tus roles",
+      "body": "Dos minutos. Elige los juegos a los que juegas y los avisos que quieres, y te aparecerán los canales adecuados."
+    },
+    "intro": {
+      "title": "Saluda en presentaciones",
+      "body": "Escribe una línea sobre a qué juegas. Alguien te invitará a un squad esa misma noche; eso no falla."
+    }
+  },
+  "door": {
+    "title": "La puerta está abierta",
+    "body": "Un clic. Llegarás al canal de bienvenida, elegirás tus juegos y tendrás plan para esta noche."
+  },
+  "belonging": {
+    "eyebrow": "Quién tiene sitio aquí",
+    "title": "Si juegas, cumples los requisitos",
+    "lead": "Ese es el único requisito de entrada. Esto es lo que significa en la práctica.",
+    "items": {
+      "skill": {
+        "title": "Todos los niveles",
+        "body": "De Bronce a Radiante, de la primera instalación a las cinco mil horas. Los dos extremos comparten canales de voz casi todas las noches."
+      },
+      "platform": {
+        "title": "Todas las plataformas",
+        "body": "PC, consola, portátil, móvil. Los lobbies con crossplay son lo normal y nadie se queda fuera de un squad por su hardware."
+      },
+      "genre": {
+        "title": "Todos los géneros",
+        "body": "Shooters competitivos y simuladores de granja tranquilos conviven en el mismo servidor. Ambos tienen canales propios y nadie se burla de ninguno."
+      },
+      "timezone": {
+        "title": "Todas las zonas horarias",
+        "body": "Una comunidad realmente global significa que la gente de madrugada está en la tarde de otro. Siempre encontrarás a alguien despierto."
+      }
+    }
+  },
+  "rules": {
+    "eyebrow": "Normas de la casa",
+    "title": "Cortas y de verdad aplicadas",
+    "note": "La lista completa está en el servidor. Nunca ha tenido que ser más larga que esto.",
+    "items": [
+      "Trata a todos como si estuvieran en tu equipo, porque tarde o temprano lo estarán.",
+      "El trash talk en las partidas está bien. Los ataques personales, los insultos discriminatorios y el acoso, no.",
+      "Nada de spam de autopromoción fuera de los canales de creadores.",
+      "No cierres puertas a nadie. Todos fuimos nuevos alguna vez, tú también.",
+      "Si algo sale mal, avisa a un mod con un clip o una captura."
+    ]
+  },
+  "elsewhere": {
+    "eyebrow": "En otras redes",
+    "title": "Encuéntranos en todas partes"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "title": "Ganadores de sorteos — Juegos gratis en Discord",
+    "description": "Todos los ganadores de los sorteos del Discord de Gamer's Exile: juegos gratis, moneda del juego y equipo para miembros activos. Participar es gratis, nunca pay-to-win: únete al Discord gamer para entrar en el próximo.",
+    "keywords": [
+      "sorteos Discord gaming",
+      "sorteo de juegos gratis Discord",
+      "ganadores de sorteos Discord",
+      "juegos gratis sorteo",
+      "Discord giveaway"
+    ]
+  },
+  "header": {
+    "eyebrow": "Ganadores de sorteos",
+    "title": "Sorteos gratis. Ganadores reales.",
+    "lead": "Juegos, moneda del juego y equipo para las personas que hacen que el servidor sea lo que es. Aquí aparecen todos los ganadores anteriores: sin compras ni inscripciones de pago, nunca."
+  },
+  "how": {
+    "eyebrow": "Cómo funciona",
+    "title": "Aparece. Participa. Gana.",
+    "steps": [
+      {
+        "title": "Únete al Discord",
+        "body": "Los sorteos se anuncian primero en el servidor, con el premio, la hora de cierre y cómo participar."
+      },
+      {
+        "title": "Participa gratis",
+        "body": "Reacciona a la publicación del sorteo. Algunos sorteos son para miembros activos: se entra participando, nunca pagando."
+      },
+      {
+        "title": "Se eligen los ganadores",
+        "body": "Un bot elige al azar cuando cierra el sorteo, en público y en el mismo canal."
+      },
+      {
+        "title": "Reclama tu premio",
+        "body": "Un moderador escribe al ganador por Discord. Los premios no reclamados se vuelven a sortear."
+      }
+    ]
+  },
+  "stats": {
+    "label": "Totales de sorteos",
+    "giveaways": "Sorteos",
+    "winners": "Ganadores",
+    "value": "Valor en premios"
+  },
+  "timeline": {
+    "eyebrow": "Salón de ganadores",
+    "title": "Sorteos anteriores",
+    "winnersLabel": "Ganadores",
+    "winnerLabel": "Ganador",
+    "sponsoredBy": "Patrocinado por {sponsor}",
+    "announcement": "Ver anuncio",
+    "avatarAlt": "Avatar de Discord de {name}",
+    "value": "Valor aproximado: {value}",
+    "footer": "Cada ganador conserva un lugar permanente en esta página."
+  },
+  "empty": {
+    "chip": "Próximamente",
+    "title": "Aquí aparecerán los primeros ganadores",
+    "body": "Estamos preparando nuestros primeros sorteos. Cuando se sortee un premio, el ganador tendrá un lugar permanente en esta página.",
+    "cta": "Únete al Discord para entrar en el próximo sorteo"
+  },
+  "faq": {
+    "eyebrow": "Preguntas",
+    "title": "Preguntas frecuentes sobre sorteos",
+    "items": [
+      {
+        "q": "¿Cómo participo en un sorteo?",
+        "a": "Únete al Discord de Gamer's Exile y estate atento al canal de sorteos. Cada publicación indica qué se sortea, cuándo cierra y cómo participar; normalmente basta con una reacción."
+      },
+      {
+        "q": "¿De verdad es gratis?",
+        "a": "Sí. Ser miembro es gratis y participar en los sorteos también. No hay inscripciones de pago, ni roles de pago, ni nada pay-to-win: la misma regla que se aplica a todo en el servidor."
+      },
+      {
+        "q": "¿Cómo se eligen los ganadores?",
+        "a": "Al azar, mediante un bot de sorteos, en el momento en que cierra el sorteo y a la vista de todos. Algunos sorteos están reservados a miembros activos, y las cuentas creadas solo para acumular participaciones quedan descalificadas."
+      },
+      {
+        "q": "¿Cómo se entregan los premios?",
+        "a": "Un moderador contacta al ganador por MD en Discord para organizar la entrega; normalmente es una clave de juego, un código de tarjeta regalo o un regalo dentro del juego. Nunca pedimos contraseñas ni pagos. Si un premio no se reclama en el plazo indicado, se vuelve a sortear."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "El próximo premio podría ser tuyo",
+    "lead": "Únete al Discord, activa los avisos de sorteos y participa. La entrada es gratis y siempre lo será."
+  }
+}

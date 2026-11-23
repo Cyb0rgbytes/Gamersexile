@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "Tournaments",
+    "description": "Competitive brackets at Gamer's Exile. Free to enter, open to every skill level, and announced first in the Discord."
+  },
+  "header": {
+    "eyebrow": "Tournaments",
+    "title": "Test Your Skill. Earn Your Name.",
+    "lead": "Brackets across a rotating slate of titles. Free to enter, refereed inside the server, and open to every skill level — from first-timers to the people who keep winning these."
+  },
+  "live": {
+    "entrants": "{count} entrants",
+    "watch": "Watch in Discord"
+  },
+  "upcoming": {
+    "eyebrow": "Upcoming",
+    "title": "Open Brackets",
+    "lead": "Registration opens in the Discord roughly two weeks before each start time. Solo players can request a squad in the same channel.",
+    "leadEmpty": "The next brackets are being planned. Dates, games and prize pools are announced in the Discord first — grab the tournament role so you don't miss registration."
+  },
+  "enter": {
+    "eyebrow": "How to Enter",
+    "title": "Four Steps to the Bracket",
+    "cta": "Register in Discord",
+    "steps": {
+      "role": {
+        "title": "Take the tournament role",
+        "body": "Grab it from the roles channel so you get bracket pings and schedule changes."
+      },
+      "register": {
+        "title": "Register before lock",
+        "body": "Sign up in the registration channel. Solo players can request placement on a squad in the same thread."
+      },
+      "checkin": {
+        "title": "Check in on match day",
+        "body": "Check-in opens an hour before the bracket starts. Miss it and your slot goes to the waitlist."
+      },
+      "play": {
+        "title": "Play",
+        "body": "Match rooms, referees and score reporting all run inside the server. Disputes get a mod, not a Twitter thread."
+      }
+    }
+  },
+  "records": {
+    "eyebrow": "Hall of Records",
+    "title": "Previous Champions",
+    "caption": "Completed tournaments with their champions and final scores",
+    "columns": {
+      "tournament": "Tournament",
+      "game": "Game",
+      "champion": "Champion",
+      "runnerUp": "Runner-up",
+      "score": "Score"
+    },
+    "note": "Every champion gets a permanent role in the server and a place on this list."
+  },
+  "cta": {
+    "heading": "Think You Can Take It?",
+    "lead": "The next bracket opens soon. Join the Discord, grab the tournament role, and put your name in."
+  },
+  "card": {
+    "format": "Format",
+    "teams": "Teams",
+    "prizePool": "Prize pool",
+    "champion": "Champion",
+    "gameTba": "Game to be announced",
+    "announcedFirst": "Announced first in the Discord"
+  },
+  "bracket": {
+    "eyebrow": "Bracket",
+    "title": "How the Last One Was Won",
+    "lead": "The finals bracket from the most recent event, round by round.",
+    "champion": "Champion",
+    "tbd": "TBD",
+    "roundLabel": "{round} — {count} matches",
+    "roundLabelOne": "{round} — 1 match",
+    "scrollHint": "Scroll the bracket sideways to see later rounds."
+  }
+}

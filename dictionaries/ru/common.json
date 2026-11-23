@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "tagline": "Здесь рождаются легенды",
+    "description": "Gamer's Exile — глобальное сообщество геймеров, стримеров и киберспортсменов. Турниры, коллабы с креаторами и дом без токсичности для любого уровня и любого жанра.",
+    "keywords": [
+      "игровое сообщество",
+      "киберспортивное сообщество",
+      "игровой Discord сервер",
+      "киберспортивные турниры",
+      "сообщество стримеров",
+      "сообщество контент-мейкеров",
+      "Gamer's Exile"
+    ]
+  },
+  "skipToContent": "Перейти к содержимому",
+  "language": "Язык",
+  "auth": {
+    "signIn": "Войти",
+    "signUp": "Регистрация",
+    "account": "Аккаунт"
+  },
+  "nav": {
+    "home": "Главная",
+    "tournaments": "Турниры",
+    "creators": "Креаторы",
+    "teams": "Команды",
+    "clips": "Клипы",
+    "leaderboard": "Рейтинг",
+    "winners": "Победители",
+    "community": "Сообщество",
+    "join": "Вступить",
+    "more": "Ещё",
+    "primaryLabel": "Основная навигация",
+    "menu": "Меню",
+    "openMenu": "Открыть меню",
+    "closeMenu": "Закрыть меню",
+    "siteMenu": "Меню сайта"
+  },
+  "cta": {
+    "joinDiscord": "Вступить в Discord",
+    "joinTheDiscord": "Залетай в Discord",
+    "freeLine": "Бесплатно навсегда · Без заявок · Любой уровень"
+  },
+  "brand": {
+    "homeLabel": "{name} — главная",
+    "emblemAlt": "Эмблема Gamer's Exile"
+  },
+  "footer": {
+    "explore": "Разделы",
+    "community": "Сообщество",
+    "discordServer": "Discord-сервер",
+    "tournamentSchedule": "Расписание турниров",
+    "creatorRoster": "Список креаторов",
+    "faq": "Вопросы и ответы",
+    "getInTouch": "Связаться",
+    "contactLead": "Партнёрство, пресса или вопросы о турнирах.",
+    "rights": "© {year} {name}. Все права защищены."
+  },
+  "beacon": {
+    "label": "Залетай в Discord",
+    "ariaLabel": "Вступить в Discord-сервер Gamer's Exile (откроется в новой вкладке)"
+  },
+  "placeholderNotice": {
+    "title": "Заметка для разработчиков",
+    "body": "Ссылки на соцсети (Twitch, YouTube, X, TikTok) — заглушки. Укажи настоящие URL в {file}, затем удали {flag}.",
+    "dismiss": "Закрыть"
+  },
+  "countdown": {
+    "days": "Дн",
+    "hours": "Ч",
+    "minutes": "Мин",
+    "seconds": "Сек",
+    "underway": "Идёт",
+    "ariaLabel": "Время до начала турнира"
+  },
+  "status": {
+    "comingSoon": "Скоро",
+    "liveNow": "Сейчас в эфире",
+    "live": "В эфире",
+    "featured": "Главное",
+    "complete": "Завершён",
+    "tba": "Уточняется",
+    "toBeAnnounced": "Будет объявлено"
+  },
+  "joinCta": {
+    "heading": "Твой отряд уже здесь",
+    "lead": "Залетай в Discord, выбери свои игры и поздоровайся. Кто-нибудь позовёт тебя в катку в тот же вечер — это без вариантов.",
+    "secondary": "Чего ожидать"
+  },
+  "genres": {
+    "tacticalFps": "Тактический шутер",
+    "battleRoyale": "Королевская битва",
+    "moba": "MOBA",
+    "sports": "Спорт",
+    "fighting": "Файтинги",
+    "heroShooter": "Геройский шутер",
+    "actionRpg": "Экшен-RPG",
+    "rpg": "RPG",
+    "mmorpg": "MMORPG",
+    "sandbox": "Песочница",
+    "coopShooter": "Кооп-шутер",
+    "everythingElse": "Всё остальное"
+  },
+  "platforms": {
+    "PC": "ПК",
+    "Console": "Консоль",
+    "Mobile": "Мобильные"
+  },
+  "social": {
+    "onPlatform": "{name} на {platform}"
+  }
+}

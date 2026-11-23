@@ -1,0 +1,112 @@
+{
+  "meta": {
+    "tagline": "Wo Legenden entstehen",
+    "description": "Gamer's Exile ist eine globale Community für Gamer, Streamer und Esports-Spieler. Turniere, Creator-Collabs und ein Zuhause ohne Toxicity – für jedes Skill-Level und jedes Genre.",
+    "keywords": [
+      "Gaming Community",
+      "Esports Community",
+      "Gaming Discord Server deutsch",
+      "Esports Turniere",
+      "Streamer Community",
+      "Content Creator Community",
+      "Gamer's Exile"
+    ]
+  },
+  "skipToContent": "Zum Inhalt springen",
+  "language": "Sprache",
+  "auth": {
+    "signIn": "Anmelden",
+    "signUp": "Registrieren",
+    "account": "Konto"
+  },
+  "nav": {
+    "home": "Start",
+    "tournaments": "Turniere",
+    "creators": "Creator",
+    "teams": "Teams",
+    "clips": "Clips",
+    "leaderboard": "Rangliste",
+    "winners": "Gewinner",
+    "community": "Community",
+    "join": "Beitreten",
+    "more": "Mehr",
+    "primaryLabel": "Hauptnavigation",
+    "menu": "Menü",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "siteMenu": "Seitenmenü"
+  },
+  "cta": {
+    "joinDiscord": "Discord beitreten",
+    "joinTheDiscord": "Tritt dem Discord bei",
+    "freeLine": "Für immer kostenlos · Keine Bewerbung · Alle Skill-Level"
+  },
+  "brand": {
+    "homeLabel": "{name} – Startseite",
+    "emblemAlt": "Gamer's-Exile-Emblem"
+  },
+  "footer": {
+    "explore": "Entdecken",
+    "community": "Community",
+    "discordServer": "Discord-Server",
+    "tournamentSchedule": "Turnierplan",
+    "creatorRoster": "Creator-Roster",
+    "faq": "FAQ",
+    "getInTouch": "Kontakt",
+    "contactLead": "Partnerschaften, Presse oder Turnieranfragen.",
+    "rights": "© {year} {name}. Alle Rechte vorbehalten."
+  },
+  "beacon": {
+    "label": "Tritt dem Discord bei",
+    "ariaLabel": "Dem Gamer's-Exile-Discord-Server beitreten (öffnet in neuem Tab)"
+  },
+  "placeholderNotice": {
+    "title": "Hinweis für Devs",
+    "body": "Die Social-Links (Twitch, YouTube, X, TikTok) sind Platzhalter. Trag die echten URLs in {file} ein und entferne dann {flag}.",
+    "dismiss": "Schließen"
+  },
+  "countdown": {
+    "days": "Tage",
+    "hours": "Std.",
+    "minutes": "Min.",
+    "seconds": "Sek.",
+    "underway": "Läuft",
+    "ariaLabel": "Verbleibende Zeit bis zum Turnierstart"
+  },
+  "status": {
+    "comingSoon": "Demnächst",
+    "liveNow": "Jetzt live",
+    "live": "Live",
+    "featured": "Highlight",
+    "complete": "Beendet",
+    "tba": "TBA",
+    "toBeAnnounced": "Wird noch bekannt gegeben"
+  },
+  "joinCta": {
+    "heading": "Deine Squad ist schon hier",
+    "lead": "Tritt dem Discord bei, wähl deine Games und sag Hallo. Noch am selben Abend lädt dich jemand zu einem Match ein – darauf ist Verlass.",
+    "secondary": "Was dich erwartet"
+  },
+  "genres": {
+    "tacticalFps": "Taktik-Shooter",
+    "battleRoyale": "Battle Royale",
+    "moba": "MOBA",
+    "sports": "Sport",
+    "fighting": "Fighting",
+    "heroShooter": "Hero-Shooter",
+    "actionRpg": "Action-RPG",
+    "rpg": "RPG",
+    "mmorpg": "MMORPG",
+    "sandbox": "Sandbox",
+    "coopShooter": "Koop-Shooter",
+    "everythingElse": "Alles andere"
+  },
+  "platforms": {
+    "PC": "PC",
+    "Console": "Konsole",
+    "Mobile": "Mobile"
+  },
+  "social": {
+    "onPlatform": "{name} auf {platform}"
+  }
+}

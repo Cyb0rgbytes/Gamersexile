@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Join",
+    "description": "Join Gamer's Exile. Free forever, no application, every skill level and every platform welcome. Three steps and you're in a squad tonight."
+  },
+  "header": {
+    "eyebrow": "Join",
+    "title": "Three Steps and You're In",
+    "lead": "Free forever. No application, no interview, no skill check. Just a Discord invite and a community that will actually talk to you."
+  },
+  "steps": {
+    "discord": {
+      "title": "Join the Discord",
+      "body": "One click, no application form and no interview. The invite drops you straight into the welcome channel."
+    },
+    "roles": {
+      "title": "Read the rules, pick your roles",
+      "body": "Two minutes. Choose the games you play and the pings you want, and the right channels appear for you."
+    },
+    "intro": {
+      "title": "Say hi in introductions",
+      "body": "Post a line about what you play. Someone will invite you into a squad the same evening — that part is reliable."
+    }
+  },
+  "door": {
+    "title": "The Door Is Open",
+    "body": "One click. You'll land in the welcome channel, pick your games, and have somewhere to be tonight."
+  },
+  "belonging": {
+    "eyebrow": "Who Belongs Here",
+    "title": "If You Play Games, You Qualify",
+    "lead": "That is the entire entry requirement. Here is what that actually means in practice.",
+    "items": {
+      "skill": {
+        "title": "Every skill level",
+        "body": "Bronze to Radiant, first install to five thousand hours. Both ends of that range are in the same voice channels most nights."
+      },
+      "platform": {
+        "title": "Every platform",
+        "body": "PC, console, handheld, mobile. Crossplay lobbies are the norm and nobody gets left out of a squad over hardware."
+      },
+      "genre": {
+        "title": "Every genre",
+        "body": "Competitive shooters and cosy farming sims sit in the same server. Both have dedicated channels and neither gets mocked."
+      },
+      "timezone": {
+        "title": "Every timezone",
+        "body": "A genuinely global membership means the late-night crowd is somebody else's afternoon. You will find people awake."
+      }
+    }
+  },
+  "rules": {
+    "eyebrow": "House Rules",
+    "title": "Short, and Actually Enforced",
+    "note": "The full list lives in the server. It has never needed to be longer than this.",
+    "items": [
+      "Treat everyone like they're on your team, because eventually they will be.",
+      "Trash talk in matches is fine. Personal attacks, slurs and harassment are not.",
+      "No self-promo spam outside the creator channels.",
+      "Don't gatekeep. Everyone was new once, including you.",
+      "If something goes wrong, ping a mod with a clip or a screenshot."
+    ]
+  },
+  "elsewhere": {
+    "eyebrow": "Elsewhere",
+    "title": "Find Us Everywhere Else"
+  }
+}

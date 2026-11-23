@@ -1,0 +1,15 @@
+{
+  "notFound": {
+    "title": "Dieser Pfad führt ins Nichts",
+    "body": "Die gesuchte Seite hat sich verirrt. Das Tor nach Hause steht aber noch offen.",
+    "home": "Zur Startseite",
+    "tournaments": "Turniere"
+  },
+  "error": {
+    "title": "Da ist was aus der Formation geraten",
+    "body": "Auf dieser Seite ist ein Fehler aufgetreten. Versuch es noch mal – wenn es weiter passiert, sag einem Mod im Discord Bescheid.",
+    "ref": "Ref: {digest}",
+    "retry": "Erneut versuchen"
+  },
+  "loading": "Lädt"
+}

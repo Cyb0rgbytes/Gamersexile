@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "title": "Beitreten",
+    "description": "Tritt Gamer's Exile bei. Für immer kostenlos, keine Bewerbung, jedes Skill-Level und jede Plattform willkommen. Drei Schritte und du bist heute Abend in einer Squad."
+  },
+  "header": {
+    "eyebrow": "Beitreten",
+    "title": "Drei Schritte und du bist dabei",
+    "lead": "Für immer kostenlos. Keine Bewerbung, kein Interview, kein Skill-Check. Nur ein Discord-Invite und eine Community, die wirklich mit dir redet."
+  },
+  "steps": {
+    "discord": {
+      "title": "Tritt dem Discord bei",
+      "body": "Ein Klick, kein Bewerbungsformular und kein Interview. Der Invite bringt dich direkt in den Welcome-Channel."
+    },
+    "roles": {
+      "title": "Regeln lesen, Rollen wählen",
+      "body": "Zwei Minuten. Wähl die Games, die du spielst, und die Pings, die du willst – dann erscheinen die passenden Channels für dich."
+    },
+    "intro": {
+      "title": "Sag Hallo in der Vorstellungsrunde",
+      "body": "Schreib kurz, was du spielst. Noch am selben Abend lädt dich jemand in eine Squad ein – darauf ist Verlass."
+    }
+  },
+  "door": {
+    "title": "Die Tür steht offen",
+    "body": "Ein Klick. Du landest im Welcome-Channel, wählst deine Games und hast heute Abend schon was vor."
+  },
+  "belonging": {
+    "eyebrow": "Wer hierher gehört",
+    "title": "Wenn du zockst, bist du dabei",
+    "lead": "Das ist die einzige Voraussetzung. Und das bedeutet sie in der Praxis.",
+    "items": {
+      "skill": {
+        "title": "Jedes Skill-Level",
+        "body": "Von Bronze bis Radiant, von der ersten Installation bis zu fünftausend Stunden. Beide Enden dieser Spanne sitzen an den meisten Abenden in denselben Voice-Channels."
+      },
+      "platform": {
+        "title": "Jede Plattform",
+        "body": "PC, Konsole, Handheld, Mobile. Crossplay-Lobbys sind normal, und niemand fliegt wegen seiner Hardware aus einer Squad."
+      },
+      "genre": {
+        "title": "Jedes Genre",
+        "body": "Kompetitive Shooter und gemütliche Farming-Sims teilen sich denselben Server. Beide haben eigene Channels, und keiner wird belächelt."
+      },
+      "timezone": {
+        "title": "Jede Zeitzone",
+        "body": "Eine wirklich globale Mitgliedschaft heißt: Die Nachteulen sind für andere gerade Nachmittag. Du findest immer Leute, die wach sind."
+      }
+    }
+  },
+  "rules": {
+    "eyebrow": "Hausregeln",
+    "title": "Kurz – und wirklich durchgesetzt",
+    "note": "Die vollständige Liste findest du auf dem Server. Länger als das hier musste sie nie sein.",
+    "items": [
+      "Behandle alle so, als wären sie in deinem Team – denn irgendwann sind sie es.",
+      "Trash Talk im Match ist okay. Persönliche Angriffe, Beleidigungen und Belästigung nicht.",
+      "Kein Eigenwerbungs-Spam außerhalb der Creator-Channels.",
+      "Kein Gatekeeping. Jeder war mal neu, du auch.",
+      "Wenn etwas schiefläuft, ping einen Mod mit Clip oder Screenshot."
+    ]
+  },
+  "elsewhere": {
+    "eyebrow": "Woanders",
+    "title": "Finde uns überall sonst"
+  }
+}

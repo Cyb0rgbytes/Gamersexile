@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "Communauté",
+    "description": "Qui nous sommes et comment on se comporte. Une communauté gaming sans toxicité, avec des événements chaque semaine, du mentorat pour les nouveaux et des salons vocaux toujours animés."
+  },
+  "header": {
+    "eyebrow": "Communauté",
+    "title": "Née dans un salon vocal, et ça se sent toujours",
+    "lead": "Au-delà des jeux : des coéquipiers fiables, de nouveaux amis et des liens durables avec des gens qui comprennent le grind sans qu'on ait besoin de l'expliquer."
+  },
+  "who": {
+    "eyebrow": "Qui nous sommes",
+    "title": "Une communauté mondiale à l'ambiance de petit serveur",
+    "paragraphs": [
+      "Gamer's Exile est né dans un salon vocal de cinq personnes et n'a jamais perdu cette ambiance. Nous sommes une communauté mondiale et diverse qui réunit joueurs casual, compétiteurs hardcore, créateurs de contenu et tous ceux entre les deux.",
+      "Que tu grindes la ranked, que tu lances ta carrière de streamer ou que tu cherches juste des gens avec qui jouer un mardi soir, cet endroit est fait pour toi. On pense que le jeu vidéo est meilleur quand on le partage — et nos membres le prouvent chaque jour."
+    ]
+  },
+  "values": {
+    "eyebrow": "Notre culture",
+    "title": "Quatre principes sur lesquels on ne transige pas",
+    "lead": "Toutes les communautés se disent accueillantes. Voici les comportements précis qu'on fait réellement respecter.",
+    "items": {
+      "respect": {
+        "title": "Le respect avant tout",
+        "body": "Le trash talk reste dans la partie. Ici, chacun est le coéquipier de quelqu'un, et on le traite comme tel — en vocal, dans le chat et après une défaite."
+      },
+      "noToxicity": {
+        "title": "Une zone sans toxicité",
+        "body": "Harcèlement, insultes et tilt volontaire, c'est l'exclusion. Pas des avertissements à répétition, pas des débats en modmail. L'exclusion. C'est tout l'intérêt de la règle."
+      },
+      "mentors": {
+        "title": "Les vétérans guident les nouveaux",
+        "body": "Personne n'est mis à l'écart parce qu'il débute. Nos vétérans organisent des soirées coaching, des reviews de VOD et des squads de départ, parce que quelqu'un l'a fait pour eux un jour."
+      },
+      "celebrate": {
+        "title": "Chaque grind est célébré",
+        "body": "Première victoire ou premier titre en tournoi, de Bronze à Radiant ou cap des cent viewers — on le poste, et tout le monde applaudit. Victoire ou défaite."
+      }
+    }
+  },
+  "rhythm": {
+    "eyebrow": "Rythme de la semaine",
+    "title": "Il se passe toujours quelque chose",
+    "titleEmpty": "Activités et événements",
+    "lead": "Des rendez-vous réguliers dans la semaine, plus tout ce qui s'improvise en vocal à 2 h du matin. Tous les horaires sont en UTC.",
+    "leadEmpty": "Le programme de la semaine est en préparation. Les activités et événements sont d'abord annoncés sur le Discord, puis listés ici.",
+    "timesUtc": "Horaires en UTC",
+    "emptyBody": "Rejoins le {discord} pour être le premier informé des activités.",
+    "discord": "Discord"
+  },
+  "voice": {
+    "title": "Les salons vocaux ne sont jamais vraiment vides",
+    "body": "Nos salons vocaux sont toujours animés. Il y a presque toujours quelqu'un qui cherche à jouer en équipe, à parler stratégie ou juste à décompresser après une longue partie — quelle que soit ton heure de jeu."
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Ce qu'on nous demande avant de rejoindre",
+    "items": [
+      {
+        "q": "Faut-il être bon aux jeux pour rejoindre ?",
+        "a": "Non. On a des joueurs Radiant et des gens qui ont installé leur premier shooter la semaine dernière, et chacun trouve sa squad. Ton niveau décide dans quel bracket de tournoi tu entres, pas si tu as ta place ici."
+      },
+      {
+        "q": "Combien ça coûte ?",
+        "a": "Rien. L'adhésion est gratuite et le restera. Pas de rôles payants, pas de tournois à inscription payante, pas d'avantages réservés aux abonnés."
+      },
+      {
+        "q": "À quels jeux vous jouez, concrètement ?",
+        "a": "À tout. Les tournois tournent sur les grands titres compétitifs, mais le serveur a des salons pour les RPG, MMO, jeux de combat, simus de course et jeux indés. Si tu ramènes un jeu auquel personne ne joue encore, tu trouveras généralement trois personnes prêtes à l'essayer."
+      },
+      {
+        "q": "Je suis streamer. Qu'est-ce que j'y gagne ?",
+        "a": "Des pings de live auxquels les gens répondent, une place hebdomadaire dans le raid train, du soutien pour tes clips et des shoutouts sur nos salons, et des retours honnêtes sur ton setup. On n'exige aucune exclusivité et on ne prend aucune commission."
+      },
+      {
+        "q": "Comment je m'inscris à un tournoi ?",
+        "a": "Rejoins le Discord, prends le rôle tournoi et inscris-toi dans le salon d'inscription avant la fermeture du bracket. Les joueurs solo peuvent demander une équipe dans le même salon — on forme beaucoup de squads comme ça."
+      },
+      {
+        "q": "Que se passe-t-il si quelqu'un est toxique ?",
+        "a": "Signale-le à un modo avec une capture d'écran ou un clip. Harcèlement et insultes, c'est l'exclusion, pas une série d'avertissements. Nos modos sont actifs en vocal, pas seulement à l'écrit — et c'est là que la plupart des problèmes arrivent."
+      }
+    ]
+  }
+}

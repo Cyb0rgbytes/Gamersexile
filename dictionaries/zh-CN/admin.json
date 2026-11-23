@@ -1,0 +1,25 @@
+{
+  "clips": {
+    "metaTitle": "片段审核",
+    "eyebrow": "审核",
+    "title": "片段审核",
+    "lead": "已隐藏的片段和所有被举报的片段，按举报数从多到少排列。片段被举报达到{threshold}次时会自动隐藏。",
+    "empty": "没有需要审核的内容，队列已清空。",
+    "status": {
+      "published": "已发布",
+      "hidden": "已隐藏"
+    },
+    "reports": "{count}次举报",
+    "noReports": "无举报",
+    "uploader": "上传者：{name}",
+    "view": "打开片段",
+    "restore": "恢复",
+    "restoreReset": "恢复并清除举报",
+    "dismiss": "驳回举报",
+    "hide": "隐藏",
+    "delete": "删除",
+    "deleteConfirm": "要永久删除这个片段及其文件吗？",
+    "working": "处理中…",
+    "done": "完成"
+  }
+}

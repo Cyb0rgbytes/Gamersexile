@@ -1,0 +1,25 @@
+{
+  "clips": {
+    "metaTitle": "クリップのモデレーション",
+    "eyebrow": "モデレーション",
+    "title": "クリップのモデレーション",
+    "lead": "非表示のクリップと通報されたクリップを、通報の多い順に表示しています。通報が{threshold}件に達したクリップは自動的に非表示になります。",
+    "empty": "確認するものはありません。キューは空です。",
+    "status": {
+      "published": "公開中",
+      "hidden": "非表示"
+    },
+    "reports": "通報 {count}件",
+    "noReports": "通報なし",
+    "uploader": "投稿者：{name}",
+    "view": "クリップを開く",
+    "restore": "復元",
+    "restoreReset": "復元して通報をクリア",
+    "dismiss": "通報を却下",
+    "hide": "非表示にする",
+    "delete": "削除",
+    "deleteConfirm": "このクリップとファイルを完全に削除しますか？",
+    "working": "処理中…",
+    "done": "完了"
+  }
+}

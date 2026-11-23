@@ -1,0 +1,15 @@
+{
+  "notFound": {
+    "title": "此路不通",
+    "body": "你要找的页面已经走丢了。回家的大门依然敞开。",
+    "home": "返回首页",
+    "tournaments": "比赛"
+  },
+  "error": {
+    "title": "阵型乱了",
+    "body": "此页面出错了。请重试——如果问题持续出现，请在 Discord 告诉管理员。",
+    "ref": "参考编号：{digest}",
+    "retry": "重试"
+  },
+  "loading": "加载中"
+}

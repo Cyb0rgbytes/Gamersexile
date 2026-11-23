@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "比赛",
+    "description": "Gamer's Exile 的竞技对阵。免费报名，欢迎所有水平，消息第一时间在 Discord 公布。"
+  },
+  "header": {
+    "eyebrow": "比赛",
+    "title": "检验实力，打出名号。",
+    "lead": "多款游戏轮换的竞技对阵。免费报名，在服务器内裁判执法，对所有水平开放——从第一次参赛的新人到屡屡夺冠的老手。"
+  },
+  "live": {
+    "entrants": "{count} 名参赛者",
+    "watch": "在 Discord 观赛"
+  },
+  "upcoming": {
+    "eyebrow": "即将开赛",
+    "title": "开放报名的对阵",
+    "lead": "报名大约在每场比赛开始前两周于 Discord 开启。单排玩家可以在同一频道申请分配小队。",
+    "leadEmpty": "下一批对阵正在筹备中。日期、游戏和奖金池会先在 Discord 公布——领取比赛身份组，以免错过报名。"
+  },
+  "enter": {
+    "eyebrow": "如何报名",
+    "title": "四步进入对阵",
+    "cta": "在 Discord 报名",
+    "steps": {
+      "role": {
+        "title": "领取比赛身份组",
+        "body": "在身份组频道领取，即可收到对阵提醒和日程变更通知。"
+      },
+      "register": {
+        "title": "在截止前报名",
+        "body": "在报名频道登记。单排玩家可以在同一帖子里申请分配到小队。"
+      },
+      "checkin": {
+        "title": "比赛日签到",
+        "body": "签到在对阵开始前一小时开放。错过签到，你的名额将转给候补。"
+      },
+      "play": {
+        "title": "开打",
+        "body": "比赛房间、裁判和比分上报全部在服务器内进行。有争议找管理员，而不是去 Twitter 开帖。"
+      }
+    }
+  },
+  "records": {
+    "eyebrow": "荣誉殿堂",
+    "title": "历届冠军",
+    "caption": "已结束的比赛及其冠军和最终比分",
+    "columns": {
+      "tournament": "比赛",
+      "game": "游戏",
+      "champion": "冠军",
+      "runnerUp": "亚军",
+      "score": "比分"
+    },
+    "note": "每位冠军都会获得服务器内的永久身份组，并永久留名于此榜单。"
+  },
+  "cta": {
+    "heading": "觉得你能拿下？",
+    "lead": "下一场对阵即将开放。加入 Discord，领取比赛身份组，报上你的名字。"
+  },
+  "card": {
+    "format": "赛制",
+    "teams": "队伍",
+    "prizePool": "奖金池",
+    "champion": "冠军",
+    "gameTba": "游戏待公布",
+    "announcedFirst": "Discord 首发公布"
+  },
+  "bracket": {
+    "eyebrow": "对阵",
+    "title": "上一届是怎么赢下来的",
+    "lead": "最近一场赛事的决赛对阵，逐轮呈现。",
+    "champion": "冠军",
+    "tbd": "待定",
+    "roundLabel": "{round} — {count} 场比赛",
+    "roundLabelOne": "{round} — 1 场比赛",
+    "scrollHint": "横向滚动对阵图，查看后续轮次。"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "description": "Gamer's Exile es una comunidad global para gamers, streamers y jugadores de esports. Torneos, colaboraciones entre creadores y un hogar sin toxicidad para todos los niveles y todos los géneros."
+  },
+  "hero": {
+    "eyebrow": "Comunidad global",
+    "headline": [
+      "Donde",
+      "las",
+      "leyendas",
+      "se",
+      "forjan"
+    ],
+    "highlightIndex": 2,
+    "lead": "Un hogar para gamers, streamers y jugadores de esports que viven la competición, la creatividad y la conexión. Todos los niveles, todos los géneros, todas las plataformas.",
+    "ctaPrimary": "Únete al Discord",
+    "ctaSecondary": "Ver torneos",
+    "scroll": "Desliza",
+    "soon": "Pronto",
+    "highlights": {
+      "members": "Miembros",
+      "tournaments": "Torneos",
+      "creators": "Creadores"
+    }
+  },
+  "band": [
+    "Todos los juegos son bienvenidos",
+    "Cero toxicidad",
+    "Todos los niveles",
+    "Torneos cada semana"
+  ],
+  "pillars": {
+    "eyebrow": "Qué hacemos",
+    "title": "Cuatro pilares, una comunidad",
+    "lead": "Competición, creación, variedad y amistad. Todo lo que organizamos se basa en uno de estos.",
+    "explore": "Explorar",
+    "items": {
+      "esports": {
+        "title": "Esports y torneos",
+        "body": "Brackets competitivos en una selección rotativa de títulos. Pon a prueba tu habilidad, escala posiciones y gánate un nombre que signifique algo aquí dentro."
+      },
+      "streaming": {
+        "title": "Streaming y creación",
+        "body": "Una plataforma de despegue para streamers y creadores. Collabs, shoutouts, raid trains y una comunidad que de verdad se presenta a ver, chatear y crecer contigo."
+      },
+      "games": {
+        "title": "Todos los juegos son bienvenidos",
+        "body": "No estamos atados a un solo título. Battle royales, FPS, MOBA, RPG, juegos de lucha y joyas indie: si tú lo juegas, alguien aquí también."
+      },
+      "community": {
+        "title": "Comunidad y amistad",
+        "body": "Más allá de los juegos: compañeros de equipo fiables, nuevos amigos y conexiones duraderas con gente que entiende el grind sin que se lo tengas que explicar."
+      }
+    }
+  },
+  "featured": {
+    "eyebrow": "Lo próximo",
+    "title": "El evento principal",
+    "bracketOpensIn": "El bracket abre en",
+    "prizePool": "Bolsa de premios",
+    "teams": "Equipos",
+    "format": "Formato",
+    "viewBracket": "Ver bracket",
+    "howToEnter": "Cómo participar",
+    "emptyBody": "Estamos planificando el próximo evento principal. El juego, la fecha y la bolsa de premios se anunciarán primero en el Discord: consigue el rol de torneos para recibir el aviso cuando se abran las inscripciones.",
+    "getNotified": "Recibe avisos en Discord"
+  },
+  "spotlight": {
+    "eyebrow": "Creadores destacados",
+    "title": "Las personas detrás de los streams",
+    "lead": "Streamers, editores y competidores que construyen algo propio, con una comunidad que de verdad se presenta.",
+    "leadEmpty": "Estamos añadiendo a los primeros creadores. Streamers, editores y competidores que construyen algo propio, con una comunidad que de verdad se presenta.",
+    "becomeCreator": "Hazte creador",
+    "fullRoster": "Roster completo"
+  },
+  "games": {
+    "eyebrow": "Todos los juegos son bienvenidos",
+    "title": "No estamos atados a un solo título",
+    "lead": "Battle royales, shooters tácticos, MOBA, juegos de lucha, RPG y joyas indie. Si tú lo juegas, alguien aquí también.",
+    "footnote": "…y lo que sea que el servidor convenza a alguien de comprar esta semana."
+  },
+  "culture": {
+    "quote": "El respeto y la inclusión van primero. Los nuevos miembros son bienvenidos, los veteranos guían a los recién llegados y el grind de cada uno se celebra, se gane o se pierda.",
+    "voiceChannels": "Nuestros canales de voz siempre tienen movimiento. Casi siempre hay alguien buscando equipo, hablando de estrategia o simplemente desconectando tras una partida larga, sea la hora que sea."
+  },
+  "og": {
+    "lead": "Torneos, streamers y un hogar sin toxicidad para gamers de cualquier nivel, género y plataforma.",
+    "footer": "Esports · Streaming · Comunidad"
+  }
+}

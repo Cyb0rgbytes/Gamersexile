@@ -1,0 +1,25 @@
+{
+  "clips": {
+    "metaTitle": "Modération des clips",
+    "eyebrow": "Modération",
+    "title": "Modération des clips",
+    "lead": "Les clips masqués et tout ce qui a été signalé, les plus signalés en premier. Les clips se masquent automatiquement à partir de {threshold} signalements.",
+    "empty": "Rien à vérifier. La file est vide.",
+    "status": {
+      "published": "Publié",
+      "hidden": "Masqué"
+    },
+    "reports": "{count} signalements",
+    "noReports": "Aucun signalement",
+    "uploader": "Posté par : {name}",
+    "view": "Ouvrir le clip",
+    "restore": "Restaurer",
+    "restoreReset": "Restaurer et effacer les signalements",
+    "dismiss": "Ignorer les signalements",
+    "hide": "Masquer",
+    "delete": "Supprimer",
+    "deleteConfirm": "Supprimer définitivement ce clip et ses fichiers ?",
+    "working": "En cours…",
+    "done": "Terminé"
+  }
+}

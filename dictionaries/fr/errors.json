@@ -1,0 +1,15 @@
+{
+  "notFound": {
+    "title": "Ce chemin ne mène nulle part",
+    "body": "La page que tu cherchais s'est perdue en route. La porte du retour est toujours ouverte.",
+    "home": "Retour à l'accueil",
+    "tournaments": "Tournois"
+  },
+  "error": {
+    "title": "Quelque chose a rompu les rangs",
+    "body": "Cette page a rencontré une erreur. Réessaie — si ça continue, préviens un modo sur le Discord.",
+    "ref": "réf. : {digest}",
+    "retry": "Réessayer"
+  },
+  "loading": "Chargement"
+}

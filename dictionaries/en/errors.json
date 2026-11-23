@@ -1,0 +1,15 @@
+{
+  "notFound": {
+    "title": "This Path Leads Nowhere",
+    "body": "The page you were after has wandered off. The gate home is still open.",
+    "home": "Back to Home",
+    "tournaments": "Tournaments"
+  },
+  "error": {
+    "title": "Something Broke Formation",
+    "body": "This page hit an error. Try again — if it keeps happening, tell a mod in the Discord.",
+    "ref": "ref: {digest}",
+    "retry": "Try Again"
+  },
+  "loading": "Loading"
+}

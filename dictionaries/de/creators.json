@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "Creator",
+    "description": "Die Streamer, Editoren und Competitors von Gamer's Exile. Collabs, Raid Trains, Clip-Support und ehrliches Feedback für Creator in jeder Phase."
+  },
+  "header": {
+    "eyebrow": "Creator",
+    "title": "Ein Sprungbrett, keine Rangliste",
+    "lead": "Streamer, Editoren und Competitors, die etwas Eigenes aufbauen – unterstützt von einer Community, die wirklich einschaltet, mitchattet und mit ihnen wächst."
+  },
+  "live": {
+    "one": "{names} streamt gerade.",
+    "other": "{names} streamen gerade."
+  },
+  "roster": {
+    "eyebrow": "Das Roster",
+    "title": "Wen du hier findest",
+    "lead": "Filtere danach, was sie machen. Jeder auf dieser Liste hat irgendwo angefangen – die meisten hier.",
+    "leadEmpty": "Das Roster wird gerade zusammengestellt. Die ersten Streamer, Creator und Spieler werden hier und im Discord bekannt gegeben."
+  },
+  "filters": {
+    "groupLabel": "Creator nach Rolle filtern",
+    "all": "Alle",
+    "streamer": "Streamer",
+    "content": "Creator",
+    "player": "Spieler",
+    "founder": "Gründer",
+    "showing": "{shown} von {total} Creatorn",
+    "empty": "In dieser Kategorie gibt es noch keine Creator."
+  },
+  "roles": {
+    "streamer": "Streamer",
+    "content": "Content Creator",
+    "player": "Esports-Spieler",
+    "founder": "Gründer"
+  },
+  "card": {
+    "yourName": "Dein Name hier",
+    "slotOpen": "Roster-Platz frei",
+    "placeholderBody": "Das Roster wird gerade zusammengestellt. Du streamst oder machst Content? Hol dir die Creator-Rolle im Discord, um berücksichtigt zu werden.",
+    "apply": "Im Discord bewerben"
+  },
+  "perks": {
+    "eyebrow": "Was wir bieten",
+    "title": "Support, der wirklich Support ist",
+    "lead": "Keine Exklusivklauseln, keine Umsatzbeteiligung, keine Mindest-Follower. Vier Dinge, die wir für jeden Creator auf dem Server tun.",
+    "items": {
+      "collabs": {
+        "title": "Collabs & Raid Trains",
+        "body": "Jede Woche feste Raid Trains und ein Collab-Board, auf dem sich Mitglieder für Co-Streams, Turniere und Challenge-Runs zusammentun."
+      },
+      "chat": {
+        "title": "Ein Chat, der auftaucht",
+        "body": "Go-Live-Pings, auf die Leute wirklich reagieren. Neue Streamer bekommen hier ihr erstes echtes Publikum, statt vor einem leeren Raum zu reden."
+      },
+      "clips": {
+        "title": "Clips & Shoutouts",
+        "body": "Deine besten Momente werden geschnitten, gepostet und in den Channels der Community gepusht. Gute Clips kommen weiter als pures Glück."
+      },
+      "feedback": {
+        "title": "Feedback statt Schmeichelei",
+        "body": "Ehrliche Reviews zu Overlay, Audio, Pacing und Thumbnails – von Leuten, die die Fehler schon gemacht haben, die du gerade machen willst."
+      }
+    }
+  },
+  "cta": {
+    "heading": "Willst du ins Roster?",
+    "lead": "Tritt dem Discord bei und hol dir die Creator-Rolle. Poste deinen Kanal im Creator-Channel – noch in derselben Woche bist du in der Raid-Train-Rotation."
+  }
+}
