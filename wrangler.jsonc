@@ -4,6 +4,11 @@
   // existing Worker in the Cloudflare dashboard has a different name.
   "name": "gamersexile",
   "main": ".open-next/worker.js",
+  // Serve only on the custom domains (gamersexile.net / .org). The
+  // *.workers.dev address and per-version preview URLs would be extra public
+  // copies of the site where production sign-in doesn't work.
+  "workers_dev": false,
+  "preview_urls": false,
   "compatibility_date": "2026-11-01",
   "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
   "assets": {
