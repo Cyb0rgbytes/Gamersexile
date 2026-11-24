@@ -11,8 +11,7 @@ import auth from "./auth.json";
 import teams from "./teams.json";
 import clips from "./clips.json";
 import leaderboard from "./leaderboard.json";
-import winners from "./winners.json";
 import admin from "./admin.json";
 
-const dictionary = { common, home, tournaments, creators, community, join, errors, auth, teams, clips, leaderboard, winners, admin };
+const dictionary = { common, home, tournaments, creators, community, join, errors, auth, teams, clips, leaderboard, admin };
 export default dictionary;
