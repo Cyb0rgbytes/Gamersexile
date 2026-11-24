@@ -9,6 +9,7 @@ import {
   dropPending,
   errorResponse,
   loadPending,
+  pendingThumbKey,
   readBodyCapped,
   thumbKeyFor,
 } from "@/lib/clips/server";
@@ -20,7 +21,7 @@ export async function POST(req: Request, { params }: { params: Promise<{ id: str
     const userId = await requireUserId();
     const { id } = await params;
     const pending = await loadPending(id, userId);
-    await assertUploadQuota(userId);
+    await assertUploadQuota(userId, { includePending: false });
 
     let parts: { partNumber: number; etag: string }[];
     try {
@@ -52,11 +53,20 @@ export async function POST(req: Request, { params }: { params: Promise<{ id: str
       throw new ClipError(video.size > MAX_CLIP_BYTES ? "too-large" : "size-mismatch");
     }
 
-    const [webp, jpg] = await Promise.all([
-      bucket.head(thumbKeyFor(id, "webp")),
-      bucket.head(thumbKeyFor(id, "jpg")),
-    ]);
-    const thumbKey = webp?.key ?? jpg?.key ?? null;
+    // Move the poster (≤ 300 KB, uploaded at step 2) from the pending area to
+    // the clip's permanent prefix.
+    let thumbKey: string | null = null;
+    for (const ext of ["webp", "jpg"] as const) {
+      const src = await bucket.get(pendingThumbKey(userId, id, ext));
+      if (!src) continue;
+      const contentType = src.httpMetadata?.contentType ?? (ext === "webp" ? "image/webp" : "image/jpeg");
+      thumbKey = thumbKeyFor(id, ext);
+      await bucket.put(thumbKey, await src.arrayBuffer(), {
+        httpMetadata: { contentType },
+        customMetadata: { userId, clipId: id },
+      });
+      break;
+    }
 
     // Name and avatar for the clip card. Not fatal if Clerk is unreachable.
     await syncProfile().catch((e) => console.warn("[clips] profile sync failed", e));
@@ -73,7 +83,7 @@ export async function POST(req: Request, { params }: { params: Promise<{ id: str
       sizeBytes: video.size,
       durationS: pending.durationS,
     });
-    await dropPending(id);
+    await dropPending(pending);
 
     revalidatePath("/[lang]/clips", "layout");
     return Response.json({ ok: true, id }, { headers: { "Cache-Control": "no-store" } });

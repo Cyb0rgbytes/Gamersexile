@@ -5,9 +5,9 @@ import {
   ClipError,
   errorResponse,
   loadPending,
+  pendingThumbKey,
   readBodyCapped,
   sniffThumb,
-  thumbKeyFor,
 } from "@/lib/clips/server";
 
 /* PUT /api/clips/upload/:id/thumb — the poster frame the browser cut from the
@@ -26,9 +26,10 @@ export async function PUT(req: Request, { params }: { params: Promise<{ id: stri
 
     const bucket = await getClipsBucket();
     const ext = THUMB_TYPES[type];
+    // Stored with the pending upload; moved to clips/<id>/ on completion.
     // Only one poster per clip: drop the other format if a retry switched it.
-    await bucket.delete(thumbKeyFor(pending.id, ext === "webp" ? "jpg" : "webp"));
-    await bucket.put(thumbKeyFor(pending.id, ext), bytes, {
+    await bucket.delete(pendingThumbKey(userId, pending.id, ext === "webp" ? "jpg" : "webp"));
+    await bucket.put(pendingThumbKey(userId, pending.id, ext), bytes, {
       httpMetadata: { contentType: type },
       customMetadata: { userId, clipId: pending.id },
     });

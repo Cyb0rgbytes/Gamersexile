@@ -43,7 +43,7 @@ import {
 export async function POST(req: Request) {
   try {
     const userId = await requireUserId();
-    await assertUploadQuota(userId);
+    await assertUploadQuota(userId, { includePending: true });
 
     const raw = await readBodyCapped(req, 4096);
     let body: Record<string, unknown>;
