@@ -53,7 +53,9 @@
     "faq": "FAQ",
     "getInTouch": "Nous contacter",
     "contactLead": "Partenariats, presse ou demandes liées aux tournois.",
-    "rights": "© {year} {name}. Tous droits réservés."
+    "rights": "© {year} {name}. Tous droits réservés.",
+    "privacy": "Confidentialité et cookies",
+    "terms": "Conditions et remboursements"
   },
   "beacon": {
     "label": "Rejoins le Discord",

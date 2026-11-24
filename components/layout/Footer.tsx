@@ -126,9 +126,19 @@ export async function Footer() {
         </div>
 
         <div className="mt-14 flex flex-col gap-4 border-t border-steel-line pt-7 sm:flex-row sm:items-center sm:justify-between">
-          <p className="text-xs text-bone-faint">
-            {fill(f.rights, { year, name: SITE.name })}
-          </p>
+          <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:gap-6">
+            <p className="text-xs text-bone-faint">
+              {fill(f.rights, { year, name: SITE.name })}
+            </p>
+            <nav aria-label={`${f.privacy} · ${f.terms}`} className="flex flex-wrap gap-x-5 gap-y-2 text-xs">
+              <Link href="/privacy" className="text-bone-dim transition-colors hover:text-crimson-hot">
+                {f.privacy}
+              </Link>
+              <Link href="/terms" className="text-bone-dim transition-colors hover:text-crimson-hot">
+                {f.terms}
+              </Link>
+            </nav>
+          </div>
           <p lang="ja" className="font-jp text-xs tracking-[0.3em] text-bone-faint/70">
             {SITE.taglineJp}
           </p>

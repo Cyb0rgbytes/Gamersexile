@@ -198,9 +198,9 @@
     "semantic_hash": ""
   },
   "app/sitemap.ts": {
-    "mtime": 1795550882.3367813,
-    "seen": 1795550964.4070745,
-    "ast_hash": "c7cd309c21d1a43194c7e1dc104477c9",
+    "mtime": 1795551877.8272045,
+    "seen": 1795552122.2341795,
+    "ast_hash": "49cb3f0d6a8aba37f1b982b6bc68df53",
     "semantic_hash": ""
   },
   "cloudflare-env.d.ts": {
@@ -360,9 +360,9 @@
     "semantic_hash": ""
   },
   "components/layout/Footer.tsx": {
-    "mtime": 1795455076.8490098,
-    "seen": 1795470023.0818667,
-    "ast_hash": "ae41725c1888a1901863466c2749a99e",
+    "mtime": 1795551885.8895767,
+    "seen": 1795552122.2342377,
+    "ast_hash": "75cfdbf2aec1a95306b34342e83ab5e2",
     "semantic_hash": ""
   },
   "components/layout/Header.tsx": {
@@ -672,9 +672,9 @@
     "semantic_hash": ""
   },
   "dictionaries/ar/common.json": {
-    "mtime": 1795550882.632667,
-    "seen": 1795550964.4071882,
-    "ast_hash": "0aca86df9a212b4af65f15366ca4b85a",
+    "mtime": 1795551877.5485299,
+    "seen": 1795552122.2343924,
+    "ast_hash": "0729594fdbf8d69320e00ecba2cb7640",
     "semantic_hash": ""
   },
   "dictionaries/ar/community.json": {
@@ -702,9 +702,9 @@
     "semantic_hash": ""
   },
   "dictionaries/ar/index.ts": {
-    "mtime": 1795550880.144803,
-    "seen": 1795550964.4071953,
-    "ast_hash": "c221fcd44623db1779856c109bc60c1f",
+    "mtime": 1795551643.524754,
+    "seen": 1795552122.2344015,
+    "ast_hash": "4130dc26c9a830a33d3dba3e65da3c68",
     "semantic_hash": ""
   },
   "dictionaries/ar/join.json": {
@@ -750,9 +750,9 @@
     "semantic_hash": ""
   },
   "dictionaries/de/common.json": {
-    "mtime": 1795550882.6341715,
-    "seen": 1795550964.407207,
-    "ast_hash": "68ac72aad20c167d831fd8d18726de06",
+    "mtime": 1795551877.5485299,
+    "seen": 1795552122.2344203,
+    "ast_hash": "c498b9512526793f729e70c2e74e20a0",
     "semantic_hash": ""
   },
   "dictionaries/de/community.json": {
@@ -780,9 +780,9 @@
     "semantic_hash": ""
   },
   "dictionaries/de/index.ts": {
-    "mtime": 1795550880.3759818,
-    "seen": 1795550964.4072142,
-    "ast_hash": "47394cec8c9beafe3217a8c84b0e17c7",
+    "mtime": 1795551643.525258,
+    "seen": 1795552122.2344332,
+    "ast_hash": "2a88755819b868ac323d76e42244d77e",
     "semantic_hash": ""
   },
   "dictionaries/de/join.json": {
@@ -828,9 +828,9 @@
     "semantic_hash": ""
   },
   "dictionaries/en/common.json": {
-    "mtime": 1795550882.635685,
-    "seen": 1795550964.4072256,
-    "ast_hash": "f7acfa610a5e782b6e017cc178ea0865",
+    "mtime": 1795551877.5475192,
+    "seen": 1795552122.234454,
+    "ast_hash": "e861dccbaeb951fe840d0e532550a7ec",
     "semantic_hash": ""
   },
   "dictionaries/en/community.json": {
@@ -858,9 +858,9 @@
     "semantic_hash": ""
   },
   "dictionaries/en/index.ts": {
-    "mtime": 1795550880.6473062,
-    "seen": 1795550964.4072328,
-    "ast_hash": "83c803ae97f62030189c4b9033ef1c88",
+    "mtime": 1795551643.5277808,
+    "seen": 1795552122.234466,
+    "ast_hash": "051ee5128ed24c054fb586b9707b7b4c",
     "semantic_hash": ""
   },
   "dictionaries/en/join.json": {
@@ -906,9 +906,9 @@
     "semantic_hash": ""
   },
   "dictionaries/es/common.json": {
-    "mtime": 1795550882.635685,
-    "seen": 1795550964.4072442,
-    "ast_hash": "8c4dfa0f2d7cccb2894a58f9ed2e94df",
+    "mtime": 1795551877.5500379,
+    "seen": 1795552122.2344873,
+    "ast_hash": "acb1bd4943d54d24df7f427b129ae3bb",
     "semantic_hash": ""
   },
   "dictionaries/es/community.json": {
@@ -936,9 +936,9 @@
     "semantic_hash": ""
   },
   "dictionaries/es/index.ts": {
-    "mtime": 1795550880.8781638,
-    "seen": 1795550964.4072514,
-    "ast_hash": "3526654bc2da401b0264230c9e1f4cae",
+    "mtime": 1795551643.529286,
+    "seen": 1795552122.2344992,
+    "ast_hash": "585c8c12cb16d53b15bd1037b796409d",
     "semantic_hash": ""
   },
   "dictionaries/es/join.json": {
@@ -984,9 +984,9 @@
     "semantic_hash": ""
   },
   "dictionaries/fr/common.json": {
-    "mtime": 1795550882.6366954,
-    "seen": 1795550964.4072626,
-    "ast_hash": "cb4405eb48e0a41dda96f030007a98a7",
+    "mtime": 1795551877.5500379,
+    "seen": 1795552122.234516,
+    "ast_hash": "c9910ba37965274d3dd896141a2bacb7",
     "semantic_hash": ""
   },
   "dictionaries/fr/community.json": {
@@ -1014,9 +1014,9 @@
     "semantic_hash": ""
   },
   "dictionaries/fr/index.ts": {
-    "mtime": 1795550881.1220703,
-    "seen": 1795550964.4072695,
-    "ast_hash": "5fa6531620ec07a56063679f11c38a67",
+    "mtime": 1795551643.5318286,
+    "seen": 1795552122.2345233,
+    "ast_hash": "50ec23100924b9598d6959931424ff26",
     "semantic_hash": ""
   },
   "dictionaries/fr/join.json": {
@@ -1062,9 +1062,9 @@
     "semantic_hash": ""
   },
   "dictionaries/ja/common.json": {
-    "mtime": 1795550882.6366954,
-    "seen": 1795550964.4072804,
-    "ast_hash": "96ace6a0f5d4c42cf36b4180a57472c4",
+    "mtime": 1795551877.551541,
+    "seen": 1795552122.2345352,
+    "ast_hash": "84e6dbc3191d645eb198b439a47c5b79",
     "semantic_hash": ""
   },
   "dictionaries/ja/community.json": {
@@ -1092,9 +1092,9 @@
     "semantic_hash": ""
   },
   "dictionaries/ja/index.ts": {
-    "mtime": 1795550881.3508987,
-    "seen": 1795550964.4072876,
-    "ast_hash": "a8fa0dd59e9b3af21ed7aa88e15508c3",
+    "mtime": 1795551643.5341089,
+    "seen": 1795552122.2345426,
+    "ast_hash": "f02a046d55bb2d08cba7076d32bdad58",
     "semantic_hash": ""
   },
   "dictionaries/ja/join.json": {
@@ -1140,9 +1140,9 @@
     "semantic_hash": ""
   },
   "dictionaries/ru/common.json": {
-    "mtime": 1795550882.6382,
-    "seen": 1795550964.4072988,
-    "ast_hash": "1eb3cff78491b6a9fb88ae16aa7172a6",
+    "mtime": 1795551877.5495324,
+    "seen": 1795552122.2345543,
+    "ast_hash": "d06d323074777a8c8d623630d1bc4ed9",
     "semantic_hash": ""
   },
   "dictionaries/ru/community.json": {
@@ -1170,9 +1170,9 @@
     "semantic_hash": ""
   },
   "dictionaries/ru/index.ts": {
-    "mtime": 1795550881.5879567,
-    "seen": 1795550964.4073057,
-    "ast_hash": "9df39d79120d1375a8cd6a2a053c1a01",
+    "mtime": 1795551643.5363326,
+    "seen": 1795552122.2345617,
+    "ast_hash": "74eca170dc5dcaf80b9e6400b442d894",
     "semantic_hash": ""
   },
   "dictionaries/ru/join.json": {
@@ -1218,9 +1218,9 @@
     "semantic_hash": ""
   },
   "dictionaries/zh-CN/common.json": {
-    "mtime": 1795550882.6382,
-    "seen": 1795550964.407317,
-    "ast_hash": "ed74c88e9b46dee04f6df18655458fce",
+    "mtime": 1795551877.5500379,
+    "seen": 1795552122.2345734,
+    "ast_hash": "b09e2525c6bbc72efc8639ef47281529",
     "semantic_hash": ""
   },
   "dictionaries/zh-CN/community.json": {
@@ -1248,9 +1248,9 @@
     "semantic_hash": ""
   },
   "dictionaries/zh-CN/index.ts": {
-    "mtime": 1795550881.8633237,
-    "seen": 1795550964.4073243,
-    "ast_hash": "bdb7824b02104fef95b96a68ad492ac4",
+    "mtime": 1795551643.5373335,
+    "seen": 1795552122.234581,
+    "ast_hash": "c9b671fe3a81c2a9c4400a41b6ed09b9",
     "semantic_hash": ""
   },
   "dictionaries/zh-CN/join.json": {
@@ -1404,9 +1404,9 @@
     "semantic_hash": ""
   },
   "lib/site.ts": {
-    "mtime": 1795550882.097935,
-    "seen": 1795550964.4073617,
-    "ast_hash": "8f8737d9d75d21f85324ef25295093fa",
+    "mtime": 1795551643.548266,
+    "seen": 1795552122.2346287,
+    "ast_hash": "4c01a99729f1b6cce78378b7929a34aa",
     "semantic_hash": ""
   },
   "lib/teams/actions.ts": {
@@ -1611,6 +1611,54 @@
     "mtime": 1795550878.8591473,
     "seen": 1795550964.4073868,
     "ast_hash": "36aac830061485263d4424f4eca373a6",
+    "semantic_hash": ""
+  },
+  "app/[lang]/privacy/page.tsx": {
+    "mtime": 1795551867.3498578,
+    "seen": 1795552122.2341352,
+    "ast_hash": "43aed52c0f86e3af921ce84c500fa29d",
+    "semantic_hash": ""
+  },
+  "app/[lang]/terms/page.tsx": {
+    "mtime": 1795551867.4220173,
+    "seen": 1795552122.2341514,
+    "ast_hash": "f32035192f4f504fb4914ec9bb45015b",
+    "semantic_hash": ""
+  },
+  "components/legal/LegalDocument.tsx": {
+    "mtime": 1795551743.248208,
+    "seen": 1795552122.23427,
+    "ast_hash": "fc61d6cbfc60a62d910167d7892d4c78",
+    "semantic_hash": ""
+  },
+  "lib/legal/index.ts": {
+    "mtime": 1795551854.8855515,
+    "seen": 1795552122.2346191,
+    "ast_hash": "d4c71a8616d93a919cc620f0389fee73",
+    "semantic_hash": ""
+  },
+  "lib/legal/metadata.ts": {
+    "mtime": 1795551867.2753346,
+    "seen": 1795552122.2346213,
+    "ast_hash": "918ccb8e501d64e1725de71c1cafddc5",
+    "semantic_hash": ""
+  },
+  "lib/legal/privacy.ts": {
+    "mtime": 1795551792.6968486,
+    "seen": 1795552122.2346227,
+    "ast_hash": "cc3bf15ac5fec6ea442fa2c6576ee854",
+    "semantic_hash": ""
+  },
+  "lib/legal/terms.ts": {
+    "mtime": 1795551854.8100162,
+    "seen": 1795552122.234624,
+    "ast_hash": "3978cc8ec6b1ecd3e1a2612d08a69ece",
+    "semantic_hash": ""
+  },
+  "lib/legal/types.ts": {
+    "mtime": 1795551743.1699803,
+    "seen": 1795552122.2346253,
+    "ast_hash": "be00fb749e97e73b444efdd68b05c2e9",
     "semantic_hash": ""
   },
   "package-lock.json": {

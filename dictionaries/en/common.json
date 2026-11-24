@@ -53,7 +53,9 @@
     "faq": "FAQ",
     "getInTouch": "Get in touch",
     "contactLead": "Partnerships, press or tournament enquiries.",
-    "rights": "© {year} {name}. All rights reserved."
+    "rights": "© {year} {name}. All rights reserved.",
+    "privacy": "Privacy & Cookies",
+    "terms": "Terms & Refunds"
   },
   "beacon": {
     "label": "Join the Discord",
