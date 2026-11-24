@@ -143,12 +143,6 @@
     "ast_hash": "d66c864b28981f0a10c67e5dd74628f9",
     "semantic_hash": ""
   },
-  "app/[lang]/winners/page.tsx": {
-    "mtime": 1795455126.6571028,
-    "seen": 1795470023.0818248,
-    "ast_hash": "c44559a100135ddec705666433191ef7",
-    "semantic_hash": ""
-  },
   "app/api/clips/[id]/thumb/route.ts": {
     "mtime": 1795455124.3052416,
     "seen": 1795470023.0818257,
@@ -162,9 +156,9 @@
     "semantic_hash": ""
   },
   "app/api/clips/upload/[id]/complete/route.ts": {
-    "mtime": 1795545798.553046,
-    "seen": 1795546518.3789108,
-    "ast_hash": "4ad448409c258bccaaa423494c2bb493",
+    "mtime": 1795550878.8432727,
+    "seen": 1795550964.4070625,
+    "ast_hash": "c58c000b2a6526e08d6a7e0323a51a1b",
     "semantic_hash": ""
   },
   "app/api/clips/upload/[id]/part/[n]/route.ts": {
@@ -180,15 +174,15 @@
     "semantic_hash": ""
   },
   "app/api/clips/upload/[id]/thumb/route.ts": {
-    "mtime": 1795545788.3403943,
-    "seen": 1795546518.378916,
-    "ast_hash": "3bb6f37bf29db1a70f5a587c0c256b8d",
+    "mtime": 1795550878.8442743,
+    "seen": 1795550964.4070687,
+    "ast_hash": "91a40acc71cd59defe4f0cb7ba7e6f45",
     "semantic_hash": ""
   },
   "app/api/clips/upload/route.ts": {
-    "mtime": 1795545788.056287,
-    "seen": 1795546518.378918,
-    "ast_hash": "1e1793e8a9dad7a6808ec2860f3098f2",
+    "mtime": 1795550878.8442743,
+    "seen": 1795550964.4070702,
+    "ast_hash": "f01cebbbb3a4397d73fdae8085cc8ea8",
     "semantic_hash": ""
   },
   "app/manifest.ts": {
@@ -204,9 +198,9 @@
     "semantic_hash": ""
   },
   "app/sitemap.ts": {
-    "mtime": 1795454684.0063317,
-    "seen": 1795470023.0818362,
-    "ast_hash": "abd5fed9a18615443c506d0a81a7f450",
+    "mtime": 1795550882.3367813,
+    "seen": 1795550964.4070745,
+    "ast_hash": "c7cd309c21d1a43194c7e1dc104477c9",
     "semantic_hash": ""
   },
   "cloudflare-env.d.ts": {
@@ -659,24 +653,6 @@
     "ast_hash": "38e8bbde944e22332ea72cbdde782444",
     "semantic_hash": ""
   },
-  "components/winners/FaqList.tsx": {
-    "mtime": 1795455092.2213874,
-    "seen": 1795470023.0819228,
-    "ast_hash": "76262c49ef04ef2c9fca4c2b61157bb1",
-    "semantic_hash": ""
-  },
-  "components/winners/GiveawayCard.tsx": {
-    "mtime": 1795455092.1568835,
-    "seen": 1795470023.0819237,
-    "ast_hash": "462860160d0228ced1f7c038b0bc68a3",
-    "semantic_hash": ""
-  },
-  "components/winners/WinnersComingSoon.tsx": {
-    "mtime": 1795455092.2775257,
-    "seen": 1795470023.0819252,
-    "ast_hash": "f77a072443ece9af5e3037c85aa4ef51",
-    "semantic_hash": ""
-  },
   "dictionaries/ar/admin.json": {
     "mtime": 1795455906.0957482,
     "seen": 1795470023.081926,
@@ -696,9 +672,9 @@
     "semantic_hash": ""
   },
   "dictionaries/ar/common.json": {
-    "mtime": 1795456015.7975194,
-    "seen": 1795470023.0819294,
-    "ast_hash": "e43cb5c0c221fdfc4212ae8cdc66d08e",
+    "mtime": 1795550882.632667,
+    "seen": 1795550964.4071882,
+    "ast_hash": "0aca86df9a212b4af65f15366ca4b85a",
     "semantic_hash": ""
   },
   "dictionaries/ar/community.json": {
@@ -726,9 +702,9 @@
     "semantic_hash": ""
   },
   "dictionaries/ar/index.ts": {
-    "mtime": 1795454322.396006,
-    "seen": 1795470023.0819352,
-    "ast_hash": "f28d02d786944e66feed5af765238bde",
+    "mtime": 1795550880.144803,
+    "seen": 1795550964.4071953,
+    "ast_hash": "c221fcd44623db1779856c109bc60c1f",
     "semantic_hash": ""
   },
   "dictionaries/ar/join.json": {
@@ -755,12 +731,6 @@
     "ast_hash": "a82602a2a4d8e87584906eebedb4f19e",
     "semantic_hash": ""
   },
-  "dictionaries/ar/winners.json": {
-    "mtime": 1795456126.8435147,
-    "seen": 1795470023.0819407,
-    "ast_hash": "6816851cb79482f7a39f1ea01305ce79",
-    "semantic_hash": ""
-  },
   "dictionaries/de/admin.json": {
     "mtime": 1795455912.6843498,
     "seen": 1795470023.081942,
@@ -780,9 +750,9 @@
     "semantic_hash": ""
   },
   "dictionaries/de/common.json": {
-    "mtime": 1795456125.6832447,
-    "seen": 1795470023.0819454,
-    "ast_hash": "29b70fd03aee1375bfa51ab1ea15fff0",
+    "mtime": 1795550882.6341715,
+    "seen": 1795550964.407207,
+    "ast_hash": "68ac72aad20c167d831fd8d18726de06",
     "semantic_hash": ""
   },
   "dictionaries/de/community.json": {
@@ -810,9 +780,9 @@
     "semantic_hash": ""
   },
   "dictionaries/de/index.ts": {
-    "mtime": 1795454322.4034898,
-    "seen": 1795470023.0819507,
-    "ast_hash": "d2488fa200a553edaecc6aa78d106b91",
+    "mtime": 1795550880.3759818,
+    "seen": 1795550964.4072142,
+    "ast_hash": "47394cec8c9beafe3217a8c84b0e17c7",
     "semantic_hash": ""
   },
   "dictionaries/de/join.json": {
@@ -839,12 +809,6 @@
     "ast_hash": "937875891a7c7eb24bc4297bc3675190",
     "semantic_hash": ""
   },
-  "dictionaries/de/winners.json": {
-    "mtime": 1795456319.2129068,
-    "seen": 1795470023.0819566,
-    "ast_hash": "7918f536f65d04a4a9cf049752a9baa0",
-    "semantic_hash": ""
-  },
   "dictionaries/en/admin.json": {
     "mtime": 1795455404.6341097,
     "seen": 1795470023.0819576,
@@ -864,9 +828,9 @@
     "semantic_hash": ""
   },
   "dictionaries/en/common.json": {
-    "mtime": 1795454917.8902438,
-    "seen": 1795470023.081961,
-    "ast_hash": "521ca0283ae351c103b0540664acf900",
+    "mtime": 1795550882.635685,
+    "seen": 1795550964.4072256,
+    "ast_hash": "f7acfa610a5e782b6e017cc178ea0865",
     "semantic_hash": ""
   },
   "dictionaries/en/community.json": {
@@ -894,9 +858,9 @@
     "semantic_hash": ""
   },
   "dictionaries/en/index.ts": {
-    "mtime": 1795454322.389712,
-    "seen": 1795470023.0819666,
-    "ast_hash": "27b62b7fa489d9fed2ea648946b5426e",
+    "mtime": 1795550880.6473062,
+    "seen": 1795550964.4072328,
+    "ast_hash": "83c803ae97f62030189c4b9033ef1c88",
     "semantic_hash": ""
   },
   "dictionaries/en/join.json": {
@@ -923,12 +887,6 @@
     "ast_hash": "1f675a3227c0c2d9041c7d6eb24ff63d",
     "semantic_hash": ""
   },
-  "dictionaries/en/winners.json": {
-    "mtime": 1795455126.6581223,
-    "seen": 1795470023.0819721,
-    "ast_hash": "dd45c774b8adfb3abb57768f3f7cff83",
-    "semantic_hash": ""
-  },
   "dictionaries/es/admin.json": {
     "mtime": 1795455931.1235068,
     "seen": 1795470023.0819733,
@@ -948,9 +906,9 @@
     "semantic_hash": ""
   },
   "dictionaries/es/common.json": {
-    "mtime": 1795455983.6330323,
-    "seen": 1795470023.0819767,
-    "ast_hash": "6512a0f2b86d8d3497c9a72874b6e476",
+    "mtime": 1795550882.635685,
+    "seen": 1795550964.4072442,
+    "ast_hash": "8c4dfa0f2d7cccb2894a58f9ed2e94df",
     "semantic_hash": ""
   },
   "dictionaries/es/community.json": {
@@ -978,9 +936,9 @@
     "semantic_hash": ""
   },
   "dictionaries/es/index.ts": {
-    "mtime": 1795454322.4238346,
-    "seen": 1795470023.0819821,
-    "ast_hash": "428c09a737bb249a2bf429a321b8589e",
+    "mtime": 1795550880.8781638,
+    "seen": 1795550964.4072514,
+    "ast_hash": "3526654bc2da401b0264230c9e1f4cae",
     "semantic_hash": ""
   },
   "dictionaries/es/join.json": {
@@ -1007,12 +965,6 @@
     "ast_hash": "81d683169e55a861a7a198d9d1a8f9e0",
     "semantic_hash": ""
   },
-  "dictionaries/es/winners.json": {
-    "mtime": 1795456027.0865178,
-    "seen": 1795470023.081991,
-    "ast_hash": "608bda29ec3b45e474bfb7b9e991d91c",
-    "semantic_hash": ""
-  },
   "dictionaries/fr/admin.json": {
     "mtime": 1795456311.834676,
     "seen": 1795470023.0819921,
@@ -1032,9 +984,9 @@
     "semantic_hash": ""
   },
   "dictionaries/fr/common.json": {
-    "mtime": 1795456311.8371432,
-    "seen": 1795470023.081997,
-    "ast_hash": "898d0032d01c318fc5321ce782a8e809",
+    "mtime": 1795550882.6366954,
+    "seen": 1795550964.4072626,
+    "ast_hash": "cb4405eb48e0a41dda96f030007a98a7",
     "semantic_hash": ""
   },
   "dictionaries/fr/community.json": {
@@ -1062,9 +1014,9 @@
     "semantic_hash": ""
   },
   "dictionaries/fr/index.ts": {
-    "mtime": 1795454322.4306407,
-    "seen": 1795470023.0820024,
-    "ast_hash": "05936cea7b07e06cc32f4da1baf0e0a9",
+    "mtime": 1795550881.1220703,
+    "seen": 1795550964.4072695,
+    "ast_hash": "5fa6531620ec07a56063679f11c38a67",
     "semantic_hash": ""
   },
   "dictionaries/fr/join.json": {
@@ -1091,12 +1043,6 @@
     "ast_hash": "7bd7f1a297b4809824a05e7733b9e873",
     "semantic_hash": ""
   },
-  "dictionaries/fr/winners.json": {
-    "mtime": 1795456311.843634,
-    "seen": 1795470023.0820081,
-    "ast_hash": "cb4d39eea4fe33684ca84edc222b5bc3",
-    "semantic_hash": ""
-  },
   "dictionaries/ja/admin.json": {
     "mtime": 1795456070.2884612,
     "seen": 1795470023.082009,
@@ -1116,9 +1062,9 @@
     "semantic_hash": ""
   },
   "dictionaries/ja/common.json": {
-    "mtime": 1795456070.6733172,
-    "seen": 1795470023.0820124,
-    "ast_hash": "e2894a488a415a79e313f6a8e996ea81",
+    "mtime": 1795550882.6366954,
+    "seen": 1795550964.4072804,
+    "ast_hash": "96ace6a0f5d4c42cf36b4180a57472c4",
     "semantic_hash": ""
   },
   "dictionaries/ja/community.json": {
@@ -1146,9 +1092,9 @@
     "semantic_hash": ""
   },
   "dictionaries/ja/index.ts": {
-    "mtime": 1795454322.436576,
-    "seen": 1795470023.0820181,
-    "ast_hash": "9b3410e426f2d4b95d3962cd5cdb418b",
+    "mtime": 1795550881.3508987,
+    "seen": 1795550964.4072876,
+    "ast_hash": "a8fa0dd59e9b3af21ed7aa88e15508c3",
     "semantic_hash": ""
   },
   "dictionaries/ja/join.json": {
@@ -1175,12 +1121,6 @@
     "ast_hash": "38766b3781581cc43adae0dd8243e460",
     "semantic_hash": ""
   },
-  "dictionaries/ja/winners.json": {
-    "mtime": 1795456075.8910604,
-    "seen": 1795470023.0820236,
-    "ast_hash": "7cc9a325de759e3b9bd5a05b231594c3",
-    "semantic_hash": ""
-  },
   "dictionaries/ru/admin.json": {
     "mtime": 1795456163.0612845,
     "seen": 1795470023.0820248,
@@ -1200,9 +1140,9 @@
     "semantic_hash": ""
   },
   "dictionaries/ru/common.json": {
-    "mtime": 1795456229.9288468,
-    "seen": 1795470023.0820284,
-    "ast_hash": "e45ade7cf94d771cd54af08fb1c56594",
+    "mtime": 1795550882.6382,
+    "seen": 1795550964.4072988,
+    "ast_hash": "1eb3cff78491b6a9fb88ae16aa7172a6",
     "semantic_hash": ""
   },
   "dictionaries/ru/community.json": {
@@ -1230,9 +1170,9 @@
     "semantic_hash": ""
   },
   "dictionaries/ru/index.ts": {
-    "mtime": 1795454322.4101667,
-    "seen": 1795470023.0820336,
-    "ast_hash": "7c698aceec120765ae8f3401441abe95",
+    "mtime": 1795550881.5879567,
+    "seen": 1795550964.4073057,
+    "ast_hash": "9df39d79120d1375a8cd6a2a053c1a01",
     "semantic_hash": ""
   },
   "dictionaries/ru/join.json": {
@@ -1259,12 +1199,6 @@
     "ast_hash": "00d53f37bfb7f877f60baab4b8192c85",
     "semantic_hash": ""
   },
-  "dictionaries/ru/winners.json": {
-    "mtime": 1795456196.1747537,
-    "seen": 1795470023.0820394,
-    "ast_hash": "9953821b0741833ef7972b3f75bca77b",
-    "semantic_hash": ""
-  },
   "dictionaries/zh-CN/admin.json": {
     "mtime": 1795456226.8738005,
     "seen": 1795470023.0820403,
@@ -1284,9 +1218,9 @@
     "semantic_hash": ""
   },
   "dictionaries/zh-CN/common.json": {
-    "mtime": 1795456227.277825,
-    "seen": 1795470023.0820436,
-    "ast_hash": "2d895feaeec594b0c25c33880ba02a8d",
+    "mtime": 1795550882.6382,
+    "seen": 1795550964.407317,
+    "ast_hash": "ed74c88e9b46dee04f6df18655458fce",
     "semantic_hash": ""
   },
   "dictionaries/zh-CN/community.json": {
@@ -1314,9 +1248,9 @@
     "semantic_hash": ""
   },
   "dictionaries/zh-CN/index.ts": {
-    "mtime": 1795454322.4173312,
-    "seen": 1795470023.0820496,
-    "ast_hash": "e4ba9b6301304fa46df447568664e16e",
+    "mtime": 1795550881.8633237,
+    "seen": 1795550964.4073243,
+    "ast_hash": "bdb7824b02104fef95b96a68ad492ac4",
     "semantic_hash": ""
   },
   "dictionaries/zh-CN/join.json": {
@@ -1341,12 +1275,6 @@
     "mtime": 1795456228.4992585,
     "seen": 1795470023.082054,
     "ast_hash": "526ff27789661005d33d16e86965a6ef",
-    "semantic_hash": ""
-  },
-  "dictionaries/zh-CN/winners.json": {
-    "mtime": 1795456228.6297917,
-    "seen": 1795470023.0820549,
-    "ast_hash": "e18ae90a57d2b1e5d4a51dae58b7e72d",
     "semantic_hash": ""
   },
   "drizzle.config.ts": {
@@ -1410,9 +1338,9 @@
     "semantic_hash": ""
   },
   "lib/clips/server.ts": {
-    "mtime": 1795545787.8692243,
-    "seen": 1795546518.379266,
-    "ast_hash": "5bbefeb01685a7873fb94944a1a722d8",
+    "mtime": 1795550878.8546226,
+    "seen": 1795550964.4073458,
+    "ast_hash": "a8c16c6c999c715c327e4b123689dd22",
     "semantic_hash": ""
   },
   "lib/community.ts": {
@@ -1443,12 +1371,6 @@
     "mtime": 1795454963.9207845,
     "seen": 1795470023.0820727,
     "ast_hash": "b0b188d7c8e9b65ea6eb882e749446b1",
-    "semantic_hash": ""
-  },
-  "lib/giveaways.ts": {
-    "mtime": 1795455373.3773377,
-    "seen": 1795470023.0820742,
-    "ast_hash": "5cce50e0339b91afaaa9d207686716ad",
     "semantic_hash": ""
   },
   "lib/gsap.ts": {
@@ -1482,9 +1404,9 @@
     "semantic_hash": ""
   },
   "lib/site.ts": {
-    "mtime": 1795454977.2451677,
-    "seen": 1795470023.082081,
-    "ast_hash": "f11ac1f6f7fc1788fbe929b082f13338",
+    "mtime": 1795550882.097935,
+    "seen": 1795550964.4073617,
+    "ast_hash": "8f8737d9d75d21f85324ef25295093fa",
     "semantic_hash": ""
   },
   "lib/teams/actions.ts": {
@@ -1542,8 +1464,8 @@
     "semantic_hash": ""
   },
   "next.config.ts": {
-    "mtime": 1795545821.820637,
-    "seen": 1795546518.3793004,
+    "mtime": 1795550878.855628,
+    "seen": 1795550964.407378,
     "ast_hash": "b3540c6a75e1ca8908c9023c0bcb6d9b",
     "semantic_hash": ""
   },
@@ -1554,9 +1476,9 @@
     "semantic_hash": ""
   },
   "package.json": {
-    "mtime": 1795545814.7819016,
-    "seen": 1795546518.3793032,
-    "ast_hash": "811830981efc507ee2d731125ef97d15",
+    "mtime": 1795550878.8591473,
+    "seen": 1795550964.4073808,
+    "ast_hash": "fdd857f76b59d0dc64fbf131b024b5be",
     "semantic_hash": ""
   },
   "postcss.config.mjs": {
@@ -1686,15 +1608,15 @@
     "semantic_hash": ""
   },
   "scripts/strip-build-secrets.mjs": {
-    "mtime": 1795545812.480069,
-    "seen": 1795546518.37931,
-    "ast_hash": "02c5fb2117377c72b017f7cdd960d3b0",
+    "mtime": 1795550878.8591473,
+    "seen": 1795550964.4073868,
+    "ast_hash": "36aac830061485263d4424f4eca373a6",
     "semantic_hash": ""
   },
   "package-lock.json": {
-    "mtime": 1795545838.0571234,
-    "seen": 1795546518.3793373,
-    "ast_hash": "edc334d1b73144a3ded1338a9fd907ac",
+    "mtime": 1795550878.8586442,
+    "seen": 1795550964.4074132,
+    "ast_hash": "a5d1d14a923b725d15f397dc01833ae7",
     "semantic_hash": ""
   }
 }

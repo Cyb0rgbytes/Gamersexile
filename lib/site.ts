@@ -54,7 +54,6 @@ export const NAV = [
   { key: "clips", href: "/clips", jp: "名場面", bar: true },
   { key: "community", href: "/community", jp: "仲間", bar: true },
   { key: "leaderboard", href: "/leaderboard", jp: "番付", bar: false },
-  { key: "winners", href: "/winners", jp: "当選者", bar: false },
   { key: "creators", href: "/creators", jp: "配信者", bar: false },
   { key: "join", href: "/join", jp: "入隊", bar: false },
 ] as const;

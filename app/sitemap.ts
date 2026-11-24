@@ -16,7 +16,6 @@ const PAGES: { path: string; freq: "daily" | "weekly" | "monthly"; priority: num
   { path: "/teams", freq: "daily", priority: 0.8 },
   { path: "/clips", freq: "daily", priority: 0.8 },
   { path: "/leaderboard", freq: "daily", priority: 0.7 },
-  { path: "/winners", freq: "weekly", priority: 0.8 },
   { path: "/creators", freq: "monthly", priority: 0.7 },
   { path: "/community", freq: "monthly", priority: 0.7 },
   { path: "/join", freq: "monthly", priority: 0.8 },
