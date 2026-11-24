@@ -53,7 +53,9 @@
     "faq": "常见问题",
     "getInTouch": "联系我们",
     "contactLead": "合作、媒体或比赛相关咨询。",
-    "rights": "© {year} {name}。保留所有权利。"
+    "rights": "© {year} {name}。保留所有权利。",
+    "privacy": "隐私与 Cookie",
+    "terms": "条款与退款"
   },
   "beacon": {
     "label": "加入 Discord",

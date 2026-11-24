@@ -53,7 +53,9 @@
     "faq": "よくある質問",
     "getInTouch": "お問い合わせ",
     "contactLead": "提携、取材、大会に関するお問い合わせはこちら。",
-    "rights": "© {year} {name}. All rights reserved."
+    "rights": "© {year} {name}. All rights reserved.",
+    "privacy": "プライバシーとCookie",
+    "terms": "利用規約と返金"
   },
   "beacon": {
     "label": "Discordに参加",
