@@ -28,3 +28,6 @@ graphify-out/cache/
 graphify-out/graph.html
 graphify-out/.graphify_*
 *.graphify-bak
+
+# Security audit report: kept local, the repo is public
+SECURITY-AUDIT.md

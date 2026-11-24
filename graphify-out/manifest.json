@@ -1,7 +1,7 @@
 {
   ".claude/settings.json": {
-    "mtime": 1795470008.8068514,
-    "seen": 1795470023.0817876,
+    "mtime": 1795475412.1728978,
+    "seen": 1795546518.3788571,
     "ast_hash": "a4e84a1bf1cb454be4a9616a8a42dbac",
     "semantic_hash": ""
   },
@@ -162,9 +162,9 @@
     "semantic_hash": ""
   },
   "app/api/clips/upload/[id]/complete/route.ts": {
-    "mtime": 1795455105.8771799,
-    "seen": 1795470023.081828,
-    "ast_hash": "0cfa4c2050859b9c08f6c1de9c9fda32",
+    "mtime": 1795545798.553046,
+    "seen": 1795546518.3789108,
+    "ast_hash": "4ad448409c258bccaaa423494c2bb493",
     "semantic_hash": ""
   },
   "app/api/clips/upload/[id]/part/[n]/route.ts": {
@@ -180,15 +180,15 @@
     "semantic_hash": ""
   },
   "app/api/clips/upload/[id]/thumb/route.ts": {
-    "mtime": 1795455095.4649537,
-    "seen": 1795470023.0818317,
-    "ast_hash": "a72d97d6945834fd55527ba6af408abd",
+    "mtime": 1795545788.3403943,
+    "seen": 1795546518.378916,
+    "ast_hash": "3bb6f37bf29db1a70f5a587c0c256b8d",
     "semantic_hash": ""
   },
   "app/api/clips/upload/route.ts": {
-    "mtime": 1795455095.197191,
-    "seen": 1795470023.0818326,
-    "ast_hash": "7105c98b883e01c0cb5da4c0e6d5d0e0",
+    "mtime": 1795545788.056287,
+    "seen": 1795546518.378918,
+    "ast_hash": "1e1793e8a9dad7a6808ec2860f3098f2",
     "semantic_hash": ""
   },
   "app/manifest.ts": {
@@ -1410,9 +1410,9 @@
     "semantic_hash": ""
   },
   "lib/clips/server.ts": {
-    "mtime": 1795455063.6101873,
-    "seen": 1795470023.0820673,
-    "ast_hash": "8084c6ca02926d6d826deaaf43b3c75a",
+    "mtime": 1795545787.8692243,
+    "seen": 1795546518.379266,
+    "ast_hash": "5bbefeb01685a7873fb94944a1a722d8",
     "semantic_hash": ""
   },
   "lib/community.ts": {
@@ -1542,9 +1542,9 @@
     "semantic_hash": ""
   },
   "next.config.ts": {
-    "mtime": 1795454560.6369698,
-    "seen": 1795470023.0820923,
-    "ast_hash": "00890f7357a33c04ffb3a29d52f7ce87",
+    "mtime": 1795545821.820637,
+    "seen": 1795546518.3793004,
+    "ast_hash": "b3540c6a75e1ca8908c9023c0bcb6d9b",
     "semantic_hash": ""
   },
   "open-next.config.ts": {
@@ -1554,9 +1554,9 @@
     "semantic_hash": ""
   },
   "package.json": {
-    "mtime": 1795454560.6625676,
-    "seen": 1795470023.0820947,
-    "ast_hash": "8a3d00059578a8b87131bd35ef8a32be",
+    "mtime": 1795545814.7819016,
+    "seen": 1795546518.3793032,
+    "ast_hash": "811830981efc507ee2d731125ef97d15",
     "semantic_hash": ""
   },
   "postcss.config.mjs": {
@@ -1602,9 +1602,9 @@
     "semantic_hash": ""
   },
   "CLAUDE.md": {
-    "mtime": 1795470008.8013246,
-    "seen": 1795470023.0821037,
-    "ast_hash": "2819b6803a8d1052e5f0686164f7590c",
+    "mtime": 1795475412.1894982,
+    "seen": 1795546518.379318,
+    "ast_hash": "866fe3b58ce3516c13a0fddf9066b011",
     "semantic_hash": ""
   },
   "README.md": {
@@ -1685,10 +1685,16 @@
     "ast_hash": "58c14cfe608e1302a82377efaf645c65",
     "semantic_hash": ""
   },
+  "scripts/strip-build-secrets.mjs": {
+    "mtime": 1795545812.480069,
+    "seen": 1795546518.37931,
+    "ast_hash": "02c5fb2117377c72b017f7cdd960d3b0",
+    "semantic_hash": ""
+  },
   "package-lock.json": {
-    "mtime": 1795454177.0856488,
-    "seen": 1795470023.0821185,
-    "ast_hash": "797925d20c09f6d01dd2b84e2b794d0f",
+    "mtime": 1795545838.0571234,
+    "seen": 1795546518.3793373,
+    "ast_hash": "edc334d1b73144a3ded1338a9fd907ac",
     "semantic_hash": ""
   }
 }
