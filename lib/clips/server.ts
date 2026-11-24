@@ -29,8 +29,15 @@ export const isClipId = (v: unknown): v is string => typeof v === "string" && CL
 
 export const videoKeyFor = (id: string, ext: string) => `clips/${id}/video.${ext}`;
 export const thumbKeyFor = (id: string, ext: string) => `clips/${id}/thumb.${ext}`;
-/** Pending-upload record, deleted when the upload completes or is aborted. */
-const pendingKey = (id: string) => `uploads/${id}.json`;
+
+/* Everything an unfinished upload owns lives under uploads/<userId>/, so
+ *  - a user's open uploads can be counted with one prefix list (quota), and
+ *  - an R2 lifecycle rule on the "uploads/" prefix (expire after 1 day)
+ *    removes whatever an abandoned upload left behind.
+ * The poster only moves to clips/<id>/ when the upload completes. */
+const pendingPrefix = (userId: string) => `uploads/${userId}/`;
+const pendingKey = (userId: string, id: string) => `${pendingPrefix(userId)}${id}.json`;
+export const pendingThumbKey = (userId: string, id: string, ext: string) => `${pendingPrefix(userId)}${id}.thumb.${ext}`;
 
 /* ── Errors ───────────────────────────────────────────────────────────── */
 
@@ -65,13 +72,29 @@ export function errorResponse(err: unknown): Response {
 
 /* ── Rate limit ───────────────────────────────────────────────────────── */
 
-export async function assertUploadQuota(userId: string): Promise<void> {
+/** Unfinished uploads this user opened in the last day. */
+async function countPending(userId: string): Promise<number> {
+  const bucket = await getClipsBucket();
+  const since = Date.now() - 86_400_000;
+  const list = await bucket.list({ prefix: pendingPrefix(userId), limit: 1000 });
+  return list.objects.filter((o) => o.key.endsWith(".json") && o.uploaded.getTime() >= since).length;
+}
+
+/**
+ * Daily upload quota. Opening an upload counts the user's published clips AND
+ * their unfinished uploads, so the limit can't be dodged by opening many
+ * uploads and never completing them (each one can hold up to 45 MiB in R2).
+ */
+export async function assertUploadQuota(userId: string, opts: { includePending: boolean }): Promise<void> {
   const db = await getDb();
-  const [row] = await db
-    .select({ n: count() })
-    .from(schema.clips)
-    .where(and(eq(schema.clips.userId, userId), gte(schema.clips.createdAt, nowS() - 86400)));
-  if ((row?.n ?? 0) >= UPLOADS_PER_DAY) throw new ClipError("rate-limited");
+  const [[row], pending] = await Promise.all([
+    db
+      .select({ n: count() })
+      .from(schema.clips)
+      .where(and(eq(schema.clips.userId, userId), gte(schema.clips.createdAt, nowS() - 86400))),
+    opts.includePending ? countPending(userId) : Promise.resolve(0),
+  ]);
+  if ((row?.n ?? 0) + pending >= UPLOADS_PER_DAY) throw new ClipError("rate-limited");
 }
 
 /* ── Magic bytes ──────────────────────────────────────────────────────── */
@@ -146,34 +169,45 @@ export interface PendingUpload {
 
 export async function savePending(p: PendingUpload): Promise<void> {
   const bucket = await getClipsBucket();
-  await bucket.put(pendingKey(p.id), JSON.stringify(p), {
+  await bucket.put(pendingKey(p.userId, p.id), JSON.stringify(p), {
     httpMetadata: { contentType: "application/json" },
   });
 }
 
-/** The caller's pending upload, or a not-found/forbidden error. Pending
- *  uploads older than a day are treated as gone. */
+/** The caller's pending upload, or not-found. The record is looked up under
+ *  the caller's own prefix, so another user's upload id simply doesn't
+ *  exist for them. Pending uploads older than a day are treated as gone. */
 export async function loadPending(id: string, userId: string): Promise<PendingUpload> {
   if (!isClipId(id)) throw new ClipError("not-found");
   const bucket = await getClipsBucket();
-  const obj = await bucket.get(pendingKey(id));
+  const obj = await bucket.get(pendingKey(userId, id));
   if (!obj) throw new ClipError("not-found");
   const p = await obj.json<PendingUpload>();
-  if (p.userId !== userId) throw new ClipError("forbidden");
+  if (p.userId !== userId || p.id !== id) throw new ClipError("not-found");
   if (p.createdAt < nowS() - 86400) throw new ClipError("not-found");
   return p;
 }
 
-export async function dropPending(id: string): Promise<void> {
+/** The upload completed: remove its pending record and pending posters. */
+export async function dropPending(p: PendingUpload): Promise<void> {
   const bucket = await getClipsBucket();
-  await bucket.delete(pendingKey(id));
+  await bucket.delete([
+    pendingKey(p.userId, p.id),
+    pendingThumbKey(p.userId, p.id, "webp"),
+    pendingThumbKey(p.userId, p.id, "jpg"),
+  ]);
 }
 
 /** Abort a pending upload and remove everything it left behind. */
 export async function abortPending(p: PendingUpload): Promise<void> {
   const bucket = await getClipsBucket();
   await bucket.resumeMultipartUpload(p.key, p.uploadId).abort().catch(() => {});
-  await bucket.delete([p.key, thumbKeyFor(p.id, "webp"), thumbKeyFor(p.id, "jpg"), pendingKey(p.id)]);
+  await bucket.delete([
+    p.key,
+    pendingKey(p.userId, p.id),
+    pendingThumbKey(p.userId, p.id, "webp"),
+    pendingThumbKey(p.userId, p.id, "jpg"),
+  ]);
 }
 
 /* ── Deleting a clip ──────────────────────────────────────────────────── */
